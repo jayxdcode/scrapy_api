@@ -1,0 +1,38 @@
+name: Scrape Articles and Create Markdown
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # Runs at 00:00 and 12:00 PST (Philippine Standard Time)
+  workflow_dispatch: # Allows manual trigger of the workflow
+
+jobs:
+  scrape-and-create:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      # Run the scraping and markdown creation process
+      - name: Run scrape.py
+        run: |
+          python scrape.py
+
+      # Upload the generated files as artifacts (optional)
+      - name: Upload generated articles
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraped-articles
+          path: articles/
