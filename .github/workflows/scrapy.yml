@@ -26,9 +26,9 @@ jobs:
           pip install requests beautifulsoup4
 
       # Run the scraping and markdown creation process
-      - name: Run scrape.py
+      - name: Run python scripts
         run: |
-          python scrape.py
+          python scrape.py createMD.py
 
       # Upload the generated files as artifacts (optional)
       - name: Upload generated articles
