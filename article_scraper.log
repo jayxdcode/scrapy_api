@@ -129,3 +129,43 @@
 2024-12-11 14:59:54,469 - INFO - Successfully fetched article: https://opinion.inquirer.net/178777/it-starts-with-reading
 2024-12-11 14:59:54,625 - INFO - Saved article to file: 20241201_It_starts_with_reading.md
 2024-12-11 14:59:54,626 - INFO - Article scraping completed.
+2024-12-12 00:23:17,197 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:17,408 - DEBUG - https://opinion.inquirer.net:443 "GET /category/editorial HTTP/11" 200 None
+2024-12-12 00:23:17,747 - INFO - Loaded articles JSON file successfully.
+2024-12-12 00:23:17,747 - INFO - Output directory 'articles' created/exists.
+2024-12-12 00:23:17,747 - INFO - Processing article:  (URL: https://opinion.inquirer.net/179048/unforgivable-waste-of-public-funds)
+2024-12-12 00:23:17,749 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:17,926 - DEBUG - https://opinion.inquirer.net:443 "GET /179048/unforgivable-waste-of-public-funds HTTP/11" 200 None
+2024-12-12 00:23:17,941 - INFO - Successfully fetched article: https://opinion.inquirer.net/179048/unforgivable-waste-of-public-funds
+2024-12-12 00:23:17,989 - INFO - Saved article to file: 20241211_Unforgivable_waste_of_public_funds.md
+2024-12-12 00:23:17,989 - INFO - Processing article:  (URL: https://opinion.inquirer.net/179019/to-impeach-or-not-to-impeach)
+2024-12-12 00:23:17,990 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:18,174 - DEBUG - https://opinion.inquirer.net:443 "GET /179019/to-impeach-or-not-to-impeach HTTP/11" 200 None
+2024-12-12 00:23:18,190 - INFO - Successfully fetched article: https://opinion.inquirer.net/179019/to-impeach-or-not-to-impeach
+2024-12-12 00:23:18,237 - INFO - Saved article to file: 20241210_To_impeach_or_not_to_impeach.md
+2024-12-12 00:23:18,237 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178972/exiting-fatfs-gray-list)
+2024-12-12 00:23:18,239 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:18,952 - DEBUG - https://opinion.inquirer.net:443 "GET /178972/exiting-fatfs-gray-list HTTP/11" 200 None
+2024-12-12 00:23:19,537 - INFO - Successfully fetched article: https://opinion.inquirer.net/178972/exiting-fatfs-gray-list
+2024-12-12 00:23:19,582 - INFO - Saved article to file: 20241209_Exiting_FATF’s_‘gray_list’.md
+2024-12-12 00:23:19,582 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178955/new-trafficking-scheme)
+2024-12-12 00:23:19,584 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:19,769 - DEBUG - https://opinion.inquirer.net:443 "GET /178955/new-trafficking-scheme HTTP/11" 200 None
+2024-12-12 00:23:19,780 - INFO - Successfully fetched article: https://opinion.inquirer.net/178955/new-trafficking-scheme
+2024-12-12 00:23:19,826 - INFO - Saved article to file: 20241208_New_trafficking_scheme.md
+2024-12-12 00:23:19,826 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178849/keeping-gen-zs-at-work)
+2024-12-12 00:23:19,827 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:20,100 - DEBUG - https://opinion.inquirer.net:443 "GET /178849/keeping-gen-zs-at-work HTTP/11" 200 None
+2024-12-12 00:23:20,283 - INFO - Successfully fetched article: https://opinion.inquirer.net/178849/keeping-gen-zs-at-work
+2024-12-12 00:23:20,330 - INFO - Saved article to file: 20241204_Keeping_Gen_Zs_at_work.md
+2024-12-12 00:23:20,330 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178818/heed-the-clamor-for-open-bicam)
+2024-12-12 00:23:20,331 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:20,516 - DEBUG - https://opinion.inquirer.net:443 "GET /178818/heed-the-clamor-for-open-bicam HTTP/11" 200 None
+2024-12-12 00:23:20,524 - INFO - Successfully fetched article: https://opinion.inquirer.net/178818/heed-the-clamor-for-open-bicam
+2024-12-12 00:23:20,578 - INFO - Saved article to file: 20241203_Heed_the_clamor_for_open_bicam.md
+2024-12-12 00:23:20,578 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178789/risk-of-complacency)
+2024-12-12 00:23:20,579 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 00:23:20,756 - DEBUG - https://opinion.inquirer.net:443 "GET /178789/risk-of-complacency HTTP/11" 200 None
+2024-12-12 00:23:20,766 - INFO - Successfully fetched article: https://opinion.inquirer.net/178789/risk-of-complacency
+2024-12-12 00:23:20,812 - INFO - Saved article to file: 20241202_Risk_of_complacency.md
+2024-12-12 00:23:20,812 - INFO - Article scraping completed.
