@@ -43,10 +43,3 @@ jobs:
           git add *
           git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a)')"
           git push
-
-      # Upload the generated files as artifacts (optional)
-      - name: Upload generated articles
-        uses: actions/upload-artifact@v3
-        with:
-          name: scraped-articles
-          path: articles/
