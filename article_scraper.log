@@ -224,3 +224,58 @@
 2024-12-12 01:53:34,590 - INFO - Successfully fetched article: https://opinion.inquirer.net/178789/risk-of-complacency
 2024-12-12 01:53:34,637 - INFO - Saved article to file: 20241202_Risk_of_complacency.md
 2024-12-12 01:53:34,637 - INFO - Article scraping completed.
+2024-12-12 12:48:56,141 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:56,495 - DEBUG - https://opinion.inquirer.net:443 "GET /category/editorial HTTP/11" 200 None
+2024-12-12 12:48:56,816 - INFO - Loaded articles JSON file successfully.
+2024-12-12 12:48:56,816 - INFO - Output directory 'articles' created/exists.
+2024-12-12 12:48:56,816 - INFO - Processing article:  (URL: https://opinion.inquirer.net/179091/roque-arrest-serves-ends-of-justice)
+2024-12-12 12:48:56,818 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:57,089 - DEBUG - https://opinion.inquirer.net:443 "GET /179091/roque-arrest-serves-ends-of-justice HTTP/11" 200 None
+2024-12-12 12:48:57,100 - INFO - Successfully fetched article: https://opinion.inquirer.net/179091/roque-arrest-serves-ends-of-justice
+2024-12-12 12:48:57,150 - INFO - Saved article to file: 20241212_Roque_arrest_serves_ends_of_justice.md
+2024-12-12 12:48:57,150 - INFO - Processing article:  (URL: https://opinion.inquirer.net/179048/unforgivable-waste-of-public-funds)
+2024-12-12 12:48:57,151 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:57,513 - DEBUG - https://opinion.inquirer.net:443 "GET /179048/unforgivable-waste-of-public-funds HTTP/11" 200 None
+2024-12-12 12:48:57,607 - INFO - Successfully fetched article: https://opinion.inquirer.net/179048/unforgivable-waste-of-public-funds
+2024-12-12 12:48:57,655 - INFO - Saved article to file: 20241211_Unforgivable_waste_of_public_funds.md
+2024-12-12 12:48:57,655 - INFO - Processing article:  (URL: https://opinion.inquirer.net/179019/to-impeach-or-not-to-impeach)
+2024-12-12 12:48:57,657 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:57,912 - DEBUG - https://opinion.inquirer.net:443 "GET /179019/to-impeach-or-not-to-impeach HTTP/11" 200 None
+2024-12-12 12:48:57,925 - INFO - Successfully fetched article: https://opinion.inquirer.net/179019/to-impeach-or-not-to-impeach
+2024-12-12 12:48:57,977 - INFO - Saved article to file: 20241210_To_impeach_or_not_to_impeach.md
+2024-12-12 12:48:57,977 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178972/exiting-fatfs-gray-list)
+2024-12-12 12:48:57,978 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:58,259 - DEBUG - https://opinion.inquirer.net:443 "GET /178972/exiting-fatfs-gray-list HTTP/11" 200 None
+2024-12-12 12:48:58,272 - INFO - Successfully fetched article: https://opinion.inquirer.net/178972/exiting-fatfs-gray-list
+2024-12-12 12:48:58,318 - INFO - Saved article to file: 20241209_Exiting_FATF’s_‘gray_list’.md
+2024-12-12 12:48:58,318 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178955/new-trafficking-scheme)
+2024-12-12 12:48:58,320 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:58,570 - DEBUG - https://opinion.inquirer.net:443 "GET /178955/new-trafficking-scheme HTTP/11" 200 None
+2024-12-12 12:48:58,580 - INFO - Successfully fetched article: https://opinion.inquirer.net/178955/new-trafficking-scheme
+2024-12-12 12:48:58,627 - INFO - Saved article to file: 20241208_New_trafficking_scheme.md
+2024-12-12 12:48:58,627 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178909/a-bridge-too-far-and-frail)
+2024-12-12 12:48:58,628 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:58,874 - DEBUG - https://opinion.inquirer.net:443 "GET /178909/a-bridge-too-far-and-frail HTTP/11" 200 None
+2024-12-12 12:48:58,892 - INFO - Successfully fetched article: https://opinion.inquirer.net/178909/a-bridge-too-far-and-frail
+2024-12-12 12:48:58,949 - INFO - Saved article to file: 20241206_A_bridge_too_far—and_frail.md
+2024-12-12 12:48:58,949 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178878/why-meddle-in-a-house-mandate)
+2024-12-12 12:48:58,950 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:59,200 - DEBUG - https://opinion.inquirer.net:443 "GET /178878/why-meddle-in-a-house-mandate HTTP/11" 200 None
+2024-12-12 12:48:59,209 - INFO - Successfully fetched article: https://opinion.inquirer.net/178878/why-meddle-in-a-house-mandate
+2024-12-12 12:48:59,258 - INFO - Saved article to file: 20241205_Why_meddle_in_a_House_mandate?.md
+2024-12-12 12:48:59,258 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178849/keeping-gen-zs-at-work)
+2024-12-12 12:48:59,259 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:48:59,982 - DEBUG - https://opinion.inquirer.net:443 "GET /178849/keeping-gen-zs-at-work HTTP/11" 200 None
+2024-12-12 12:49:00,564 - INFO - Successfully fetched article: https://opinion.inquirer.net/178849/keeping-gen-zs-at-work
+2024-12-12 12:49:00,610 - INFO - Saved article to file: 20241204_Keeping_Gen_Zs_at_work.md
+2024-12-12 12:49:00,610 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178818/heed-the-clamor-for-open-bicam)
+2024-12-12 12:49:00,612 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:49:00,879 - DEBUG - https://opinion.inquirer.net:443 "GET /178818/heed-the-clamor-for-open-bicam HTTP/11" 200 None
+2024-12-12 12:49:00,899 - INFO - Successfully fetched article: https://opinion.inquirer.net/178818/heed-the-clamor-for-open-bicam
+2024-12-12 12:49:00,945 - INFO - Saved article to file: 20241203_Heed_the_clamor_for_open_bicam.md
+2024-12-12 12:49:00,946 - INFO - Processing article:  (URL: https://opinion.inquirer.net/178789/risk-of-complacency)
+2024-12-12 12:49:00,947 - DEBUG - Starting new HTTPS connection (1): opinion.inquirer.net:443
+2024-12-12 12:49:01,191 - DEBUG - https://opinion.inquirer.net:443 "GET /178789/risk-of-complacency HTTP/11" 200 None
+2024-12-12 12:49:01,209 - INFO - Successfully fetched article: https://opinion.inquirer.net/178789/risk-of-complacency
+2024-12-12 12:49:01,256 - INFO - Saved article to file: 20241202_Risk_of_complacency.md
+2024-12-12 12:49:01,256 - INFO - Article scraping completed.
