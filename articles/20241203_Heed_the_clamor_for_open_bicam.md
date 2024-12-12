@@ -1,10 +1,10 @@
 # Heed the clamor for open bicam
 
-***Editorial***
+***EDITORIAL***
 
-****Unknown Author****
+****Philippine Daily Inquirer / 04:40 AM December 03, 2024****
 
-![Image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20620%20620'%3E%3C/svg%3E)
+![Image](https://opinion.inquirer.net/files/2024/12/editorial20241203.png)
 
 
 No content available.

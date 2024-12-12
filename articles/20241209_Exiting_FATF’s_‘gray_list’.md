@@ -1,10 +1,10 @@
 # Exiting FATF’s ‘gray list’
 
-***Editorial***
+***EDITORIAL***
 
-****Unknown Author****
+****Philippine Daily Inquirer / 04:40 AM December 09, 2024****
 
-![Image](https://opinion.inquirer.net/files/2024/12/Exiting-FATFs-%E2%80%98gray-list-620x620.png)
+![Image](https://opinion.inquirer.net/files/2024/12/editorial20241209.png)
 
 
 No content available.

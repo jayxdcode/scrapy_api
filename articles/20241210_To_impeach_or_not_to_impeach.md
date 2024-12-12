@@ -1,10 +1,10 @@
 # To impeach or not to impeach
 
-***Editorial***
+***EDITORIAL***
 
-****Unknown Author****
+****Philippine Daily Inquirer / 04:40 AM December 10, 2024****
 
-![Image](https://opinion.inquirer.net/files/2024/12/To-impeach-or-not-to-impeach-620x620.png)
+![Image](https://opinion.inquirer.net/files/2024/12/editorial20241210.png)
 
 
 No content available.
