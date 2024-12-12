@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 from datetime import datetime
+from downloadFile import save
 
 def now():
 	# Load the article links from the JSON file
@@ -56,12 +57,15 @@ def now():
 
 				# Image URL (featured image)
 				image_url = None
-				
+				image_filename = f'editorial{postdate[4:8] + postdate[:4]}.png'
 				# Manual image link generation (based on format)
-				image_url = f"https://opinion.inquirer.net/files/{int(postdate[:4])}/{int(postdate[4:6])}/editorial{int(postdate)}.png"
+				image_url = f"https://opinion.inquirer.net/files/{postdate[:4]}/{postdate[4:6]}/{image_filename}"
 
 				# Additional debug output to verify
 				print(f"Featured image URL: {image_url}")
+				
+				# Download image (if any)
+				save(image_url, image_filename)
 				
 				# Article Content (the main body of the article)
 				section = soup.find('section', id='inq_section')
@@ -86,7 +90,7 @@ def now():
 				md_content += f"# {entry_title}\n\n"
 				md_content += f"****{authorship}****\n\n"
 				if image_url:
-					md_content += f"![Image]({image_url})\n\n"
+					md_content += f"![Image](images/{image_filename})\n\n"
 				if content:
 					md_content += "\n\n".join(content)
 				else:
