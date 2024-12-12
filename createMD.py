@@ -64,16 +64,26 @@ def now():
 				print(f"Featured image URL: {image_url}")
 				
 				# Article Content (the main body of the article)
+				section = soup.find('section', id='inq_section')
 				content = []
-				for element in soup.find_all(["p", "h2"], recursive=False):
+				for tag in section.find_all(["p", "h2"]):
+					
 					# Ignore certain <p> classes
-					if element.name == "p" and element.get("class") in [["headertext"], ["footertext"]]:
-						continue
-					content.append(element.text.strip())
+					
+					if tag.name == "h2":
+						content.append(f'## {tag.get_text().strip()}')
+					elif tag.name == 'p':
+						paragraph_text = tag.get_text()
+						if "Subscribe to our daily newsletter" in paragraph_text or \
+                   "Subscribe to our newsletter!" in paragraph_text or \
+                   "By providing an email address. I agree to the Terms of Use and acknowledge that I have read the Privacy Policy." in paragraph_text:
+							continue
+							
+						content.append(paragraph_text)
 
 				# Initialize markdown content string
-				md_content = f"# {entry_title}\n\n"
-				md_content += f"***{art_type}***\n\n"
+				md_content = f"**{art_type}**\n\n"
+				md_content += f"# {entry_title}\n\n"
 				md_content += f"****{authorship}****\n\n"
 				if image_url:
 					md_content += f"![Image]({image_url})\n\n"
