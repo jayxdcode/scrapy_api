@@ -4,6 +4,8 @@ import json
 import os
 import logging
 
+print(f' Name: {__name__}')
+
 # Configure logging
 logging.basicConfig(
     filename="article_scraper.log",
