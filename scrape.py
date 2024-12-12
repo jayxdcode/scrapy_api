@@ -65,5 +65,3 @@ if response.status_code == 200:
     print("Scraping completed. Articles saved to 'inq_editorial.json'.")
 else:
     print(f"Failed to fetch the webpage. HTTP Status Code: {response.status_code}")
-
-create.now()
