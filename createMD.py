@@ -55,11 +55,15 @@ def now():
 				if plat_div:
 					authorship = plat_div.text.strip()
 
-				# Image URL (featured image)
-				image_url = None
+				# Image Filename (featured image)
 				image_filename = f'editorial{postdate[4:8] + postdate[:4]}.png'
-				# Manual image link generation (based on format)
-				image_url = f"https://opinion.inquirer.net/files/{postdate[:4]}/{postdate[4:6]}/{image_filename}"
+				
+				if requests.get(image_url, headers=headers).status_code == 200:
+					image_url = f"https://opinion.inquirer.net/files/{postdate[:4]}/{postdate[4:6]}/{image_filename}"
+				
+				else:
+					image_url = None
+					
 
 				# Additional debug output to verify
 				print(f"Featured image URL: {image_url}")
