@@ -33,7 +33,7 @@ if response.status_code == 200:
     for article in articles:
         # Check if the div#ch-cat contains the text "Editorial"
         category_div = article.find("div", id="ch-cat")
-        if category_div and category_div.text.strip() == "Editorial":
+        if category_div:
             # Get the post date
             postdate_span = article.find("div", id="ch-postdate").find("span")
             if not postdate_span:
