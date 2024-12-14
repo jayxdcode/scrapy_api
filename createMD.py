@@ -57,12 +57,11 @@ def now():
 
 				# Image Filename (featured image)
 				image_filename = f'editorial{postdate[4:8] + postdate[:4]}.png'
+
+				image_url = None
 				
 				if requests.get(image_url, headers=headers).status_code == 200:
 					image_url = f"https://opinion.inquirer.net/files/{postdate[:4]}/{postdate[4:6]}/{image_filename}"
-				
-				else:
-					image_url = None
 					
 
 				# Additional debug output to verify
