@@ -27,14 +27,9 @@ jobs:
           pip install requests beautifulsoup4
 
       # Run the scraping and markdown creation process
-      - name: Run scraping scripts
+      - name: Run all scripts
         run: |
           python scrape.py
-
-      # Run the markdown creation process
-      - name: Run MD generation scripts
-        run: |
-          python createMD.py
 
       # Determine run context
       - name: Determine run context
