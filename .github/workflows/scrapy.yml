@@ -41,7 +41,7 @@ jobs:
         run: |
           rm -rf '__pycache__'
 
-      # Determine run number or manual trigger
+      # Determine run context
       - name: Determine run context
         id: run_context
         run: |
@@ -49,17 +49,20 @@ jobs:
             echo "run_context=Manual Trigger" >> $GITHUB_ENV
           else
             current_hour=$(date +'%H')
-            if [ "$current_hour" -eq 8 ]; then
-              echo "run_context=Run 1/2" >> $GITHUB_ENV
+            if [ "$current_hour" -ge 8 ] && [ "$current_hour" -lt 9 ]; then
+              echo "run_context=First Run" >> $GITHUB_ENV
+            elif [ "$current_hour" -ge 20 ] && [ "$current_hour" -lt 21 ]; then
+              echo "run_context=Second Run" >> $GITHUB_ENV
             else
-              echo "run_context=Run 2/2" >> $GITHUB_ENV
+              echo "run_context=Unknown Run" >> $GITHUB_ENV
             fi
-          
+          fi
+
       # Commit files
       - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add *
-          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC — ${env.run_context}"
+          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC (${env.run_context})"
           git push
