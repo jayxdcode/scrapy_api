@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM December 03, 2024****
 
-![Image](images/editorial12032024.png)
-
 It’s that time of the year when select members of Congress leave their spacious plenary halls to retreat into a swanky hotel ballroom, where they meet for a bicameral conference to reconcile differences between the two versions of the proposed national budget law.
 
 After months of panel and floor debates held in full public view, first at the House of Representatives, and then, the Senate, lawmakers are dropping the pretense of transparency to commence negotiations behind closed doors, relegating media to staid briefings and photo-ops at the start and close of the proceedings.

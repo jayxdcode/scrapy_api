@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 05, 2024****
 
-![Image](images/editorial12052024.png)
+![Image](../images/editorial12052024.png)
 
 
 

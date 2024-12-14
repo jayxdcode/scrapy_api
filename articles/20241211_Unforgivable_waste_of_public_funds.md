@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM December 11, 2024****
 
-![Image](images/editorial12112024.png)
-
 The Department of Health (DOH) has done it again: get flagged by the Commission on Audit (COA), this time for what should amount to criminal negligence that led to the expiration of as much as P11 billion worth of drugs, medicine, and supplies in 2023.
 
 The COA said in its latest audit report on the DOH that as a direct result of “inadequate procurement planning and poor distribution and monitoring systems,” these vital drugs and supplies that included 7.035 million vials of COVID-19 vaccines were unused, wasting precious public money and resources.

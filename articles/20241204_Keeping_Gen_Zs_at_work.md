@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM December 04, 2024****
 
-![Image](images/editorial12042024.png)
-
 Often maligned as “vapid, attention-seeking brats,” it turns out that Gen Z employees, the newest entrants to the country’s workforce, are not that much different from the generations before them.
 
 Like their elders, they are also yearning for a fulfilling work environment with institutional values aligned with their own, where they can work hard so that they can have long-term financial security to take care of themselves and their family.
