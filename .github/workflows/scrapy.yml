@@ -2,7 +2,8 @@ name: Scrape Articles and Create Markdown
 
 on:
   schedule:
-    - cron: '0 8,20 * * *' # Runs at 00:00 and 12:00 PST (Philippine Standard Time)
+    - cron: '0 8 * * *' # Runs at 08:00 PST
+    - cron: '0 20 * * *' # Runs at 20:00 PST
   workflow_dispatch: # Allows manual trigger of the workflow
 
 jobs:
@@ -40,11 +41,21 @@ jobs:
         run: |
           rm -rf '__pycache__'
 
-      # Commit
+      # Determine run number (1/2 or 2/2)
+      - name: Determine run number
+        id: run_number
+        run: |
+          current_hour=$(date +'%H')
+          if [ "$current_hour" -eq 8 ]; then
+            echo "run_number=1/2" >> $GITHUB_ENV
+          else
+            echo "run_number=2/2" >> $GITHUB_ENV
+
+      # Commit files
       - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add *
-          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC"
+          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC (Run ${{ env.run_number }})"
           git push
