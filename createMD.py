@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime
 from downloadFile import save
+import re
 
 def now():
     # Load the article links from the JSON file
@@ -54,12 +55,18 @@ def now():
                 plat_div = soup.find("div", id="byline")
                 if plat_div:
                     authorship = plat_div.text.strip()
+                    
+                clean_title = re.sub(r'[\/:*?"<>|]', '', entry_title.replace(' ', '-'))
 
                 # Image Filename (featured image)
                 image_filename = f'editorial{postdate[4:8] + postdate[:4]}.png'
 
                 # Construct the image URL
                 image_url = f"https://opinion.inquirer.net/files/{postdate[:4]}/{postdate[4:6]}/{image_filename}"
+                fallback = f"https://opinion.inquirer.net/files/{clean_title}-620x620.png"
+
+                # Flag to check if an image URL worked
+                image_url_valid = False
 
                 # Check if the image URL is valid
                 try:
@@ -67,12 +74,28 @@ def now():
                     if image_response.status_code == 200:
                         print(f"Featured image URL: {image_url}")
                         save(image_url, image_filename)  # Download the image
+                        image_url_valid = True  # Mark as valid
                     else:
                         print(f"Image not found or inaccessible at: {image_url} (HTTP {image_response.status_code})")
-                        image_url = None
                 except requests.RequestException as e:
                     print(f"Request error for image URL: {image_url}. Error: {e}")
-                    image_url = None
+
+                # Check fallback only if the first try failed
+                if not image_url_valid:
+                    try:
+                        image_response = requests.get(fallback, headers=headers)
+                        if image_response.status_code == 200:
+                            print(f"***Fallback Worked! URL: {fallback}")
+                            save(fallback, f"{clean_title}-620x620.png")
+                            image_url_valid = True  # Mark fallback as valid
+                        else:
+                            print("Fallback image also inaccessible.")
+                    except requests.RequestException as e:
+                        print(f"Request error for fallback URL: {fallback}. Error: {e}")
+
+                # If no valid image was found
+                if not image_url_valid:
+                    print("No valid image URL found for this article.")
 
                 # Article Content (the main body of the article)
                 section = soup.find('section', id='inq_section')
@@ -92,7 +115,7 @@ def now():
                 md_content = f"**{art_type}**\n\n"
                 md_content += f"# {entry_title}\n\n"
                 md_content += f"****{authorship}****\n\n"
-                if image_url:
+                if image_url_valid:
                     md_content += f"![Image](../images/{image_filename})\n\n"
                 if content:
                     md_content += "\n\n".join(content)
