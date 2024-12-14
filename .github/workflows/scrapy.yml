@@ -35,11 +35,16 @@ jobs:
         run: |
           python createMD.py
 
+      # Removing __pycache__
+      - name: Remove __pycache__
+        run: |
+          rm -rf '__pycache__'
+
       # Commit
       - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add *
-          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a)')"
+          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC"
           git push
