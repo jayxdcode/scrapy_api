@@ -2,7 +2,7 @@ name: Scrape Articles and Create Markdown
 
 on:
   schedule:
-    - cron: '8 0,20 * * *' # Runs at 00:00 and 12:00 PST (Philippine Standard Time)
+    - cron: '0 8,20 * * *' # Runs at 00:00 and 12:00 PST (Philippine Standard Time)
   workflow_dispatch: # Allows manual trigger of the workflow
 
 jobs:
