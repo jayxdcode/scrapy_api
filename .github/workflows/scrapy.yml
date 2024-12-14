@@ -31,31 +31,35 @@ jobs:
         run: |
           python scrape.py
 
-      # Run the scraping and markdown creation process
+      # Run the markdown creation process
       - name: Run MD generation scripts
         run: |
           python createMD.py
 
-      # Removing __pycache__
+      # Remove __pycache__
       - name: Remove __pycache__
         run: |
           rm -rf '__pycache__'
 
-      # Determine run number (1/2 or 2/2)
-      - name: Determine run number
-        id: run_number
+      # Determine run number or manual trigger
+      - name: Determine run context
+        id: run_context
         run: |
-          current_hour=$(date +'%H')
-          if [ "$current_hour" -eq 8 ]; then
-            echo "run_number=1/2" >> $GITHUB_ENV
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run_context=Manual Trigger" >> $GITHUB_ENV
           else
-            echo "run_number=2/2" >> $GITHUB_ENV
-
+            current_hour=$(date +'%H')
+            if [ "$current_hour" -eq 8 ]; then
+              echo "run_context=Run 1/2" >> $GITHUB_ENV
+            else
+              echo "run_context=Run 2/2" >> $GITHUB_ENV
+            fi
+          
       # Commit files
       - name: Commit files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add *
-          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC (Run ${{ env.run_number }})"
+          git commit -m "UPDATE DATA: $(date +'%b. %d, %Y (%a) %I:%M:%S %p') UTC — ${env.run_context}"
           git push
