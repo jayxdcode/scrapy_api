@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:30 AM December 08, 2024****
 
+![Image](../images/editorial12082024.png)
+
 The arrest of 20 Filipino women trafficked to Cambodia for surrogacy shows how human trafficking in the country not only remains rife but has even evolved with the times. From mail-order brides in the 1980s to sex workers, laborers, domestic helpers, and drug mules in the 2000s, and now surrogate mothers, many Filipinos are still victimized by illegal recruiters who take advantage of their poverty.
 
 The government rescued the 20 women in September—seven were sent home while 13, who were in various stages of pregnancy, were eventually meted a two-year sentence for violating Cambodia’s anti-trafficking law and surrogacy ban. The women were recruited online to travel to another Southeast Asian country but were instead sent to Cambodia, where surrogacy is banned.

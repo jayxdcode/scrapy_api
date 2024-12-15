@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 06, 2024****
 
+![Image](../images/editorial12062024.png)
+
 The unexpected damage on the asphalt pavement of the Panguil Bay Bridge might as well parallel the crumbling trust people have in the integrity of government infrastructure projects and the officials and agencies behind them.
 
 Seen to boost tourism and drive economic growth in Northern Mindanao as it connects Lanao del Norte and Misamis Occidental provinces, the 3.17-kilometer Panguil Bay Bridge was opened to the public only on Sept. 27 this year, at a cost of P8.026 billion.

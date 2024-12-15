@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:15 AM December 15, 2024****
 
+![Image](../images/editorial12152024.png)
+
 The government has taken a major step in addressing the mental health crisis, particularly among the youth, with the signing of Republic Act No. 12080 or the Basic Education Mental Health and Well-Being Promotion Act which institutes school-based mental health programs in public and private schools.
 
 RA 12080 seeks to promote mental health awareness, address mental health concerns, and enhance suicide prevention efforts in schools.
