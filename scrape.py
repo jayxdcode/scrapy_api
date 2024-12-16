@@ -73,7 +73,7 @@ def scrape_editorial_articles(url):
                 }
 
         # Merge existing and new data
-        merged_data = {**existing_data, **new_data}
+        merged_data = {**new_data, **existing_data}
 
         # Save merged data to the JSON file
         with open("inq_editorial.json", "w", encoding="utf-8") as json_file:
