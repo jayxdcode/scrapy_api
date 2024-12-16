@@ -2,8 +2,8 @@ name: Scrape Articles and Create Markdown
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs at 08:00 PST
-    - cron: '0 20 * * *' # Runs at 20:00 PST
+    - cron: '0 16 * * *' # Runs at 08:00 PST
+    - cron: '0 17 * * *' # Runs at 9
   workflow_dispatch: # Allows manual trigger of the workflow
 
 jobs:
