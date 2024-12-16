@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:00 AM December 04, 2024****
 
-![Image](../images/editorial12042024.png)
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12042024.png)
 
 Often maligned as “vapid, attention-seeking brats,” it turns out that Gen Z employees, the newest entrants to the country’s workforce, are not that much different from the generations before them.
 

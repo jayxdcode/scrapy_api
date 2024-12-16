@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 06, 2024****
 
-![Image](../images/editorial12062024.png)
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12062024.png)
 
 The unexpected damage on the asphalt pavement of the Panguil Bay Bridge might as well parallel the crumbling trust people have in the integrity of government infrastructure projects and the officials and agencies behind them.
 

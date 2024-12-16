@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 04:40 AM December 10, 2024****
 
-![Image](../images/editorial12102024.png)
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12102024.png)
 
 The road is long and uncertain for those seeking the removal of Vice President Sara Duterte via impeachment, but impeachment is by no means the only path in the pursuit of accountability for the P612.5 million in confidential funds allegedly misspent under her leadership.
 

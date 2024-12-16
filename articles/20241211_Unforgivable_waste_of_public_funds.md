@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:00 AM December 11, 2024****
 
-![Image](../images/editorial12112024.png)
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12112024.png)
 
 The Department of Health (DOH) has done it again: get flagged by the Commission on Audit (COA), this time for what should amount to criminal negligence that led to the expiration of as much as P11 billion worth of drugs, medicine, and supplies in 2023.
 
