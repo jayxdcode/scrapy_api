@@ -164,7 +164,7 @@ def now():
 				md_content += f"# {entry_title}\n\n"
 				md_content += f"****{authorship}****\n\n"
 				if image_url_valid:
-					md_content += f"![Image](../images/{image_filename})\n\n"
+					md_content += f"![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/{image_filename})\n\n"
 				if content:
 					md_content += "\n\n".join(content)
 				else:
