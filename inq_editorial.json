@@ -1,4 +1,10 @@
 {
+    "20241216": {
+        "cover": "https://opinion.inquirer.net/files/2024/12/PWD-card-16December2024.jpg",
+        "title": "Crackdown on fake PWD cards",
+        "postdate": "20241216",
+        "href": "https://opinion.inquirer.net/179211/crackdown-on-fake-pwd-cards"
+    },
     "20241215": {
         "cover": "https://opinion.inquirer.net/files/2024/12/Mental-health-stock-14December2024.png",
         "title": "School mental health counselors",
@@ -58,11 +64,5 @@
         "title": "Keeping Gen Zs at work",
         "postdate": "20241204",
         "href": "https://opinion.inquirer.net/178849/keeping-gen-zs-at-work"
-    },
-    "20241216": {
-        "cover": "https://opinion.inquirer.net/files/2024/12/PWD-card-16December2024.jpg",
-        "title": "Crackdown on fake PWD cards",
-        "postdate": "20241216",
-        "href": "https://opinion.inquirer.net/179211/crackdown-on-fake-pwd-cards"
     }
 }
