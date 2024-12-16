@@ -8,14 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
 President Marcos may have voiced his appeal to the House not to entertain impeachment moves against Vice President Sara Duterte, but the fact remains that he can’t—and shouldn’t—get in the way of a public accountability mechanism mandated by the Constitution.
 
 Operating on the principle that public office is a public trust, the 1987 Constitution drafted after people ousted the Marcos dictatorship and restored democracy prescribes that the president, vice president, members of the Supreme Court and constitutional commissions, and the Ombudsman may be removed from office through impeachment and upon conviction on culpable violations of the Charter, betrayal of public trust, treason, bribery, graft and corruption, and other high crimes.
