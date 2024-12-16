@@ -22,7 +22,7 @@ def update_md_paths(json_file, postdate, filename):
 		data = {}
 
 	# Add new entry at the top
-	new_entry = {postdate: {"link": f"https://raw.githubusercontent.com/github-jl14/scrapy-api/articles/{filename}"}}
+	new_entry = {postdate: {"link": f"https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/{filename}"}}
 	data = {**new_entry, **data}
 
 	# Save back to JSON

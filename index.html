@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login and Article Viewer</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.9.0/sha256.min.js"></script> <!-- CDN for sha256 -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    .login-container {
+      width: 300px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .article-container {
+      margin-top: 20px;
+    }
+
+    .article-container textarea {
+      width: 100%;
+      height: 400px;
+      resize: none;
+    }
+
+    #login-btn {
+      margin-top: 10px;
+    }
+
+    .error {
+      color: red;
+      font-size: 14px;
+    }
+
+    #show-password-btn {
+      margin-top: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="login-container" id="login-container">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Username" /><br><br>
+    <input type="password" id="password" placeholder="Password" /><br><br>
+    <button id="login-btn" onclick="onLogin()">Login</button>
+    <button id="show-password-btn" onclick="togglePassword()">Show Password</button>
+    <p class="error" id="login-error"></p>
+  </div>
+
+  <div class="article-container" id="article-container" style="display: none;">
+    <h2>Article Viewer</h2>
+    <textarea id="article-text" readonly></textarea>
+    <button onclick="closeArticle()">Close</button>
+  </div>
+
+  <script>
+    const EDITORIAL_JSON_URL = "/inq_editorial.json"; // Relative path
+    const MD_PATHS_FILE = "/md_paths.json"; // Relative path
+
+    // Login function
+    function onLogin() {
+      const username = document.getElementById("username").value;
+      const password = document.getElementById("password").value;
+
+      // Debug account (no password needed, just username "debug")
+      if (username === "debug") {
+        document.getElementById("login-container").style.display = "none";
+        fetchEditorialData(); // Proceed without password for debug account
+        return;
+      }
+
+      // For the "jay" account, hash and validate password
+      if (username === "jay") {
+        const userPasswordHash = sha256(password); // Sync version using js-sha256
+        validatePassword(userPasswordHash);
+      } else {
+        document.getElementById("login-error").innerText = "Invalid username";
+      }
+    }
+
+    // Fetch and validate password from qxr.bin
+    function validatePassword(userPasswordHash) {
+      fetch("/qxr.bin") // Use relative path for qxr.bin
+        .then(response => response.text())
+        .then(qxrBinHash => {
+          const trimmedHash = qxrBinHash.trim();
+          if (userPasswordHash === trimmedHash) {
+            document.getElementById("login-container").style.display = "none";
+            fetchEditorialData();
+          } else {
+            document.getElementById("login-error").innerText = "Invalid password";
+          }
+        })
+        .catch(error => {
+          document.getElementById("login-error").innerText = "Failed to fetch password data";
+        });
+    }
+
+    // Fetch editorial data and MD paths
+    function fetchEditorialData() {
+      fetch(EDITORIAL_JSON_URL)
+        .then(response => response.json())
+        .then(editorialData => {
+          console.log("Editorial Data:", editorialData); // Debugging
+          fetch(MD_PATHS_FILE)
+            .then(response => response.json())
+            .then(mdPaths => {
+              console.log("MD Paths:", mdPaths); // Debugging
+              buildMainMenu(editorialData, mdPaths);
+            })
+            .catch(error => {
+              alert("Failed to fetch MD paths");
+            });
+        })
+        .catch(error => {
+          alert("Failed to fetch editorial data");
+        });
+    }
+
+    // Build main menu after login
+    function buildMainMenu(editorialData, mdPaths) {
+      // Get the first postdate from the editorialData keys
+      const postdate = Object.keys(editorialData)[0]; // Use the first key (postdate)
+
+      if (!postdate) {
+        console.error("Postdate not found in editorial data");
+        alert("Postdate missing in editorial data");
+        return;
+      }
+
+      console.log("Found postdate:", postdate); // Debugging
+
+      // Access the file path for the corresponding postdate
+      const filePath = mdPaths[postdate];
+
+      if (filePath) {
+        console.log('Found file path for postdate:', postdate, filePath);
+        openArticle(filePath); // Open the file directly
+      } else {
+        console.error('Markdown file path not found for postdate:', postdate);
+        alert("Markdown file path not found for the given date.");
+      }
+    }
+
+    // Open an article based on the provided file path
+    function openArticle(filePath) {
+      fetch(filePath) // Fetch the file using the relative file path
+        .then(response => response.text())
+        .then(content => {
+          displayArticle(content);
+        })
+        .catch(error => {
+          console.error("Failed to load article content", error);
+          alert("Failed to load article content");
+        });
+    }
+
+    // Display article content
+    function displayArticle(content) {
+      document.getElementById("article-container").style.display = "block";
+      document.getElementById("article-text").value = content;
+    }
+
+    // Close article view
+    function closeArticle() {
+      document.getElementById("article-container").style.display = "none";
+    }
+
+    // Toggle password visibility
+    function togglePassword() {
+      const passwordField = document.getElementById("password");
+      const passwordType = passwordField.type === "password" ? "text" : "password";
+      passwordField.type = passwordType;
+    }
+  </script>
+
+</body>
+
+</html>
