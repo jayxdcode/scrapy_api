@@ -34,7 +34,7 @@
 
     .library {
       margin-top: 20px;
-      height: 80vh;
+      height: 100vh;
       overflow-y: scroll;
       position: relative;
     }
@@ -68,6 +68,7 @@
     .carousel .article-item img {
       width: 100%;
       height: auto;
+      margin-bottom: 3px;
       border-radius: 8px;
     }
 
@@ -105,7 +106,12 @@
       font-size: 1.1em;
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: #333;
       border-bottom: 2px solid #ddd;
       padding-bottom: 5px;
@@ -123,7 +129,9 @@
       font-size: 1.5em;
     }
 
-    h4, h5, h6 {
+    h4,
+    h5,
+    h6 {
       font-size: 1.2em;
     }
 
@@ -131,7 +139,8 @@
       margin-bottom: 20px;
     }
 
-    ul, ol {
+    ul,
+    ol {
       padding-left: 20px;
       margin-bottom: 20px;
     }
@@ -156,7 +165,8 @@
       margin-bottom: 20px;
     }
 
-    pre, code {
+    pre,
+    code {
       font-family: "Courier New", Courier, monospace;
       background-color: #f5f5f5;
       padding: 10px;
@@ -200,8 +210,16 @@
   </div>
 
   <script>
-    const EDITORIAL_JSON_URL = "/inq_editorial.json"; // Relative path
-    const MD_PATHS_FILE = "/md_paths.json"; // Relative path
+    const EDITORIAL_JSON_URL = path() + "/inq_editorial.json"; // Relative path
+    const MD_PATHS_FILE = path() + "/md_paths.json"; // Relative path
+
+    function path() {
+      const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/main';
+      const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+      const linkRes = isLocal ? '' : remotePath; // Set link to empty string if local, else to raw GitHub URL
+      
+      return linkRes;
+    }
 
     // Login function
     function onLogin() {
@@ -227,7 +245,7 @@
     // Fetch and validate password
     function validatePassword(userPasswordHash) {
       console.log("Validating password for user...");
-      fetch("/qxr.bin")
+      fetch(`${path}/qxr.bin`)
         .then(response => response.text())
         .then(qxrBinHash => {
           const trimmedHash = qxrBinHash.trim();
@@ -280,7 +298,7 @@
 
         const articleItem = document.createElement("div");
         articleItem.classList.add("article-item");
-        articleItem.onclick = function () {
+        articleItem.onclick = function() {
           console.log("Article clicked: " + postdate); // Log postdate
           openArticle(postdate);
         };
