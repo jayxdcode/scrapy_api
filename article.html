@@ -107,11 +107,19 @@
     const urlParams = new URLSearchParams(window.location.search);
     const postdate = urlParams.get("postdate");
 
+    function path() {
+      const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/main';
+      const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+      const linkRes = isLocal ? '' : remotePath; // Set link to empty string if local, else to raw GitHub URL
+
+      return linkRes;
+    }
+
     if (postdate) {
       console.log("Received postdate from URL: " + postdate);
 
       // Fetch md_paths.json
-      fetch('/md_paths.json')
+      fetch(`${path()}/md_paths.json`)
         .then(response => response.json())
         .then(mdPaths => {
           console.log("MD paths fetched.");
@@ -120,7 +128,14 @@
 
           // Process and fetch the Markdown file
           const prefix = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/';
-          const articleUrl = rawPath.replace(prefix, '');
+
+          var articleUrl = '';
+
+          if (path() == '') {
+            articleUrl = rawPath.replace(prefix, '');
+          } else {
+            articleUrl = rawPath
+          }
 
           console.log("Fetching article from: " + articleUrl);
           return fetch(articleUrl);
@@ -148,57 +163,57 @@
 
     // Markdown Parser
     function renderMarkdown(markdown) {
-  // Replace headings
-  markdown = markdown.replace(/^###### (.*$)/gim, '<h6>$1</h6>');
-  markdown = markdown.replace(/^##### (.*$)/gim, '<h5>$1</h5>');
-  markdown = markdown.replace(/^#### (.*$)/gim, '<h4>$1</h4>');
-  markdown = markdown.replace(/^### (.*$)/gim, '<h3>$1</h3>');
-  markdown = markdown.replace(/^## (.*$)/gim, '<h2>$1</h2>');
-  markdown = markdown.replace(/^# (.*$)/gim, '<h1>$1</h1>');
+      // Replace headings
+      markdown = markdown.replace(/^###### (.*$)/gim, '<h6>$1</h6>');
+      markdown = markdown.replace(/^##### (.*$)/gim, '<h5>$1</h5>');
+      markdown = markdown.replace(/^#### (.*$)/gim, '<h4>$1</h4>');
+      markdown = markdown.replace(/^### (.*$)/gim, '<h3>$1</h3>');
+      markdown = markdown.replace(/^## (.*$)/gim, '<h2>$1</h2>');
+      markdown = markdown.replace(/^# (.*$)/gim, '<h1>$1</h1>');
 
-  // Replace bold and italics
-  markdown = markdown.replace(/\*\*\*(.*?)\*\*\*/gim, '<b><i>$1</i></b>');
-  markdown = markdown.replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>');
-  markdown = markdown.replace(/\*(.*?)\*/gim, '<i>$1</i>');
+      // Replace bold and italics
+      markdown = markdown.replace(/\*\*\*(.*?)\*\*\*/gim, '<b><i>$1</i></b>');
+      markdown = markdown.replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>');
+      markdown = markdown.replace(/\*(.*?)\*/gim, '<i>$1</i>');
 
-  // Replace blockquotes
-  markdown = markdown.replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>');
+      // Replace blockquotes
+      markdown = markdown.replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>');
 
-  // Handling image links without regex
-  let imageStartIndex = markdown.indexOf('![Image]('); // Find the image syntax
-  while (imageStartIndex !== -1) {
-    let linkStart = imageStartIndex + '![Image]('.length; // Calculate the start of the link
-    let linkEnd = markdown.indexOf(')', linkStart); // Find the closing ')'
+      // Handling image links without regex
+      let imageStartIndex = markdown.indexOf('![Image]('); // Find the image syntax
+      while (imageStartIndex !== -1) {
+        let linkStart = imageStartIndex + '![Image]('.length; // Calculate the start of the link
+        let linkEnd = markdown.indexOf(')', linkStart); // Find the closing ')'
 
-    if (linkEnd !== -1) {
-      let imageUrl = markdown.substring(linkStart, linkEnd); // Extract the URL
-      let imageTag = `<img src="${imageUrl}" alt="Image" />`; // Create image tag
-      markdown = markdown.slice(0, imageStartIndex) + imageTag + markdown.slice(linkEnd + 1); // Replace the image syntax with the tag
+        if (linkEnd !== -1) {
+          let imageUrl = markdown.substring(linkStart, linkEnd); // Extract the URL
+          let imageTag = `<img src="${imageUrl}" alt="Image" />`; // Create image tag
+          markdown = markdown.slice(0, imageStartIndex) + imageTag + markdown.slice(linkEnd + 1); // Replace the image syntax with the tag
+        }
+
+        // Find the next image in case there are multiple
+        imageStartIndex = markdown.indexOf('![Image](', linkEnd);
+      }
+
+      // Replace links
+      markdown = markdown.replace(/(.*?)(.+?)/gim, '<a href="$2">$1</a>');
+
+      // Replace unordered lists
+      markdown = markdown.replace(/^\s*-\s+(.*$)/gim, '<li>$1</li>');
+      markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ul>$1</ul>');
+
+      // Replace ordered lists
+      markdown = markdown.replace(/^\s*\d+\.\s+(.*$)/gim, '<li>$1</li>');
+      markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ol>$1</ol>');
+
+      // Replace horizontal rules
+      markdown = markdown.replace(/^---$/gim, '<hr>');
+
+      // Replace newlines with <br>
+      markdown = markdown.replace(/\n/gim, '<br>');
+
+      return markdown.trim();
     }
-
-    // Find the next image in case there are multiple
-    imageStartIndex = markdown.indexOf('![Image](', linkEnd);
-  }
-
-  // Replace links
-  markdown = markdown.replace(/(.*?)(.+?)/gim, '<a href="$2">$1</a>');
-
-  // Replace unordered lists
-  markdown = markdown.replace(/^\s*-\s+(.*$)/gim, '<li>$1</li>');
-  markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ul>$1</ul>');
-
-  // Replace ordered lists
-  markdown = markdown.replace(/^\s*\d+\.\s+(.*$)/gim, '<li>$1</li>');
-  markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ol>$1</ol>');
-
-  // Replace horizontal rules
-  markdown = markdown.replace(/^---$/gim, '<hr>');
-
-  // Replace newlines with <br>
-  markdown = markdown.replace(/\n/gim, '<br>');
-
-  return markdown.trim();
-}
 
     // Go back to the main page
     function goBack() {
