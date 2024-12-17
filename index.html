@@ -214,7 +214,7 @@
     const MD_PATHS_FILE = path() + "/md_paths.json"; // Relative path
 
     function path() {
-      const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/main';
+      const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main';
       const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
       const linkRes = isLocal ? '' : remotePath; // Set link to empty string if local, else to raw GitHub URL
       
