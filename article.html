@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article Viewer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    article {
+      margin: 0 auto;
+      padding: 20px;
+      max-width: 800px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: #444;
+      font-size: 2.5em;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+    h2 {
+      color: #555;
+      font-size: 2em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 8px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+
+    blockquote {
+      margin: 20px 0;
+      padding: 15px;
+      background: #f1f1f1;
+      border-left: 5px solid #ccc;
+      font-style: italic;
+    }
+
+    code {
+      font-family: "Courier New", Courier, monospace;
+      background: #f4f4f4;
+      padding: 5px;
+      border-radius: 5px;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    ol {
+      list-style-type: decimal;
+      padding-left: 20px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    button {
+      margin-top: 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+
+<body>
+  <article id="article-content"></article>
+  <button onclick="goBack()">Back</button>
+
+  <script>
+    // Get the query parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const postdate = urlParams.get("postdate");
+
+    if (postdate) {
+      console.log("Received postdate from URL: " + postdate);
+
+      // Fetch md_paths.json
+      fetch('/md_paths.json')
+        .then(response => response.json())
+        .then(mdPaths => {
+          console.log("MD paths fetched.");
+          const rawPath = mdPaths[postdate]?.link;
+          if (!rawPath) throw new Error("Postdate not found in MD paths.");
+
+          // Process and fetch the Markdown file
+          const prefix = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/';
+          const articleUrl = rawPath.replace(prefix, '');
+
+          console.log("Fetching article from: " + articleUrl);
+          return fetch(articleUrl);
+        })
+        .then(response => {
+          if (!response.ok) {
+            throw new Error("File not found");
+          }
+          return response.text();
+        })
+        .then(content => {
+          console.log("Article content fetched successfully.");
+          // Parse Markdown to HTML
+          const formattedContent = renderMarkdown(content);
+          document.getElementById("article-content").innerHTML = formattedContent;
+        })
+        .catch(error => {
+          console.error("Error fetching article: " + error);
+          document.getElementById("article-content").innerText = "Failed to load the article.";
+        });
+    } else {
+      console.error("No postdate found in the URL.");
+      document.getElementById("article-content").innerText = "400 BAD REQUEST \n\n\nError: postdate constant not present \n";
+    }
+
+    // Markdown Parser
+    function renderMarkdown(markdown) {
+  // Replace headings
+  markdown = markdown.replace(/^###### (.*$)/gim, '<h6>$1</h6>');
+  markdown = markdown.replace(/^##### (.*$)/gim, '<h5>$1</h5>');
+  markdown = markdown.replace(/^#### (.*$)/gim, '<h4>$1</h4>');
+  markdown = markdown.replace(/^### (.*$)/gim, '<h3>$1</h3>');
+  markdown = markdown.replace(/^## (.*$)/gim, '<h2>$1</h2>');
+  markdown = markdown.replace(/^# (.*$)/gim, '<h1>$1</h1>');
+
+  // Replace bold and italics
+  markdown = markdown.replace(/\*\*\*(.*?)\*\*\*/gim, '<b><i>$1</i></b>');
+  markdown = markdown.replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>');
+  markdown = markdown.replace(/\*(.*?)\*/gim, '<i>$1</i>');
+
+  // Replace blockquotes
+  markdown = markdown.replace(/^\> (.*$)/gim, '<blockquote>$1</blockquote>');
+
+  // Handling image links without regex
+  let imageStartIndex = markdown.indexOf('![Image]('); // Find the image syntax
+  while (imageStartIndex !== -1) {
+    let linkStart = imageStartIndex + '![Image]('.length; // Calculate the start of the link
+    let linkEnd = markdown.indexOf(')', linkStart); // Find the closing ')'
+
+    if (linkEnd !== -1) {
+      let imageUrl = markdown.substring(linkStart, linkEnd); // Extract the URL
+      let imageTag = `<img src="${imageUrl}" alt="Image" />`; // Create image tag
+      markdown = markdown.slice(0, imageStartIndex) + imageTag + markdown.slice(linkEnd + 1); // Replace the image syntax with the tag
+    }
+
+    // Find the next image in case there are multiple
+    imageStartIndex = markdown.indexOf('![Image](', linkEnd);
+  }
+
+  // Replace links
+  markdown = markdown.replace(/(.*?)(.+?)/gim, '<a href="$2">$1</a>');
+
+  // Replace unordered lists
+  markdown = markdown.replace(/^\s*-\s+(.*$)/gim, '<li>$1</li>');
+  markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ul>$1</ul>');
+
+  // Replace ordered lists
+  markdown = markdown.replace(/^\s*\d+\.\s+(.*$)/gim, '<li>$1</li>');
+  markdown = markdown.replace(/(<li>.*<\/li>)/gim, '<ol>$1</ol>');
+
+  // Replace horizontal rules
+  markdown = markdown.replace(/^---$/gim, '<hr>');
+
+  // Replace newlines with <br>
+  markdown = markdown.replace(/\n/gim, '<br>');
+
+  return markdown.trim();
+}
+
+    // Go back to the main page
+    function goBack() {
+      window.location.href = "index.html"; // Or to whatever page you want to return to
+    }
+  </script>
+</body>
+
+</html>

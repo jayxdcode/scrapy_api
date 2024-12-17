@@ -22,10 +22,68 @@
       margin-top: 20px;
     }
 
-    .article-container textarea {
+    .article-container #article-viewer {
+      max-height: 80vh;
+      overflow-y: auto;
+      white-space: pre-wrap;
+    }
+
+    .article-container button {
+      margin-top: 10px;
+    }
+
+    .library {
+      margin-top: 20px;
+      height: 80vh;
+      overflow-y: scroll;
+      position: relative;
+    }
+
+    .carousel {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+      padding: 10px 0;
+    }
+
+    .carousel .article-item {
+      width: calc(100vw - 5vw);
+      max-width: 100%;
+      padding: 20px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      margin: 5px 0;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      background-color: #fff;
+      text-align: center;
+      transition: background-color 0.3s ease;
+    }
+
+    .carousel .article-item:hover {
+      background-color: #f0f0f0;
+    }
+
+    .carousel .article-item img {
       width: 100%;
-      height: 400px;
-      resize: none;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .carousel-button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+
+    .carousel-button:hover {
+      background-color: #0056b3;
     }
 
     #login-btn {
@@ -41,6 +99,80 @@
       margin-top: 5px;
       cursor: pointer;
     }
+
+    #article-viewer {
+      line-height: 1.6;
+      font-size: 1.1em;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: #333;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    h1 {
+      font-size: 2em;
+    }
+
+    h2 {
+      font-size: 1.75em;
+    }
+
+    h3 {
+      font-size: 1.5em;
+    }
+
+    h4, h5, h6 {
+      font-size: 1.2em;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+
+    ul, ol {
+      padding-left: 20px;
+      margin-bottom: 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    blockquote {
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-left: 5px solid #ccc;
+      margin-bottom: 20px;
+    }
+
+    pre, code {
+      font-family: "Courier New", Courier, monospace;
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    code {
+      display: inline-block;
+      padding: 3px 6px;
+      background-color: #f5f5f5;
+    }
   </style>
 </head>
 
@@ -55,9 +187,15 @@
     <p class="error" id="login-error"></p>
   </div>
 
+  <div class="library" id="article-library" style="display: none;">
+    <div class="carousel" id="carousel">
+      <!-- Articles will be injected here -->
+    </div>
+  </div>
+
   <div class="article-container" id="article-container" style="display: none;">
     <h2>Article Viewer</h2>
-    <textarea id="article-text" readonly></textarea>
+    <div id="article-viewer"></div>
     <button onclick="closeArticle()">Close</button>
   </div>
 
@@ -70,118 +208,117 @@
       const username = document.getElementById("username").value;
       const password = document.getElementById("password").value;
 
-      // Debug account (no password needed, just username "debug")
       if (username === "debug") {
+        console.log("Debug mode activated.");
         document.getElementById("login-container").style.display = "none";
-        fetchEditorialData(); // Proceed without password for debug account
+        fetchEditorialData();
         return;
       }
 
-      // For the "jay" account, hash and validate password
       if (username === "jay") {
-        const userPasswordHash = sha256(password); // Sync version using js-sha256
+        const userPasswordHash = sha256(password);
         validatePassword(userPasswordHash);
       } else {
+        console.log("Invalid username attempt: " + username);
         document.getElementById("login-error").innerText = "Invalid username";
       }
     }
 
-    // Fetch and validate password from qxr.bin
+    // Fetch and validate password
     function validatePassword(userPasswordHash) {
-      fetch("/qxr.bin") // Use relative path for qxr.bin
+      console.log("Validating password for user...");
+      fetch("/qxr.bin")
         .then(response => response.text())
         .then(qxrBinHash => {
           const trimmedHash = qxrBinHash.trim();
           if (userPasswordHash === trimmedHash) {
+            console.log("Password validated.");
             document.getElementById("login-container").style.display = "none";
             fetchEditorialData();
           } else {
+            console.log("Invalid password attempt.");
             document.getElementById("login-error").innerText = "Invalid password";
           }
         })
         .catch(error => {
+          console.error("Error fetching password file: " + error);
           document.getElementById("login-error").innerText = "Failed to fetch password data";
         });
     }
 
     // Fetch editorial data and MD paths
     function fetchEditorialData() {
+      console.log("Fetching editorial data...");
       fetch(EDITORIAL_JSON_URL)
         .then(response => response.json())
         .then(editorialData => {
-          console.log("Editorial Data:", editorialData); // Debugging
+          console.log("Editorial data fetched successfully.");
           fetch(MD_PATHS_FILE)
             .then(response => response.json())
             .then(mdPaths => {
-              console.log("MD Paths:", mdPaths); // Debugging
-              buildMainMenu(editorialData, mdPaths);
+              console.log("MD paths fetched.");
+              buildArticleLibrary(editorialData, mdPaths);
             })
             .catch(error => {
-              alert("Failed to fetch MD paths");
+              console.error("Failed to fetch MD paths: " + error);
             });
         })
         .catch(error => {
+          console.error("Failed to fetch editorial data: " + error);
           alert("Failed to fetch editorial data");
         });
     }
 
-    // Build main menu after login
-    function buildMainMenu(editorialData, mdPaths) {
-      // Get the first postdate from the editorialData keys
-      const postdate = Object.keys(editorialData)[0]; // Use the first key (postdate)
+    // Build article library
+    function buildArticleLibrary(editorialData, mdPaths) {
+      console.log("Building article library...");
+      const carousel = document.getElementById("carousel");
+      carousel.innerHTML = ''; // Clear previous content
 
-      if (!postdate) {
-        console.error("Postdate not found in editorial data");
-        alert("Postdate missing in editorial data");
-        return;
-      }
+      Object.keys(editorialData).forEach(postdate => {
+        const article = editorialData[postdate];
 
-      console.log("Found postdate:", postdate); // Debugging
+        const articleItem = document.createElement("div");
+        articleItem.classList.add("article-item");
+        articleItem.onclick = function () {
+          console.log("Article clicked: " + postdate); // Log postdate
+          openArticle(postdate);
+        };
 
-      // Access the file path for the corresponding postdate
-      const filePath = mdPaths[postdate];
+        articleItem.innerHTML = `
+          <img src="${article.cover}" alt="${article.title}" />
+          <strong>${article.title}</strong><br>
+          <small>Postdate: ${article.postdate}</small>
+        `;
 
-      if (filePath) {
-        console.log('Found file path for postdate:', postdate, filePath);
-        openArticle(filePath); // Open the file directly
-      } else {
-        console.error('Markdown file path not found for postdate:', postdate);
-        alert("Markdown file path not found for the given date.");
-      }
+        carousel.appendChild(articleItem);
+      });
+
+      document.getElementById("article-library").style.display = "block"; // Show the article library
     }
 
-    // Open an article based on the provided file path
-    function openArticle(filePath) {
-      fetch(filePath) // Fetch the file using the relative file path
-        .then(response => response.text())
-        .then(content => {
-          displayArticle(content);
-        })
-        .catch(error => {
-          console.error("Failed to load article content", error);
-          alert("Failed to load article content");
-        });
+    // Open article
+    function openArticle(postdate) {
+      console.log("Opening article: " + postdate); // Log the postdate
+      window.location.href = `article.html?postdate=${postdate}`;
     }
 
-    // Display article content
-    function displayArticle(content) {
-      document.getElementById("article-container").style.display = "block";
-      document.getElementById("article-text").value = content;
-    }
-
-    // Close article view
+    // Close article and return to library
     function closeArticle() {
       document.getElementById("article-container").style.display = "none";
+      document.getElementById("article-library").style.display = "block";
     }
 
     // Toggle password visibility
     function togglePassword() {
-      const passwordField = document.getElementById("password");
-      const passwordType = passwordField.type === "password" ? "text" : "password";
-      passwordField.type = passwordType;
+      const passwordInput = document.getElementById("password");
+      if (passwordInput.type === "password") {
+        passwordInput.type = "text";
+      } else {
+        passwordInput.type = "password";
+      }
     }
   </script>
-
 </body>
 
 </html>
