@@ -180,23 +180,23 @@
       const password = document.getElementById("password").value;
       const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
-      if (!isLocal) {
-        if (username === "debug") {
+      if (username === "debug") {
+        if (isLocal) {
           console.log("Debug mode activated.");
           document.getElementById("login-container").style.display = "none";
           fetchEditorialData();
           return;
+        } else {
+          alert('Hey, bozzo! That aint working if you are not in the debug env.');
         }
       } else {
-        alert('Hey, bozzo! That aint working if you are not in the debug env.')
-      }
-
-      if (username === "jay") {
-        const userPasswordHash = sha256(password);
-        validatePassword(userPasswordHash);
-      } else {
-        console.log("Invalid username attempt: " + username);
-        document.getElementById("login-error").innerText = "Invalid username";
+        if (username === "jay") {
+          const userPasswordHash = sha256(password);
+          validatePassword(userPasswordHash);
+        } else {
+          console.log("Invalid username attempt: " + username);
+          document.getElementById("login-error").innerText = "Invalid username";
+        }
       }
     }
 
