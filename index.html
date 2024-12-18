@@ -12,12 +12,14 @@
       padding: 20px;
     }
 
+    /* Centered login form */
     .login-container {
       width: 300px;
       margin: 0 auto;
       text-align: center;
     }
 
+    /* Article container style */
     .article-container {
       margin-top: 20px;
     }
@@ -32,6 +34,7 @@
       margin-top: 10px;
     }
 
+    /* Library container for scrollable content */
     .library {
       margin-top: 20px;
       height: 100vh;
@@ -39,17 +42,23 @@
       position: relative;
     }
 
+    /* Carousel container */
     .carousel {
       display: flex;
-      flex-direction: column;
+      flex-wrap: wrap;
+      /* Allow items to wrap to the next row */
+      justify-content: space-evenly;
+      /* Evenly distribute items without stretching */
       gap: 10px;
-      align-items: center;
       padding: 10px 0;
     }
 
+    /* Carousel item styling */
     .carousel .article-item {
-      width: calc(100vw - 5vw);
-      max-width: 100%;
+      flex: 1 1 45%;
+      /* Allow the items to take 45% of the container's width */
+      max-width: 45%;
+      /* Ensures items don't exceed 45% width */
       padding: 20px;
       border: 1px solid #ccc;
       cursor: pointer;
@@ -61,129 +70,44 @@
       transition: background-color 0.3s ease;
     }
 
-    .carousel .article-item:hover {
-      background-color: #f0f0f0;
-    }
-
     .carousel .article-item img {
       width: 100%;
-      height: auto;
+      height: 245px;
       margin-bottom: 3px;
       border-radius: 8px;
+      object-fit: cover;
     }
 
-    .carousel-button {
-      background-color: #007bff;
-      color: white;
-      border: none;
-      padding: 10px;
-      cursor: pointer;
-      font-size: 16px;
-      border-radius: 5px;
-      margin-top: 20px;
+    /* For smaller screens like tablets */
+    @media (max-width: 768px) {
+      .carousel .article-item {
+        flex: 1 1 100%;
+        /* Items take full width on small screens */
+        max-width: 100%;
+      }
     }
 
-    .carousel-button:hover {
-      background-color: #0056b3;
+    /* For very small screens (phones in portrait mode) */
+    @media (max-width: 480px) {
+      .carousel .article-item {
+        flex: 1 1 100%;
+        /* Full width for each item */
+        max-width: 100%;
+      }
     }
 
-    #login-btn {
-      margin-top: 10px;
-    }
+    /* For larger screens like tablets and desktops */
+    @media (min-width: 1024px) {
+      .carousel .article-item {
+        width: calc(33% - 10px);
+        /* 3 items per row on large screens */
+      }
 
-    .error {
-      color: red;
-      font-size: 14px;
+      .carousel .article-item img {
+        height: 300px;
+      }
     }
-
-    #show-password-btn {
-      margin-top: 5px;
-      cursor: pointer;
-    }
-
-    #article-viewer {
-      line-height: 1.6;
-      font-size: 1.1em;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-      color: #333;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 5px;
-    }
-
-    h1 {
-      font-size: 2em;
-    }
-
-    h2 {
-      font-size: 1.75em;
-    }
-
-    h3 {
-      font-size: 1.5em;
-    }
-
-    h4,
-    h5,
-    h6 {
-      font-size: 1.2em;
-    }
-
-    p {
-      margin-bottom: 20px;
-    }
-
-    ul,
-    ol {
-      padding-left: 20px;
-      margin-bottom: 20px;
-    }
-
-    li {
-      margin-bottom: 10px;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    blockquote {
-      padding: 10px;
-      background-color: #f9f9f9;
-      border-left: 5px solid #ccc;
-      margin-bottom: 20px;
-    }
-
-    pre,
-    code {
-      font-family: "Courier New", Courier, monospace;
-      background-color: #f5f5f5;
-      padding: 10px;
-      border-radius: 5px;
-    }
-
-    pre {
-      white-space: pre-wrap;
-      word-wrap: break-word;
-    }
-
-    code {
-      display: inline-block;
-      padding: 3px 6px;
-      background-color: #f5f5f5;
-    }
-  </style>
+  </style>>
 </head>
 
 <body>
@@ -210,14 +134,43 @@
   </div>
 
   <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const erudaBool = urlParams.get("eruda");
+
+    const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main';
     const EDITORIAL_JSON_URL = path() + "/inq_editorial.json"; // Relative path
     const MD_PATHS_FILE = path() + "/md_paths.json"; // Relative path
 
+    (function() {
+      var src = 'https://cdnjs.cloudflare.com/ajax/libs/eruda/3.4.1/eruda.js'; // Use full protocol for reliability
+
+      // Check conditions to load the script
+      if (
+        erudaBool === 'falseX' || // Prevent running eruda if erudaBool is 'falseX'
+        !(erudaBool == 'true' || // Run if erudaBool is 'true'
+          window.location.hostname === "localhost" || // Allow on localhost
+          window.location.hostname === "127.0.0.1" || // Allow on localhost IP
+          localStorage.getItem('active-eruda') === 'true') // Allow based on localStorage setting
+      ) return; // Exit and do not load eruda if any condition is met
+
+      var script = document.createElement('script');
+      script.src = src;
+
+      script.onload = function() {
+        eruda.init(); // Safely initialize eruda after it fully loads
+      };
+
+      script.onerror = function() {
+        console.error('Failed to load eruda script.');
+      };
+
+      document.head.appendChild(script);
+    })();
+
     function path() {
-      const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main';
       const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
       const linkRes = isLocal ? '' : remotePath; // Set link to empty string if local, else to raw GitHub URL
-      
+
       return linkRes;
     }
 
@@ -225,12 +178,17 @@
     function onLogin() {
       const username = document.getElementById("username").value;
       const password = document.getElementById("password").value;
+      const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
-      if (username === "debug") {
-        console.log("Debug mode activated.");
-        document.getElementById("login-container").style.display = "none";
-        fetchEditorialData();
-        return;
+      if (!isLocal) {
+        if (username === "debug") {
+          console.log("Debug mode activated.");
+          document.getElementById("login-container").style.display = "none";
+          fetchEditorialData();
+          return;
+        }
+      } else {
+        alert('Hey, bozzo! That aint working if you are not in the debug env.')
       }
 
       if (username === "jay") {
@@ -245,10 +203,11 @@
     // Fetch and validate password
     function validatePassword(userPasswordHash) {
       console.log("Validating password for user...");
-      fetch(`${path}/qxr.bin`)
+      fetch(`${path()}/qxr.bin`)
         .then(response => response.text())
         .then(qxrBinHash => {
           const trimmedHash = qxrBinHash.trim();
+          console.info('qxr value: ' + qxrBinHash)
           if (userPasswordHash === trimmedHash) {
             console.log("Password validated.");
             document.getElementById("login-container").style.display = "none";
@@ -303,8 +262,14 @@
           openArticle(postdate);
         };
 
+        const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+
+        var cleanedPath = article.cover.replace(remotePath, '');
+
+        const validatedCover = isLocal ? cleanedPath : article.cover;
+
         articleItem.innerHTML = `
-          <img src="${article.cover}" alt="${article.title}" />
+          <img src="${validatedCover}" alt="${article.title}" />
           <strong>${article.title}</strong><br>
           <small>Postdate: ${article.postdate}</small>
         `;
@@ -318,7 +283,7 @@
     // Open article
     function openArticle(postdate) {
       console.log("Opening article: " + postdate); // Log the postdate
-      window.location.href = `article.html?postdate=${postdate}`;
+      window.location.href = `article.html?postdate=${postdate}&eruda=false`;
     }
 
     // Close article and return to library

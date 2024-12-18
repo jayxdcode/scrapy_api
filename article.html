@@ -106,6 +106,33 @@
     // Get the query parameter
     const urlParams = new URLSearchParams(window.location.search);
     const postdate = urlParams.get("postdate");
+    const erudaBool = urlParams.get("eruda");
+
+    (function() {
+      var src = 'https://cdnjs.cloudflare.com/ajax/libs/eruda/3.4.1/eruda.js'; // Use full protocol for reliability
+
+      // Check conditions to load the script
+      if (
+        erudaBool === 'falseX' || // Prevent running eruda if erudaBool is 'falseX'
+        !(erudaBool == 'true' || // Run if erudaBool is 'true'
+          window.location.hostname === "localhost" || // Allow on localhost
+          window.location.hostname === "127.0.0.1" || // Allow on localhost IP
+          localStorage.getItem('active-eruda') === 'true') // Allow based on localStorage setting
+      ) return; // Exit and do not load eruda if any condition is met
+
+      var script = document.createElement('script');
+      script.src = src;
+
+      script.onload = function() {
+        eruda.init(); // Safely initialize eruda after it fully loads
+      };
+
+      script.onerror = function() {
+        console.error('Failed to load eruda script.');
+      };
+
+      document.head.appendChild(script);
+    })();
 
     function path() {
       const remotePath = 'https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main';
@@ -134,7 +161,7 @@
           if (path() == '') {
             articleUrl = rawPath.replace(prefix, '');
           } else {
-            articleUrl = rawPath
+            articleUrl = rawPath;
           }
 
           console.log("Fetching article from: " + articleUrl);
