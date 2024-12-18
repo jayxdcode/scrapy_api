@@ -26,7 +26,7 @@ Rommel Rivera, deputy executive director of the Procurement Service of the DBM, 
 
 These declarations are certainly fine and dandy, but they are the same ones that Filipinos have grown so tired of hearing as it had also been used to describe PhilGEPS itself, the single portal that serves as the primary source of information on all government procurement, and where bid opportunities are announced and suppliers are registered.
 
-The belief was that with the procurement process recorded and posted electronically for all Filipinos to see, including the evaluation of bids, awarding of contracts, monitoring of performance, and delivery of goods and services, corruption—estimated back in 2019 to cost Filipino citizens at least P700 billion yearly—will be minimized if not eradicated.
+The belief was that with the procurement process recorded and posted electronically for all Filipinos to see, including the evaluation of bids, awarding of contracts, monitoring of performance, and delivery of goods and services, corruption — estimated back in 2019 to cost Filipino citizens at least P700 billion yearly — will be minimized if not eradicated.
 
 ## Procurement scandals
 
