@@ -18,11 +18,11 @@ Responding to the widespread bashing, PhilHealth said in a statement that the st
 
 Such assurances, however, sound as flat as a placebo, given PhilHealth’s glaring record of fraud and mismanagement. From allegations of corruption, irregular benefit claims, ghost patients, diverted premium payments, and the questionable implementation of advance payments to health-care institutions during the pandemic, PhilHealth’s dubious practices have undercut its credibility.
 
-Former senator Francis Pangilinan has urged that culpable PhilHealth officials be held accountable, a suggestion that resonates deeply among PhilHealth members appalled by the lawmakers’ self-righteous justification for removing the subsidy. Senate President Francis Escudero and Sen. Grace Poe of the Senate committee on finance have said that the zero subsidy was meant “to teach PhilHealth a lesson” for failing to use its allocations.
+Former Sen. Francis Pangilinan has urged that culpable PhilHealth officials be held accountable, a suggestion that resonates deeply among PhilHealth members appalled by the lawmakers’ self-righteous justification for removing the subsidy. Senate President Francis Escudero and Sen. Grace Poe of the Senate committee on finance have said that the zero subsidy was meant “to teach PhilHealth a lesson” for failing to use its allocations.
 
 But why not fire PhilHealth’s negligent executives instead of punishing its members, rightfully pointed out economist and former finance undersecretary Cielo Magno, adding that the withheld funds could have been used to expand coverage and member benefits.
 
-Ironically, while PhilHealth officials have always cited the law to defend their contentious moves—including the P137.7 million for the anniversary party that, they insist, are within government guidelines—they have conveniently ignored RA 11223 and the sin tax law.
+Ironically, while PhilHealth officials have always cited the law to defend their contentious moves — including the P137.7 million for the anniversary party that, they insist, are within government guidelines — they have conveniently ignored RA 11223 and the sin tax law.
 
 As Sen. Pia Cayetano pointed out, cutting the subsidy would contradict laws mandating the allocation of taxes from “sin” products like tobacco and sugary drinks to PhilHealth for universal health care.
 
@@ -38,6 +38,6 @@ Petitioners to the Supreme Court led by former senior associate justice Antonio 
 
 Could the agency be reserving the funds for what former senator Franklin Drilon has described as “totally unconscionable and immoral” expenses for its anniversary bash? As a monopoly and with membership made mandatory among employees and even overseas Filipino workers, why would it need to spend so much to trumpet its achievements to recruit more members, he asked.
 
-Then again, could PhilHealth officials be personally benefiting from the huge interests accrued by its billions in reserve funds, asked Ako Bicol party list Rep. Raul Bongalon, who said he would file a resolution for a congressional probe of the agency’s investible funds.
+Then again, could PhilHealth officials be personally benefiting from the huge interests accrued by its billions in reserve funds, asked Ako Bicol party-list Rep. Raul Bongalon, who said he would file a resolution for a congressional probe of the agency’s investible funds.
 
 With so many issues hounding it, PhilHealth definitely needs to scale down its planned extravagant celebration next year, and focus its energy on managing its funds better. Maybe then it would be able to fulfill its mandate of providing affordable health care for all.
