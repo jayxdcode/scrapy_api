@@ -182,7 +182,7 @@ def now():
 									image_response = requests.get(source, headers=headers)
 									if image_response.status_code == 200:
 										print(f"\033[92m***Third Fallback Worked! URL (source): {source}\033[0m")
-										save(source, image_filenam, 'images')
+										save(source, image_filename, 'images')
 										image_url_valid = True
 									else:
 										print(f"\033[91mImage not found in source {source} (3/4)\033[0m")
