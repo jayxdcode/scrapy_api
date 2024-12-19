@@ -1,9 +1,9 @@
 import requests
 import os
 
-def save(url, filename):
+def save(url, filename, path):
     # Ensure the directory for saving images exists
-    os.makedirs('images', exist_ok=True)
+    os.makedirs(path, exist_ok=True)
 
     # Set headers to simulate a browser request and include a Referer header
     headers = {
@@ -18,7 +18,7 @@ def save(url, filename):
         # Check if the request was successful
         if response.status_code == 200:
             # Save the image to the 'images' directory
-            with open(f'images/{filename}', 'wb') as file:
+            with open(f'{path}/{filename}', 'wb') as file:
                 file.write(response.content)
                 print(f"{filename} downloaded successfully.")
         else:

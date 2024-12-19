@@ -264,9 +264,10 @@
 
         const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
 
-        var cleanedPath = article.cover.replace(remotePath, '');
+        var rawCoverPath = `${remotePath}/covers/cover-${postdate}.png`;
+        var cleanedPath = rawCoverPath.replace(remotePath, '');
 
-        const validatedCover = isLocal ? cleanedPath : article.cover;
+        const validatedCover = isLocal ? cleanedPath : rawCoverPath;
 
         articleItem.innerHTML = `
           <img src="${validatedCover}" alt="${article.title}" />

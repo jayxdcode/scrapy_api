@@ -140,7 +140,7 @@ def now():
 					image_response = requests.get(image_url, headers=headers)
 					if image_response.status_code == 200:
 						print(f"\033[92mFeatured image URL: {image_url} (1/4)\033[0m")  # Green color for success
-						save(image_url, image_filename)  # Download the image
+						save(image_url, image_filename, '/images')  # Download the image
 						image_url_valid = True  # Mark as valid
 					else:
 						print(f"\033[91mImage not found or inaccessible at: {image_url} (HTTP {image_response.status_code})\033[0m")  # Red color for failure
@@ -171,7 +171,7 @@ def now():
 											image_response = requests.get(fallback_srcset, headers=headers)
 											if image_response.status_code == 200:
 												print(f"\033[92m***Second Fallback Worked! URL (srcset): {fallback_srcset}\033[0m")
-												save(fallback_srcset, image_filename)
+												save(fallback_srcset, image_filename, '/images')
 												image_url_valid = True
 											else:
 												print(f"\033[91mImage not found in srcset: {fallback_srcset}\033[0m")
@@ -182,7 +182,7 @@ def now():
 									image_response = requests.get(source, headers=headers)
 									if image_response.status_code == 200:
 										print(f"\033[92m***Third Fallback Worked! URL (source): {source}\033[0m")
-										save(source, image_filename)
+										save(source, image_filenam, '/images')
 										image_url_valid = True
 									else:
 										print(f"\033[91mImage not found in source {source} (3/4)\033[0m")
@@ -191,7 +191,7 @@ def now():
 									image_response = requests.get(source, headers=headers)
 									if image_response.status_code == 200:
 										print(f"\033[92m***Fourth Fallback Worked! (Thank god. its the last) URL: {s}\033[0m")
-										save(s, image_filename)
+										save(s, image_filename,'/images')
 										image_url_valid = True
 									else:
 										print(f"\033[91mImage not found in src {s} (4/4)\033[0m")

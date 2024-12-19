@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
+from downloadFile import save
 
 # Function to convert date to ISO format (YYYYMMDD)
 def format_date(postdate_text):
@@ -44,6 +45,8 @@ def scrape_editorial_articles(url):
                 cover = cover_image.get('data-bg') or cover_image.get('style')
                 if cover and cover.startswith('background-image'):
                     cover = cover.split('url(')[-1].strip(')').strip()
+                    coverPath = "/covers"
+                    save(cover, f'cover-{postdate}.png', coverPath)
 
             if not cover:
                 continue
@@ -66,7 +69,7 @@ def scrape_editorial_articles(url):
 
                 # Save to dictionary if not a duplicate
                 new_data[postdate] = {
-                    "cover": cover,
+                    "cover": coverPath,
                     "title": title,
                     "postdate": postdate,
                     "href": href
