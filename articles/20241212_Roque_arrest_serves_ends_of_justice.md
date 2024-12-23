@@ -8,14 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
 Former Duterte spokesperson Harry Roque is playing catch me if you can. But as a lawyer, he should know that flight often indicates guilt. Sought by the House to shed light on his role in a controversial Philippine offshore gaming operators (Pogos) hub, Roque briefly went into hiding before slipping out of the country last month.
 
 His last known location was the Middle East, which was inadvertently made public when he filed his counter-affidavit to the qualified human trafficking case against him and more than 50 others including his client, Cassandra Li Ong.
