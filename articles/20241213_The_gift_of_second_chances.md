@@ -8,14 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
 The impending return from an Indonesian jail of a Filipino migrant worker tricked into being a drug mule is a spot of good news amid the toxic political scuffle of recent weeks.
 
 The Marcos administration announced over the weekend that, following high-level talks and negotiations, Indonesia has agreed to transfer Mary Jane Veloso to Philippine custody after almost 15 years on death row. The mother of two was sentenced to death on drug charges after 2.6 kilograms of heroin was found in her luggage in 2010. She narrowly escaped execution in 2015 after last-minute appeals from the Aquino administration, which had arrested and prosecuted for syndicated estafa two individuals involved in recruiting Veloso and slipping drugs in her suitcase without her knowledge.
