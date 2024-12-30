@@ -10,17 +10,23 @@ Revenue targets of the Bureau of Internal Revenue (BIR) and the Bureau of Custom
 
 Under the Department of Budget and Management’s (DBM) expenditures and sources of financing plan, the BIR is to collect P2.85 trillion this year while the BOC’s revenue target is P939.6 billion. For 2025, the BIR has been tasked to collect P3.2 trillion, or 12.28 percent more, while the BOC is directed to generate P1.06 trillion, or an increase of 12.04 percent. This will be challenging for both agencies, particularly the BOC, whose average revenue growth is about 5-6 percent a year, according to Finance Secretary Ralph Recto.
 
-The DOF will need Congress’ help in passing key tax measures needed to boost the collections of both the BIR and the BOC. The DOF’s priority measures that need to be passed early by Congress include the imposition of an excise tax on single-use plastics (SUPs), Package 4 of the Comprehensive Tax Reform Program (CTRP), the rationalization of the mining fiscal regime, and the reform on the motor vehicle users’ charge (MVUC).
+The DOF will need the help of Congress in passing key tax measures needed to boost the collections of both the BIR and the BOC. The DOF’s priority measures that need to be passed early by Congress include the imposition of an excise tax on single-use plastics (SUPs), Package 4 of the Comprehensive Tax Reform Program (CTRP), the rationalization of the mining fiscal regime, and the reform on the motor vehicle users’ charge (MVUC).
 
 ## Mismanaged plastic
 
-The DOF said the proposed excise tax on SUPs will not only generate about P31.52 billion in estimated revenue but will also help address climate change. The revenues to be generated from 2025 to 2028 will be earmarked for the Department of Environment and Natural Resources’ solid waste management program in municipalities. The DOF noted the proposed measure seeks to curb the high volume of mismanaged plastics in the country and be the Philippines’ contribution to the global movement on reducing pollution and adopting more sustainable practices while raising revenues to spur economic growth.
+The DOF said the proposed excise tax on SUPs will not only generate about P31.52 billion in estimated revenue but will also help address climate change. The revenues to be generated from 2025 to 2028 will be earmarked for the Department of Environment and Natural Resources’ solid waste management program in municipalities.
+
+The DOF noted the proposed measure seeks to curb the high volume of mismanaged plastics in the country and be the Philippines’ contribution to the global movement on reducing pollution and adopting more sustainable practices while raising revenues to spur economic growth.
 
 According to the DOF, the Philippines has one of the cheapest tax rates per bag at 40 centavos, compared with Ireland’s P12, the state of Virginia’s P3, and Denmark’s P1. The World Bank also identified the Philippines as the third largest contributor of mismanaged plastic entering the ocean each year with 750,000 metric tons.
 
 ## Package 4
 
-For the mining fiscal regime, the DOF estimates annual revenues of P6.3 billion in the next four years, or lower than the original projection of P10.23 billion, due to lower metal prices in the world market. Last October, President Marcos called on legislators to push for this simplified fiscal regime for the mining industry, describing the measure as “fundamental to creating a fair and equitable mining environment for everyone involved.” The government is expected to earn P4.48 billion from royalty tax on miners inside mineral reservations, P1.07 billion from those outside reservations, and P730 million from windfall profit tax.
+For the mining fiscal regime, the DOF estimates annual revenues of P6.3 billion in the next four years, or lower than the original projection of P10.23 billion, due to lower metal prices in the world market.
+
+Last October, President Ferdinand Marcos Jr. called on legislators to push for this simplified fiscal regime for the mining industry, describing the measure as “fundamental to creating a fair and equitable mining environment for everyone involved.”
+
+The government is expected to earn P4.48 billion from royalty tax on miners inside mineral reservations, P1.07 billion from those outside reservations, and P730 million from windfall profit tax.
 
 The DOF, meanwhile, already presented as early as February its refined proposal on the CTRP’s fourth package—a measure recalibrated by Recto during his first week in office—to the Senate committee on ways and means.
 
