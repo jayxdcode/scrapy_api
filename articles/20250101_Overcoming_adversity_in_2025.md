@@ -4,11 +4,9 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01012025.png)
-
 Filipinos have consistently met the coming of a new year with hope and excitement, as it represents a fresh start, looking forward to better days ahead, and a chance to begin again after reflecting on the year that was.
 
-However, the events of 2024—from geopolitical upheavals to local political skirmishes on top of lingering issues with inflation and interest rates—have proven to be so challenging that even Filipinos’ vaunted ability to look at life as a glass half full has been shaken.
+However, the events of 2024 — from geopolitical upheavals to local political skirmishes on top of lingering issues with inflation and interest rates — have proven to be so challenging that even Filipinos’ vaunted ability to look at life as a glass half-full has been shaken.
 
 As a result, only 90 percent of the people expect 2025 to be a good year, down 6 percentage points from 96 percent last year.
 
@@ -30,7 +28,7 @@ The reasons behind the downbeat outlook for this year include grave concerns ove
 
 Indeed, inflation has been the most nagging concern for a few years running. A separate survey by Ipsos revealed that as high as 80 percent of Filipinos expect inflation to rise next year.
 
-“While economists point out that inflation—and interest rates—have fallen in many countries, you might assume that consumers should be feeling more positive by now about their own financial situation and more optimistic about where their country’s economy is headed in 2025,” Ipsos chief executive officer Ben Page said.
+“While economists point out that inflation — and interest rates — have fallen in many countries, you might assume that consumers should be feeling more positive by now about their own financial situation and more optimistic about where their country’s economy is headed in 2025,” Ipsos chief executive officer Ben Page said.
 
 “In fact, they are the opposite. The legacy of high inflation over the past few years is that an expectation of price rises is now hard-wired into the public consciousness,” he added.
 
