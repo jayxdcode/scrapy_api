@@ -6,11 +6,11 @@
 
 ![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01082025.png)
 
-President Marcos expended considerable political capital after he ignored calls to scrap the controversial Ayuda Para sa Kapos ang Kita Program (Akap) and instead injected it with P26 billion in fresh funds under the P6.326-trillion budget for 2025.
+President Ferdinand Marcos Jr. expended considerable political capital after he ignored calls to scrap the controversial Ayuda Para sa Kapos ang Kita Program (Akap) and instead injected it with P26 billion in fresh funds under the P6.326-trillion budget for 2025.
 
-He did, however, sought to reassure the public concerned about the funds being used for political gain—especially that 2025 is an election year—by placing the program under “conditional implementation” to “ensure that the people’s funds are utilized in accordance with their authorized and stated purpose.”The Department of Social Welfare and Development, for instance, will no longer be the sole implementer of Akap.
+He did, however, sought to reassure the public concerned about the funds being used for political gain — especially that 2025 is an election year — by placing the program under “conditional implementation” to “ensure that the people’s funds are utilized in accordance with their authorized and stated purpose.”The Department of Social Welfare and Development, for instance, will no longer be the sole implementer of Akap.
 
-Instead, the program that was introduced last year to help below minimum-wage earners cope with elevated inflation will be rolled out this year in coordination with the Department of Labor and Employment and the National Economic and Development Authority (Neda).
+Instead, the program that was introduced last year to help below-minimum-wage earners cope with elevated inflation will be rolled out this year in coordination with the Department of Labor and Employment and the National Economic and Development Authority (Neda).
 
 “This way, we ensure that its implementation will be strategic, leading to the long-term improvement of the lives of qualified beneficiaries, while guarding against misuse and duplication, and fragmented benefits,” Mr. Marcos explained.
 
@@ -32,7 +32,7 @@ With Akap staying firmly in place, what the government must demonstrate to assua
 
 ## Patronage system
 
-Guidelines, no matter how strict, are only as good as their implementation and the citizens can do their part by being vigilant and call out local and national officials if Akap is not reaching those for whom they are intended and not those who are merely close to the powers that be.But more than these quick fixes, Tama Na said that what Filipinos need more are higher wages and better jobs, not subsidies or dole-outs.
+Guidelines, no matter how strict, are only as good as their implementation, and the citizens can do their part by being vigilant and calling out local and national officials if Akap is not reaching those for whom they are intended and not those who are merely close to the powers that be.But more than these quick fixes, Tama Na said that what Filipinos need more are higher wages and better jobs, not subsidies or dole-outs.
 
 “Very much like the 4Ps program, Akap, and other government sponsored dole-out programs that provide subsidies to alleviate poverty, appear focused on providing necessary relief to struggling families. But in reality, these programs teach dependency rather than empower the people to achieve long-term stability,” the alliance said.
 
