@@ -4,9 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 10, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01102025.png)
-
-Those who have less in life should have more in law.”
+“Those who have less in life should have more in law.”
 
 The words of the late President Ramon Magsaysay might well apply to the fisherfolk adversely affected by a Supreme Court ruling that affirmed a lower court’s decision to grant commercial fishing companies access to municipal waters that, under the Fisheries Code, is restricted to small-scale fishers.
 
