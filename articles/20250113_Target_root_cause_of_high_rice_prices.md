@@ -6,9 +6,11 @@
 
 ![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01132025.png)
 
-Since December last year, the Department of Agriculture (DA) has been announcing measures to address the stubbornly high prices of rice. As 2024 was about to end, it decided to order the removal of brand labels and “premium” and “special” markings on imported rice, suspecting that some industry players were using these to justify their high prices. A few days later, it announced that it is considering declaring a “food security emergency” in early 2025. Last week, the agency decided to impose a P58-a-kilo maximum suggested retail price for imported rice initially in Metro Manila beginning Jan. 20.
+Since December last year, the Department of Agriculture (DA) has been announcing measures to address the stubbornly high prices of rice. As 2024 was about to end, it decided to order the removal of brand labels and “premium” and “special” markings on imported rice, suspecting that some industry players were using these to justify their high prices.
 
-While these measures will help lower prices by a few pesos, such actions are at most palliative and will not bring the country any closer to President Marcos’ campaign promise of P20-a-kilo rice. The only way to permanently reduce the cost of the staple food is to address the root causes of the problem—hoarding and profiteering by colluding importers and traders acting like a cartel to constrict supply and dictate prices in the local market.
+A few days later, it announced that it is considering declaring a “food security emergency” in early 2025. Last week, the agency decided to impose a P58-a-kilo maximum suggested retail price for imported rice initially in Metro Manila beginning Jan. 20.
+
+While these measures will help lower prices by a few pesos, such actions are at most palliative and will not bring the country any closer to President Marcos’ campaign promise of P20-a-kilo rice. The only way to permanently reduce the cost of the staple food is to address the root causes of the problem — hoarding and profiteering by colluding importers and traders acting like a cartel to constrict supply and dictate prices in the local market.
 
 At a House hearing in November last year, Agriculture Undersecretary Asis Perez lamented that the average price of rice should have been about P30 a kilo due to the huge tariff cut on imports and lower international prices. In June last year, the President signed Executive Order No. 62 cutting the rice tariff to 15 percent from 35 percent starting July.
 
