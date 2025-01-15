@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 15, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01152025.png)
-
 The Marcos administration was understandably elated over the Philippine Statistics Authority’s report last week that the country’s jobless rate had gone down to 3.2 percent in November last year from 3.9 percent the prior month and the 3.6 percent in November 2023.
 
 Job quality likewise improved, as the number of employed Filipinos who were either looking for additional jobs or eager to put in more hours went down to 10.8 percent in November from 12.6 percent in October and 11.7 percent in November 2023.
@@ -20,11 +18,11 @@ To do that and therefore build on the hard-fought gains in reducing joblessness 
 
 These substitutes for the traditional, in-office, 9 a.m. to 5 p.m. arrangement include flexible work hours, work from home, work from a satellite office, or work from another fixed place alternatives that gained popularity at the height of the COVID-19 pandemic in 2020.
 
-The pandemic is now in the rear view mirror but many local corporations have chosen to keep these new work arrangements as they have proven to be beneficial to their bottom line.
+The pandemic is now in the rearview mirror, but many local corporations have chosen to keep these new work arrangements as they have proven to be beneficial to their bottom line.
 
 These have allowed their employees to stay productive while improving morale and fostering loyalty, enabling companies to attract and keep the talent that they need to chart their next growth course.
 
-For one, employees who are able to work some—if not all—days at home are spared them the agony of spending hours commuting to and from their offices, thus conserving their funds for other needs such as food, clothing, and shelter, not to mention their energy for their home and family.
+For one, employees who are able to work some — if not all — days at home are spared the agony of spending hours commuting to and from their offices, thus conserving their funds for other needs such as food, clothing, and shelter, not to mention their energy for their home and family.
 
 Some have also been able to move out of the city and work in the provinces where the cost of living is much lower, helping cushion the impact of stubbornly high prices of basic goods and services.
 
@@ -44,7 +42,7 @@ Peter Bithos, chief executive officer of the Asia division of Jobstreet’s pare
 
 Employers, he said, are increasingly looking for great talent with digital and technology skills.
 
-This jibes with the 2023 Universum Talent Survey that revealed that 82 percent of Gen Z respondents–or those between 16 and 23 years old–said they were very much interested in remote work opportunities.
+This jibes with the 2023 Universum Talent Survey that revealed that 82 percent of Gen Z respondents — or those between 16 and 23 years old — said they were very much interested in remote work opportunities.
 
 It makes sense therefore for the Marcos administration to revisit existing policies governing alternative work arrangements, including the Telecommuting Act of 2019 that allowed private sector employees to work from an alternative workplace with the help of the latest technologies.
 
