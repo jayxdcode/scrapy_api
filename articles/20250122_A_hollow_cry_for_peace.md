@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 22, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01222025.png)
-
 
 
 
@@ -36,9 +34,9 @@ Meanwhile, Malacañang had little choice but to play along with the subterfuge. 
 
 ## Flex of political muscle
 
-But the Palace’s official statement betrays the administration’s misguided priorities and lack of direction. After all, it’s not “clarity and consensus” that the public demands to bring closure to the funding irregularities facing the country’s No. 2 official—it’s accountability.
+But the Palace’s official statement betrays the administration’s misguided priorities and lack of direction. After all, it’s not “clarity and consensus” that the public demands to bring closure to the funding irregularities facing the country’s No. 2 official — it’s accountability.
 
-The INC may have marketed its rally as a gathering for national forgiveness, but it’s crystal clear that what it truly seeks is forgiveness for one individual—one who might just be politically useful in three years when another general election ushers in a new administration.
+The INC may have marketed its rally as a gathering for national forgiveness, but it’s crystal clear that what it truly seeks is forgiveness for one individual — one who might just be politically useful in three years when another general election ushers in a new administration.
 
 A day after the INC rally, Justice Secretary Jesus Crispin Remulla said the mammoth gathering would not influence the government’s investigation against Duterte. “We just have to look at the law as something that equalizes everything between all of us, that’s why we cannot give special favors to people because of standing,” he said, adding: “I’m not concerned about that because it’s their freedom to express themselves and we respect that freedom. We regard that freedom zealously.”
 
