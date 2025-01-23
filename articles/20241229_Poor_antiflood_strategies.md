@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM December 29, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12292024.png)
+
 So much for the Metropolitan Manila Development Authority’s (MMDA) repeated assurances that it has been actively working on various infrastructure projects to address the metro’s perennial flood problem. The latest Commission on Audit (COA) report has exposed the agency for its “poor strategies” that deprived the public of much-needed benefits.
 
 In its 2023 report, the COA said that 22 projects worth over P510 million under the Metro Manila Flood Management Project Phase 1 were “not completed” on time under the contract. This crucial project, backed by a $415-million loan from the World Bank, aims to rehabilitate 36 pumping stations and build 20 new ones this year. However, only two stations have been rehabilitated and none of the new ones have been completed as of September. The COA said the delays of up to 310 days cost the government P32.9 million, covering five years from 2018 to 2023, in commitment fees—or the nonrefundable charge imposed on borrowers with an unwithdrawn loan balance—to creditor banks. State auditors said these funds could have been used for other priority programs and projects.

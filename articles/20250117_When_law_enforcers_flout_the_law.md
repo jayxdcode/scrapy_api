@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 17, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01172025.png)
+
 Is there no end to the creative schemes concocted by supporting actors of the Duterte drug war to get around the law and profit from it?
 
 Following the recent Department of Justice (DOJ) resolution recommending the filing of criminal charges against at least 30 police officers involved in a “staged” P6.7-billion “shabu” bust in Manila in 2022, the government said it was launching a police investigation into drug seizures dating back to 2016, when then President Rodrigo Duterte launched his brutal anti-illegal drugs campaign.
