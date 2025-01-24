@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:08 AM December 25, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12252024.png)
-
 The chilly breeze that arrived last weekend signified the last stretch of what is considered the longest Christmas season in the world, which is observed in the Philippines.
 
 From the advent of the “ber months,” this nation has psyched itself up for the coming festivities, starting with the hanging of parol (star-shaped lanterns patterned after the star of Bethlehem) outside windows, to the Christmas countdowns conducted by media outlets, malls, and local government units.

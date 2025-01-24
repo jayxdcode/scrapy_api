@@ -30,9 +30,9 @@ The Comelec, however, declared one petitioner a “nuisance candidate,” due to
 
 Certainly, there are truly nuisance candidates in our midst. But with its insistence on a property qualification, was the Comelec condoning, even enabling, a political system dominated by the rich and powerful who do not share the survival concerns of majority of Filipinos?
 
-Unfortunately, many more similar petitions against disqualification are awaiting court action—25 petitions, according to latest reports—what with Garcia earlier saying that only 66 of 183 individuals running for a Senate seat may be included in the official ballot. With the court ruling possibly encouraging more petitioners to plead their case, how many more ballot revisions—and reprinting and wasted millions—are we bound to hear about in the next couple of weeks?
+Unfortunately, many more similar petitions against disqualification are awaiting court action — 25 petitions, according to latest reports — what with Garcia earlier saying that only 66 of 183 individuals running for a Senate seat may be included in the official ballot. With the court ruling possibly encouraging more petitioners to plead their case, how many more ballot revisions — and reprinting and wasted millions — are we bound to hear about in the next couple of weeks?
 
-For sure, some people might blame the high court for its belated and costly ruling, especially given that it had been fully informed of the Comelec’s election preparation timeline. But why begrudge the court its duty to undo—even at the last minute—what would otherwise be an injustice, a denial of someone’s right to due process?
+For sure, some people might blame the high court for its belated and costly ruling, especially given that it had been fully informed of the Comelec’s election preparation timeline. But why begrudge the court its duty to undo — even at the last minute — what would otherwise be an injustice, a denial of someone’s right to due process?
 
 ## Tricky passage
 
