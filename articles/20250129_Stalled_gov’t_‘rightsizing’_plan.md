@@ -42,6 +42,6 @@ The House of Representatives had already passed its version in March 2023, thus 
 
 The Philippine Institute for Development Studies also noted in its own study that from 2014 to 2021, the national government spends an average of 28.8 percent of its annual budget on PS.
 
-This means that by going through the painful–but ultimately necessary process of reviewing the government structure to remove any excess fat, then the government will be able to free up resources for other urgent priorities such as infrastructure development, social welfare, and agriculture projects while keeping the bureaucracy fully equipped to serve the people.
+This means that by going through the painful — but ultimately necessary — process of reviewing the government structure to remove any excess fat, then the government will be able to free up resources for other urgent priorities such as infrastructure development, social welfare, and agriculture projects while keeping the bureaucracy fully equipped to serve the people.
 
 That is a legacy that Mr. Marcos can and should continue to fight for. There is still time to succeed where previous administrations have failed.
