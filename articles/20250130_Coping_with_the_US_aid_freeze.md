@@ -20,7 +20,7 @@ On Monday, he ordered a freeze on all US development and military assistance to 
 
 De Vega, however, remains certain that the new sites for the Enhanced Defense Cooperation Agreement (Edca) won’t be affected, an optimism that may have basis in fact. With the Philippines providing a strategic location for safeguarding US interests in the Indo-Pacific amid China’s increasing aggression in the South China Sea, the Trump administration would be foolish and short-sighted to withhold funding from its long-time ally this side of the world.
 
-The newly appointed US Secretary of State, Marco Rubio, has also reiterated the US’ “ironclad” commitment to defending the Philippines amid China’s provocative actions in the West Philippine Sea under the 1951 Mutual Defense Treaty. “An armed attack in the Pacific, including anywhere in the South China Sea, on either of their public vessels, aircraft, or armed forces—which includes their Coast Guards—would invoke mutual defense commitments,” the US Department of State said after Rubio met with Philippine Foreign Secretary Enrique Manalo earlier this month.
+The newly appointed US Secretary of State, Marco Rubio, has also reiterated the US’ “ironclad” commitment to defending the Philippines amid China’s provocative actions in the West Philippine Sea under the 1951 Mutual Defense Treaty. “An armed attack in the Pacific, including anywhere in the South China Sea, on either of their public vessels, aircraft, or armed forces—which includes their Coast Guards — would invoke mutual defense commitments,” the US Department of State said after Rubio met with Philippine Foreign Secretary Enrique Manalo earlier this month.
 
 ## Proactive and pragmatic
 
