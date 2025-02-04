@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 04, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02042025.png)
-
 
 
 
@@ -14,7 +12,7 @@
 
 Here, at last, comes a serious and determined push in Congress to increase the minimum daily salary in the private sector, some 36 years after the country’s workers experienced their last across-the-board wage hike.
 
-The proposed raise—set initially at P100 by the Senate and now doubled by the House of Representatives to P200—offers not just relief but salvation to millions of working-class Filipinos whose earnings have failed to keep up with skyrocketing costs of feeding, clothing, and housing their families.
+The proposed raise — set initially at P100 by the Senate and now doubled by the House of Representatives to P200 — offers not just relief but salvation to millions of working-class Filipinos whose earnings have failed to keep up with skyrocketing costs of feeding, clothing, and housing their families.
 
 What made everyone sit up and take notice wasn’t so much the announcement itself but where the announcement was coming from: Speaker Martin Romualdez, who on Wednesday pledged to speed up deliberations on the minimum daily wage hike bill, following a meeting with labor leaders.
 
@@ -30,7 +28,7 @@ But the timing raised questions about the lawmakers’ motive in pushing for the
 
 Then again, do the legislature’s intentions matter when the outcome redounds to the greater good for the greatest number?
 
-The case for a wage hike is not only compelling—it is undeniable.
+The case for a wage hike is not only compelling — it is undeniable.
 
 Over the years, inflation has whittled away at the purchasing power of Filipino workers, reaching 2.9 percent in December. Yet, today’s minimum wage remains woefully inadequate to meet the basic needs of a family, while scant regional wage increases consistently fail to keep up with soaring costs of food, transportation, and utilities.
 
@@ -48,7 +46,9 @@ Deputy Speaker Democrito Raymond Mendoza of the Trade Union Congress of the Phil
 
 ## Backbone of nation’s economy
 
-As the House begins debates on the wage hike bill, the challenge for lawmakers now is finding the magic number that is acceptable to both labor and business sectors. The P200 proposal is a step in the right direction, but by no means is it an upper limit. Lawmakers must engage in genuine dialogue with stakeholders and be open to compromise. For instance, a possible middle ground is the grant of wage subsidies to MSMEs. In the end, the final product must not fall short of a sustainable wage increase that lifts workers out of poverty without crippling employers.
+As the House begins debates on the wage hike bill, the challenge for lawmakers now is finding the magic number that is acceptable to both labor and business sectors. The P200 proposal is a step in the right direction, but by no means is it an upper limit.
+
+Lawmakers must engage in genuine dialogue with stakeholders and be open to compromise. For instance, a possible middle ground is the grant of wage subsidies to MSMEs. In the end, the final product must not fall short of a sustainable wage increase that lifts workers out of poverty without crippling employers.
 
 The clock is ticking, and the onus is on both legislative chambers and Malacañang to rally behind this long overdue measure. It may well require President Marcos certifying the bill as urgent for it to be enacted before the midterm poll winners take office. But whether motivated by the people’s welfare or their odds of being reelected, lawmakers must act quickly to ensure the proposal does not get drowned out by election noise.
 
