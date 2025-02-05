@@ -12,7 +12,7 @@ Last week, the Commission on Audit (COA) said that as of September 2023, the Phi
 
 This was significantly higher than the 7.035 million wasted vials of COVID-19 vaccines that the COA had flagged in its annual report on the Department of Health for 2023, indicating that the problem with wasted vaccines was far more serious than initially thought.
 
-According to the COA’s comprehensive audit conducted from May 2023 to January 2024 on the national vaccination campaign, the wasted COVID-19 vaccines accounted for as much as 27 percent of the total vaccine supply of 251.8 million COVID-19 jabs—roughly one of every three doses—exceeding the standard maximum “wastage allowance” of 25 percent.
+According to the COA’s comprehensive audit conducted from May 2023 to January 2024 on the national vaccination campaign, the wasted COVID-19 vaccines accounted for as much as 27 percent of the total vaccine supply of 251.8 million COVID-19 jabs — roughly one of every three doses — exceeding the standard maximum “wastage allowance” of 25 percent.
 
 ## Expiration date
 
