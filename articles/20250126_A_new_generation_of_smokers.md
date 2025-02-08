@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 26, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01262025.png)
+
 The worst fears of those who opposed and criticized Republic Act No. 11900 or the Vaporized Nicotine and Non-Nicotine Products Regulation Act have materialized. Instead of reducing the prevalence of smoking, more people have turned to the deadly habit through electronic smoking devices.
 
 A Senate hearing this week found that the country gained 9.5 million new smokers between 2021 and 2023. What’s even more concerning is that around 1 million of them were adolescents, or those aged 10 to 19.
