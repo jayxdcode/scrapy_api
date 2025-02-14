@@ -6,7 +6,7 @@
 
 ![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02142025.png)
 
-Love” and “scam” are four-letter words that, coupled together, have brought ruin to a lot of lives.
+“Love” and “scam” are four-letter words that, coupled together, have brought ruin to a lot of lives.
 
 It starts innocently enough, the promise of a solid relationship an irresistible hook for the lonely and besotted for whom Valentine’s Day for one has become a painful and chronic gibe.
 
@@ -32,7 +32,9 @@ Despite a nationwide ban on Pogo operations in December last year, some of the l
 
 Australia’s advisory against love scams underscores how the ban on Pogos has not rooted out a lucrative industry that has simply downgraded into less conspicuous schemes. This has reinforced the dubious distinction for the Philippines as hub of a growing list of criminal enterprises.
 
-While diligent monitoring and surveillance have resulted in raids and the rescue of trafficked workers, the PAOCC and other government agencies must scale up their operations to prevent love scams from flourishing further. It wouldn’t hurt to offer rewards to tipsters and, on top of deporting illegal foreign workers caught in raided hubs, initiate full prosecution of Pogos, local officials who might have looked the other way in granting business licenses and permits, as well as the owners of properties leased by these illegal businesses. A hefty fine and possible jail time should also be a deterrent.
+While diligent monitoring and surveillance have resulted in raids and the rescue of trafficked workers, the PAOCC and other government agencies must scale up their operations to prevent love scams from flourishing further.
+
+It wouldn’t hurt to offer rewards to tipsters and, on top of deporting illegal foreign workers caught in raided hubs, initiate full prosecution of Pogos, local officials who might have looked the other way in granting business licenses and permits, as well as the owners of properties leased by these illegal businesses. A hefty fine and possible jail time should also be a deterrent.
 
 ## Online romances
 
@@ -40,7 +42,11 @@ Fast tracking the case against Alice Guo, who was behind one of the biggest Pogo
 
 The government, too, must assign more agents to check out dating sites and launch an information campaign to warn of love scams through ads on Facebook and other social media platforms where online relationships often start.
 
-Netizens meanwhile must beware of red flags when using dating apps. Watch out for “overly affectionate behavior” by someone you’ve just met online, and who starts professing love so soon after you connect. Be careful as well with what you share online: never disclose personal information or send intimate photos to people you hardly know as this may be used to extort or blackmail you or steal your identity.
+Netizens meanwhile must beware of red flags when using dating apps.
+
+Watch out for “overly affectionate behavior” by someone you’ve just met online, and who starts professing love so soon after you connect.
+
+Be careful as well with what you share online: never disclose personal information or send intimate photos to people you hardly know as this may be used to extort or blackmail you or steal your identity.
 
 Do your research and make sure people you’ve met on dating sites are genuine. Look them up on Google, perform a reverse image search on their profile picture, or ask to meet them in-person or via video call.
 
