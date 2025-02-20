@@ -18,7 +18,7 @@ Thanking the UAE for the donation, Araneta-Marcos said: “We would be able to c
 
 Executive Order No. 35 issued in July 2023 mandated the rehabilitation of the 27-kilometer river to its “historically pristine condition conducive to transport, recreation, and tourism,” and established an interagency committee to coordinate rehabilitation efforts among government agencies.
 
-A 500-meter esplanade was built in January last year behind the Manila Central Post Office as a showcase for the project. The second phase at Plaza Mexico, Magallanes Drive in Intramuros was launched in June 2024, while the third phase—the 305-meter Fort Santiago Riverwalk which will connect the historic Fort Santiago and the Pasig River Esplanade—was set to be launched last Monday.
+A 500-meter esplanade was built in January last year behind the Manila Central Post Office as a showcase for the project. The second phase at Plaza Mexico, Magallanes Drive in Intramuros was launched in June 2024, while the third phase — the 305-meter Fort Santiago Riverwalk which will connect the historic Fort Santiago and the Pasig River Esplanade — was set to be launched last Monday.
 
 Once an important transport route and source of water during the Spanish era and on which banks the center of government and cities rose, Pasig River suffered neglect and abuse with the increase in population and economic activities after World War II. By the 1990s, the river was unable to sustain marine life and was declared biologically dead. In April 2021, it was considered the most polluted body of water in a global study of rivers published in Science Advances, a journal of the American Association for the Advancement of Science.
 
@@ -26,7 +26,7 @@ Once an important transport route and source of water during the Spanish era and
 
 Every administration since Ferdinand Marcos Sr. tried to rehabilitate the river, but such grand plans fizzled out or were eventually dropped. The second Marcos administration has picked up the daunting challenge, with the First Lady taking up the cause albeit in an unofficial capacity.
 
-While a good plan has been set in motion, backed by domestic and foreign funding, it is crucial that the river’s rehabilitation goes beyond beautification. The more daunting task is to get to the bottom of the problem—quite literally—with the clean-up of decades-worth of garbage and pollution in the riverbed and the relocation of informal settlers along its banks and tributaries.
+While a good plan has been set in motion, backed by domestic and foreign funding, it is crucial that the river’s rehabilitation goes beyond beautification. The more daunting task is to get to the bottom of the problem — quite literally — with the clean-up of decades-worth of garbage and pollution in the riverbed and the relocation of informal settlers along its banks and tributaries.
 
 This requires massive resources and, fortunately, the private sector and global financiers like the UAE, are ready to pitch in. Conglomerate San Miguel Corp. (SMC), on its own, has undertaken a P2-billion clean-up of the Pasig River and has, since 2021, hauled out 1.3 million tons of silt and solid waste from the waterway. While commendable, its efforts are tied with the construction of an elevated expressway above the river, a plan shelved in 2023 due to mounting criticisms that the expressway would “entomb” the river and cause more pollution.
 
