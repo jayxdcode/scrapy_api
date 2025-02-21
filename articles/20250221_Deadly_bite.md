@@ -4,15 +4,13 @@
 
 ****Philippine Daily Inquirer / 05:07 AM February 21, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02212025.png)
-
 It’s a problem that’s been hovering since the 2017 Dengvaxia controversy led to the suspension of the Department of Health’s (DOH) vaccination campaign against this endemic scourge.
 
 On Saturday, Quezon City declared a dengue outbreak, while the DOH has noted “a concerning rise” in the number of dengue cases in eight other local government units (LGUs) in the National Capital Region, Calabarzon, and Central Luzon.
 
 Data from the QC Epidemiology and Surveillance Division showed that 1,769 dengue cases were reported between Jan. 1 and Feb. 14 in Metro Manila’s most populous city, with at least 10 deaths logged, eight of them minors.
 
-Across the country, the DOH reported a total of 28,234 cases from Jan. 1 to Feb. 1—a 40-percent increase for the same period in 2024. From 2008 to 2012, the agency noted an annual average of 117,065 dengue cases, placing the country fourth in dengue burden in Southeast Asia.
+Across the country, the DOH reported a total of 28,234 cases from Jan. 1 to Feb. 1 — a 40-percent increase for the same period in 2024. From 2008 to 2012, the agency noted an annual average of 117,065 dengue cases, placing the country fourth in dengue burden in Southeast Asia.
 
 The alarming figures led Barangay Addition Hills in Mandaluyong to offer a bounty for mosquitos or their larva, in an initiative called “May Piso sa Mosquito.” Villagers will be paid P1 for every five mosquitos or wriggler (“kiti-kiti”) brought to the barangay hall, where the insects will be placed in a sealed glass container and eventually killed.
 
@@ -44,4 +42,4 @@ Prevention being infinitely better than cure, the DOH has reiterated its “5S�
 
 Other LGUs, too, might want to follow Quezon City’s response to the outbreak, which includes longer operating hours for health clinics in the city to extend immediate treatment to dengue patients.
 
-The DOH should also take a second look at dengue vaccines that are widely accepted in other countries, especially now that thousands of lives—mostly minors—are at stake.
+The DOH should also take a second look at dengue vaccines that are widely accepted in other countries, especially now that thousands of lives — mostly minors — are at stake.
