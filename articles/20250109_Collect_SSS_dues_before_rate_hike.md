@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 09, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01092025.png)
+
 Compared to the state-run Government Service Insurance System or GSIS, which provides qualified members up to 80 percent of their average monthly salary in monthly pension, its private sector counterpart, the SSS or Social Security System, offers a lean pension barely enough to cover maintenance medication.
 
 Such skimpy benefits might explain the protests that greeted the SSS announcement of a 15-percent hike in member contributions starting this month, with 10 percent to be shouldered by the employer and the remaining 5 percent by the employee.

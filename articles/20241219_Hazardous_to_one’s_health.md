@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 19, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12192024.png)
+
 Imagine the elevated heart rate that Philippine Health Insurance Corp. (PhilHealth) members are bound to experience upon learning that the bicameral conference committee has scrapped its P74.431 billion government subsidy for 2025. This, on top of the P30 billion in reserve funds already transferred to the national treasury in October despite a temporary restraining order issued by the Supreme Court to the Department of Finance.
 
 The latest stroke-inducing report is PhilHealth’s allocation of P137.7 million for its 30th anniversary celebration next year, a tone-deaf extravaganza in these inflation-saddled times.
