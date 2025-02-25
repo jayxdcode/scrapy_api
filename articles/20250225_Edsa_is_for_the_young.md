@@ -4,9 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 25, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02252025.png)
-
-As custom dictates, Filipinos of a certain age will spend the 25th of February performing their annual rite of self-reflection—and self-flagellation—about the historic events remembered on this day. In the protest-filled streets or in the comfort of their homes or workplaces, many will invariably ask: Did we learn our lesson from the 1986 Edsa People Power Revolution?
+As custom dictates, Filipinos of a certain age will spend the 25th of February performing their annual rite of self-reflection — and self-flagellation — about the historic events remembered on this day. In the protest-filled streets or in the comfort of their homes or workplaces, many will invariably ask: Did we learn our lesson from the 1986 Edsa People Power Revolution?
 
 The easiest way to answer this, of course, is by looking at the current occupant of Malacañang: Ferdinand Marcos’ son and namesake, whose ascent to power through a landslide victory in 2022 seemed to extinguish the dying embers of revolution that galvanized our people one year shy of four decades ago, today.
 
