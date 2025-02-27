@@ -16,7 +16,7 @@ The problem becomes more acute with pre-election polls, where the main issue is 
 
 Section 5.1 of the Fair Election Act defines election surveys as “the measurement of opinions and perceptions of the voters as regards a candidate’s popularity, qualifications, platforms, or a matter of public discussion in relation to the election, including voters’ preference for candidates or publicly discussed issues during the campaign period.”
 
-As voters often lack sufficient information or easy access to the candidates’ background and track record, survey respondents cannot easily make informed choices. At best, election surveys are popularity contests—whoever has name recall gets the upper hand.
+As voters often lack sufficient information or easy access to the candidates’ background and track record, survey respondents cannot easily make informed choices. At best, election surveys are popularity contests — whoever has name recall gets the upper hand.
 
 The Brookings Institute stressed that “public opinion is an illusive commodity. Attempts to measure it… will perforce reveal inconsistency and change.” It added that “citizens use information shortcuts when making decisions in the political arena—with new and personal information driving out the old and impersonal.
 
@@ -24,7 +24,9 @@ The Brookings Institute stressed that “public opinion is an illusive commodity
 
 With the public lacking fixed preferences on many issues, political actors have ample incentive to supply those shortcuts in ways that might broaden support for themselves and the policies they champion” (“Polling & Public Opinion: The good, the bad, and the ugly,” 06/01/03).
 
-The bandwagon effect makes surveys self-fulfilling prophecies based on the perceived accuracy of their results. Senatorial candidates who are in the so-called Magic 12 list of pre-election surveys can increase their popularity by appearing to be winnable. This comes at the expense of those who are perennially outside the winning circle, not because of their lack of competence or genuine public service aspirations, but because they are either unknown or less popular.
+The bandwagon effect makes surveys self-fulfilling prophecies based on the perceived accuracy of their results. Senatorial candidates who are in the so-called Magic 12 list of pre-election surveys can increase their popularity by appearing to be winnable.
+
+This comes at the expense of those who are perennially outside the winning circle, not because of their lack of competence or genuine public service aspirations, but because they are either unknown or less popular.
 
 Particularly problematic are nonscientific election surveys conducted by fly-by-night polling firms and even by traditional media and social media vloggers and influencers.
 
