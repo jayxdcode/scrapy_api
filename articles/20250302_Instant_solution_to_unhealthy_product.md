@@ -4,15 +4,13 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03022025.png)
-
 They are tasty, cheap, and convenient, but also very harmful to one’s health. With massive global appeal of instant noodles, it’s about time manufacturers take on the challenge of making their product safer for public consumption. It all boils down to cutting down on the salt, sugar, and fat content of instant noodles.
 
 It’s a challenge that certainly won’t have instant results given the enormous size of the industry, which is projected to grow from $61 billion in 2024 to $98 billion by 2032. Nonetheless, it is a critical and necessary action that manufacturers must take given the popularity of instant noodles and the harm they pose to public health.
 
 Members of the World Instant Noodles Association (Wina) signed this week the “Manila Declaration” at the end of the World Instant Noodles Summit held in Taguig City setting goals for the industry including reducing salt and fat in instant noodles and ensuring the safety of ingredients and food processes.
 
-The world consumes 100 million instant noodle meals a year, according to Wina, with China, Indonesia, India, Vietnam, Japan, and the United States among the top consumers. The Philippines ranks seventh with about 4 billion packs consumed in 2023. This huge appetite has been attributed to the popularity of “pancit canton” among Filipinos known for their carbohydrate-heavy diet.
+The world consumes 100 billion instant noodle meals a year, according to Wina, with China, Indonesia, India, Vietnam, Japan, and the United States among the top consumers. The Philippines ranks seventh with about 4 billion packs consumed in 2023. This huge appetite has been attributed to the popularity of “pancit canton” among Filipinos known for their carbohydrate-heavy diet.
 
 The noodles are quick to prepare and, at a time when food prices have been constantly increasing, they are very cheap. They are also very accessible and can be bought even from the humble neighborhood sari-sari stores in barangays and remote villages.
 
