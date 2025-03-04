@@ -8,11 +8,11 @@
 
 The script practically writes itself: A kidnapped Chinese teenager’s pinkie finger is chopped off; his driver gets murdered in cold blood; the authorities arrive late but recover the victim; the perpetrators speed away unscathed.
 
-Sadly, this is not a scene from a dystopian thriller—it is the reality facing a country that can’t quite get rid of the remnants of its shuttered offshore gaming industry.
+Sadly, this is not a scene from a dystopian thriller — it is the reality facing a country that can’t quite get rid of the remnants of its shuttered offshore gaming industry.
 
 The government, which once embraced Philippine offshore gaming operators (Pogos) with open arms, now finds itself ill-prepared and ill-equipped to track down the criminals they left behind. Deportation efforts are sluggish, law enforcement remains overwhelmed, and syndicates have moved on from online scams to more violent pursuits.
 
-The latest case—a 14-year-old Chinese boy kidnapped and brutalized by his captors—lays bare the gruesome consequences of the government’s mismanagement of the Pogo exodus.
+The latest case — a 14-year-old Chinese boy kidnapped and brutalized by his captors—lays bare the gruesome consequences of the government’s mismanagement of the Pogo exodus.
 
 Based on reports, the victim was forcibly taken upon leaving the British School Manila and held for ransom. When his kidnappers grew impatient, they severed his finger and sent a video recording to his family as a warning. The boy’s Filipino driver, caught in the crossfire, was found dead the next day.
 
@@ -26,7 +26,7 @@ By emphasizing that both the victim and the suspects are foreigners, the interio
 
 In fact, the illusion that these crimes are self-contained ignores the very real danger they pose to Filipino communities.
 
-In 2016, the Duterte administration, intent on pursuing warmer relations with China, allowed Chinese-run Pogos to flourish with minimal oversight. For years, these operations raked in billions, employing thousands of Chinese and other nationals while operating in a murky legal environment. When reports of Pogo-related crimes surfaced, the government responded with half-measures—occasionally shutting down a few errant operators but never addressing the root of the problem.
+In 2016, the Duterte administration, intent on pursuing warmer relations with China, allowed Chinese-run Pogos to flourish with minimal oversight. For years, these operations raked in billions, employing thousands of Chinese and other nationals while operating in a murky legal environment. When reports of Pogo-related crimes surfaced, the government responded with half-measures — occasionally shutting down a few errant operators but never addressing the root of the problem.
 
 ## Painfully slow
 
