@@ -24,7 +24,7 @@ The blame is being placed squarely on the truck driver who still crossed knowing
 
 But while the driver certainly has a lot to answer for, the fault does not lie with him alone.
 
-His crossing of that bridge—which has not even been formally inaugurated—was just the proverbial final straw, with corruption feared to be the bigger culprit, and the primary reason why a section of the bridge failed so soon after it was opened to the public.
+His crossing of that bridge — which has not even been formally inaugurated — was just the proverbial final straw, with corruption feared to be the bigger culprit, and the primary reason why a section of the bridge failed so soon after it was opened to the public.
 
 The regional office of the Department of Public Works and Highways (DPWH) is still conducting an official investigation, with experts from its Bureau of Design and Bureau of Construction of tapped to “conduct further evaluation and assessment.”
 
@@ -34,19 +34,19 @@ DPWH Cagayan Valley officer in charge engineer Mathias Malenab refuted allegatio
 
 Instead of being reassured by Malenab’s assurances, however, allegations of corruption, inadequate inspections and shoddy work by the contractors and possible collusion with local DPWH inspectors are gaining more traction, especially as the DPWH has long been perceived as a public agency ridden with corruption.
 
-The Marcos administration’s commitment to get to the bottom of the situation and punish those involved is therefore welcome.
+The Marcos administration’s commitment to get to the bottom of the situation and punish those involved is, therefore, welcome.
 
 “If there is any trace of corruption in what happened from 2014 until now, those responsible must be held accountable” and face consequences, including imprisonment, according to Palace Press Office Claire Castro.
 
-House Deputy Minority Leader and ACT Teachers Rep. France Casto has called for congressional inquiry to determine accountability at all levels. “It’s alarming that a P1.22 billion bridge that was just retrofitted on Feb. 1 has already collapsed. This is not just a simple accident or mere negligence. We need to examine the possibility of corruption and substandard materials,” she said in Filipino.
+House Deputy Minority Leader and ACT Teachers Rep. France Casto has called for a congressional inquiry to determine accountability at all levels. “It’s alarming that a P1.22 billion bridge that was just retrofitted on Feb. 1 has already collapsed. This is not just a simple accident or mere negligence. We need to examine the possibility of corruption and substandard materials,” she said in Filipino.
 
-At the Senate, Senate Minority Leader Sen. Koko Pimentel has filed a resolution calling for an inquiry on the Isabela bridge collapse and other similar incidents which he said have “reached an alarming level.”
+At the Senate, Senate Minority Leader Sen. Koko Pimentel has filed a resolution calling for an inquiry on the Isabela bridge collapse and other similar incidents, which he said have “reached an alarming level.”
 
 Sen. Ramon Revilla Jr., who chairs the Senate committee on public works, said that indeed, “heads must roll” and even sought that the contractor be blacklisted and made to fix the bridge at no additional cost to Filipinos.
 
 ## Rigorous safety standards
 
-Former senator Panfilo Lacson, for his part, said that such infrastructure failures simply must not occur and it is the mandate of the local governments as well as the DPWH to ensure that they pass rigorous safety standards with people’s lives and property on the line.
+Former senator Panfilo Lacson, for his part, said that such infrastructure failures simply must not occur, and it is the mandate of the local governments as well as the DPWH to ensure that they pass rigorous safety standards with people’s lives and property on the line.
 
 “What is the purpose of a bridge if trucks can’t pass through it? Maybe the materials were substandard. Until someone is held accountable and jailed, this won’t stop,’’ Lacson said.
 
