@@ -6,13 +6,13 @@
 
 ![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03062025.png)
 
-Of all previous violators of the exclusive use of the Edsa busway, the police convoy reportedly carrying the chief of the Philippine National Police takes the cake. How can the country’s top law enforcement agency show such callous disregard for traffic rules meant to ease traffic woes among commuters using public buses? With the PNP’s brazen sense of entitlement—and display of ignorance—how can other motorists be faulted for similarly flouting the law?
+Of all previous violators of the exclusive use of the Edsa busway, the police convoy reportedly carrying the chief of the Philippine National Police takes the cake. How can the country’s top law enforcement agency show such callous disregard for traffic rules meant to ease traffic woes among commuters using public buses? With the PNP’s brazen sense of entitlement — and display of ignorance — how can other motorists be faulted for similarly flouting the law?
 
 Last week, operatives of the Department of Transportation’s (DOTr) special action flagged down two sport utility vehicles escorted by Highway Patrol Group motorcycles at the northbound lane of the busway’s Ortigas section. A police officer said they were with PNP chief Gen. Rommel Marbil, and insisted that the convoy was allowed to use the busway reserved exclusively for the highest officials of the land. A cop later returned to get the ticket for the violation.
 
 More than a week since the incident, Marbil has yet to confirm whether or not he was with the convoy, but his silence speaks volumes. Instead of clarifying the matter, Marbil justified the unauthorized act, saying that top police officers had been summoned to an “emergency meeting” by Interior Secretary Jonvic Remulla, and that police officers should be allowed to use the busway for “emergency, national issues.”
 
-The PNP then went on damage control mode—with a memo from the PNP Directorate for Police Community Relations ordering a “communications strategy” to downplay the incident.
+The PNP then went on damage control mode — with a memo from the PNP Directorate for Police Community Relations ordering a “communications strategy” to downplay the incident.
 
 ## Shameless tactics
 
@@ -42,8 +42,10 @@ Violations are so common that the busway has become a lucrative source of govern
 
 ## Culture of impunity
 
-Several suggestions have been floated to deter violators, with former senator and former police chief Panfilo Lacson proposing that the direction of the busway be reversed. Motorists will not risk a head-on collision with buses running on the opposite direction of the busway, he reasoned out.
+Several suggestions have been floated to deter violators, with former senator and former police chief Panfilo Lacson proposing that the direction of the busway be reversed. Motorists will not risk a head-on collision with buses running in the opposite direction of the busway, he reasoned out.
 
-Such proposal sends the message that traffic managers better throw in the towel, with the situation so dire that law-enforcers and the public should adjust to violators instead of the other way around. It represents the triumph of misguided and entitled PNP leaders, politicians, name-droppers, and others who think that only their time is precious and should be upheld despite the cost to public order and safety. It encourages as well the culture of impunity we thought had been shelved with the end of the Duterte regime. It also promotes the mentality among government officials that they are in office not to serve the public, but to be deferred to and served.
+Such proposal sends the message that traffic managers better throw in the towel, with the situation so dire that law-enforcers and the public should adjust to violators instead of the other way around. It represents the triumph of misguided and entitled PNP leaders, politicians, name-droppers, and others who think that only their time is precious and should be upheld despite the cost to public order and safety. 
+
+It encourages as well the culture of impunity we thought had been shelved with the end of the Duterte regime. It also promotes the mentality among government officials that they are in office not to serve the public, but to be deferred to and served.
 
 Ultimately, the rampant misuse of the Edsa busway is a reminder of the failure of past and present administrations to fix the traffic mess that has been wasting billions in resources and taxing the patience of its citizens.
