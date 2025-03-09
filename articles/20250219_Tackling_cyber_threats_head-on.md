@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 19, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02192025.png)
-
 
 
 The World Economic Forum highlighted in its Global Cybersecurity Outlook 2025 that leaders around the world “must adopt a security-first mindset” amid an increasingly complex cyberspace where threats are becoming more sophisticated and criminals more adept at infiltrating systems and perpetrating scams and fraud that can cripple countries, institutions, and individuals.

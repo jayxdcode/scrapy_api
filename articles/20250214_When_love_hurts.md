@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM February 14, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02142025.png)
-
 “Love” and “scam” are four-letter words that, coupled together, have brought ruin to a lot of lives.
 
 It starts innocently enough, the promise of a solid relationship an irresistible hook for the lonely and besotted for whom Valentine’s Day for one has become a painful and chronic gibe.

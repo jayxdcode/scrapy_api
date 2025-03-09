@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM February 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02072025.png)
-
 It just might be the shot in the arm that the Philippine Health Insurance Corp. (PhilHealth) needs to regain consciousness on the proper and efficient handling of funds from the premium payments of its 62.24 million members.
 
 On Tuesday, President Ferdinand Marcos Jr. named Dr. Edwin Mercado president and chief executive officer of the state health insurance firm that, in recent months, has descended into chaos following several budget controversies, among them the zero subsidy from the government, and the transfer of P60 billion of its unused funds to the national treasury. In October 2024, the Supreme Court issued a temporary restraining order to stop the finance department from further impounding P29.9 billion of PhilHealth’s money amid claims that the agency has at least P500 billion in reserve funds.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 30, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12302024.png)
-
 Revenue targets of the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC), the government’s main tax generators, will be increased by double-digit rates next year to help finance the administration’s P6.352-trillion national budget for 2025. The Department of Finance (DOF) intends to achieve this through increased collection efficiency and the passage of several tax measures.
 
 Under the Department of Budget and Management’s (DBM) expenditures and sources of financing plan, the BIR is to collect P2.85 trillion this year while the BOC’s revenue target is P939.6 billion. For 2025, the BIR has been tasked to collect P3.2 trillion, or 12.28 percent more, while the BOC is directed to generate P1.06 trillion, or an increase of 12.04 percent. This will be challenging for both agencies, particularly the BOC, whose average revenue growth is about 5-6 percent a year, according to Finance Secretary Ralph Recto.

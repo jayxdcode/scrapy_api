@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 06, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02062025.png)
-
 
 
 While Congress was focused on the Palace-approved postponement of elections for the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), grave allegations of fund misuse have been hurled at its government in what could become another roadblock to the region’s full autonomy.

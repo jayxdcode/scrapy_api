@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM February 16, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02162025.png)
-
 People living in the Philippines are enjoying pleasant weather due to the lingering effects of La Niña, but this should not fool anyone into complacency because temperatures are expected to break records again in a few months.
 
 Despite the country’s cool weather, January has been the warmest on record globally, according to satellite data from the European Union’s Copernicus program. Samantha Burgess of the Climate at the European Centre for Medium Range Weather Forecasts said these findings were unexpected because the development of La Niña, which heralds the periodic cooling of sea-surface temperatures across the east-central equatorial Pacific, was thought to have had a “temporary cooling effect on global temperatures.”
