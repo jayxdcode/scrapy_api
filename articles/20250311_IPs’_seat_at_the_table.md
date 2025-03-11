@@ -16,7 +16,7 @@ That alone is a win for indigenous representation.
 
 ## Late by only three minutes
 
-During its full-court session last week, the high court found that the Comelec committed grave abuse of discretion in barring Balintay from filing his certificate of candidacy (COC), because he was late in submitting the complete requirements—by three minutes.
+During its full-court session last week, the high court found that the Comelec committed grave abuse of discretion in barring Balintay from filing his certificate of candidacy (COC), because he was late in submitting the complete requirements — by three minutes.
 
 Balintay filed his COC on the last day of filing in October last year, just 25 minutes before the 5 p.m. deadline, but it turned out his application lacked a required fifth copy and documentary stamps. He rushed to complete the requirements, but by the time he came back, the deadline had already lapsed.
 

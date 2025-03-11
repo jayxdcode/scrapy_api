@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 In a widely lauded move, Philippine National Police-Criminal Investigation and Detection Group (CIDG) chief Brig. Gen. Nicolas Torre III on Saturday lodged a formal complaint against a vlogger for falsely claiming on social media that the general was hospitalized and in critical condition.
 
 “This caused worry and distress to my family and friends,” Torre said, addressing vlogger Ernesto “Jun” Abines Jr., a known supporter of the Duterte family.
