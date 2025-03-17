@@ -18,13 +18,19 @@ The IBPAP’s fears is that Trump’s “push for reshoring and nearshoring” c
 
 Bart Edes, a distinguished fellow and policy analyst at the Asia Pacific Foundation of Canada, said in a policy paper in October last year that the growing use of AI technologies threatens employment in the industry as many BPO workers risk job losses as AI increasingly automates customer support tasks, including individuals who perform voice-based services and write social media and market content.
 
-“AI-driven technologies, including virtual assistants, chatbots, and automated customer service platforms, have begun to take over tasks previously handled by humans, especially for routine customer inquiries and screening and directing customers’ calls. Indeed, the rapid adoption of chatbots to answer common questions threatens to suppress demand for entry-level customer service representatives,” he pointed out. Edes noted that AI tools can now engage with customers worldwide without language barriers, eroding the Philippines’ competitive advantage of an English-speaking workforce and diminishing the advantage of companies’ outsourcing their services to another country.
+“AI-driven technologies, including virtual assistants, chatbots, and automated customer service platforms, have begun to take over tasks previously handled by humans, especially for routine customer inquiries and screening and directing customers’ calls. Indeed, the rapid adoption of chatbots to answer common questions threatens to suppress demand for entry-level customer service representatives,” he pointed out. 
+
+Edes noted that AI tools can now engage with customers worldwide without language barriers, eroding the Philippines’ competitive advantage of an English-speaking workforce and diminishing the advantage of companies’ outsourcing their services to another country.
 
 ## Fostering partnerships
 
-But such disruption should not mean the collapse of the local BPO sector. While AI has been displacing workers not only in the Philippines but also in other countries such as India, it has created new employment opportunities as humans will continue to be needed to perform tasks such as coding, data editing, and annotating. “Technological solutions are not infallible, and many require—or at least benefit from—human involvement,” Edes said.
+But such disruption should not mean the collapse of the local BPO sector. While AI has been displacing workers not only in the Philippines but also in other countries such as India, it has created new employment opportunities as humans will continue to be needed to perform tasks such as coding, data editing, and annotating. 
 
-However, for the local BPO sector to adapt to AI innovation, the government and industry leaders need to cooperate to develop policies and practices that will attract investments in AI education and training. Fostering partnerships between schools, private companies, and the government to develop AI-related educational programs could also help equip the Filipino workforce with the necessary advanced technical skills.
+“Technological solutions are not infallible, and many require—or at least benefit from — human involvement,” Edes said.
+
+However, for the local BPO sector to adapt to AI innovation, the government and industry leaders need to cooperate to develop policies and practices that will attract investments in AI education and training. 
+
+Fostering partnerships between schools, private companies, and the government to develop AI-related educational programs could also help equip the Filipino workforce with the necessary advanced technical skills.
 
 As Edes noted, the Philippines’ BPO industry now demands workers skilled in data analytics, machine learning, and AI system management.
 
@@ -32,4 +38,6 @@ As Edes noted, the Philippines’ BPO industry now demands workers skilled in da
 
 “AI represents both a threat and an opportunity for the Philippine BPO industry. The automation of routine tasks, cost-efficiency of AI, and changing skill demands pose significant risks to the industry and those employed within it. However, by investing in upskilling, embracing AI as a complementary tool, and adopting policies that foster innovation, the industry can adapt and continue to thrive in the future,” he said.
 
-The IBPAP itself remains hopeful, projecting the sector to generate $59 billion in annual revenue by 2028, with employment rising to 2.5 million by then. However, it is aware that the industry needs to raise the value-added content of its offerings to minimize the impact of US protectionism, and AI for that matter. IBPAP president Jack Madrid called it aptly in October 2024: “Gen AI will not replace people. But people who use Gen AI will replace people who don’t.” As it is, the task at hand is to ramp up efforts to do precisely this. It need not fear so much Trump’s protectionist policies that seem to change by the day.
+The IBPAP itself remains hopeful, projecting the sector to generate $59 billion in annual revenue by 2028, with employment rising to 2.5 million by then. However, it is aware that the industry needs to raise the value-added content of its offerings to minimize the impact of US protectionism, and AI for that matter.
+
+ IBPAP president Jack Madrid called it aptly in October 2024: “Gen AI will not replace people. But people who use Gen AI will replace people who don’t.” As it is, the task at hand is to ramp up efforts to do precisely this. It need not fear so much Trump’s protectionist policies that seem to change by the day.
