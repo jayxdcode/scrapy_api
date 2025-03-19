@@ -22,7 +22,7 @@ Not surprisingly, the majority of pharmacists end up in the urban centers or in 
 
 Ideally, there should be one pharmacist per 2,000 people based on the standard of the World Health Organization.
 
-But in the Philippines, the ratio is a paltry 0.57 per 2,000 people, about the same level as in Indonesia and Vietnam, but lagging Thailand where the ratio is 0.8 per 2,000, according to PSAC data.
+But in the Philippines, the ratio is a paltry 0.57 per 2,000 people, about the same level as in Indonesia and Vietnam, but lagging behind Thailand where the ratio is 0.8 per 2,000, according to PSAC data.
 
 Given that it will take years before the supply can catch up with the demand for pharmacists, the PSAC health cluster led by AC Health chief executive officer Paolo Borromeo proposed that licensed pharmacists be allowed to oversee multiple pharmacies remotely.
 
@@ -36,7 +36,7 @@ Another suggestion from PSAC was to make the most of telepharmacy services and e
 
 This was not the first time that the worrying lack of pharmacists had been raised.
 
-Back in 2014, the Drugstores Association of the Philippines already warned about the implication of the waning number of students taking up pharmacy, which they said then would pose a significant threat to the future of the country’s pharmaceutical industry.
+Back in 2014, the Drugstores Association of the Philippines already warned about the implication of the waning number of students taking up pharmacy, which they said would then pose a significant threat to the future of the country’s pharmaceutical industry.
 
 Among the reasons behind the low number is the lack of appreciation for their role, thus not enough Filipinos are encouraged to enter the field.
 
