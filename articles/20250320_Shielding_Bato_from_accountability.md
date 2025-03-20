@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM March 20, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03202025.png)
-
 
 
 
@@ -34,11 +32,15 @@ President Marcos, who reiterated his administration’s non-cooperation with the
 
 Later developments have shown it is much more than that: it’s been admitted that the government arranged and paid for the private jet that took Duterte to The Hague, with the arrest and immediate flight executed with fool-proof intelligence from a former Duterte official and surgical precision reportedly managed from Malacañang by the President himself, the Interior Secretary, and the national intelligence chief.
 
-The President’s official stand has given the PNP the template on effecting the same move on other Duterte co-perpetrators, said PNP spokesperson Jean Fajardo who referenced attempts by Duterte’s family and former officials to stop his arrest. At one point, PNP Criminal Investigation Division director Maj. Gen. Nicolas Torre III, who expertly handled the operation on the ground, had to handcuff former executive secretary Salvador Medialdea for blocking Duterte’s transfer to the private jet.
+The President’s official stand has given the PNP the template on effecting the same move on other Duterte co-perpetrators, said PNP spokesperson Jean Fajardo who referenced attempts by Duterte’s family and former officials to stop his arrest.
+
+At one point, PNP Criminal Investigation Division director Maj. Gen. Nicolas Torre III, who expertly handled the operation on the ground, had to handcuff former executive secretary Salvador Medialdea for blocking Duterte’s transfer to the private jet.
 
 ## ‘Tokhang’ architect
 
-Given such resolve, will the Senate insist on being the scene of the chaotic enforcement of an international arrest warrant to shield one of its own in the name of tradition? It would be awkward, to say the least, for the Senate to stand in the way of the President’s policy to cooperate with the Interpol to give EJK perpetrators their day in court. Coupled with the Senate President’s firm position of delaying the impeachment trial of Vice President Sara Duterte, the Senate risks being seen as protector of impunity, a message to the global community that’s at odds with the chamber’s role of approving international agreements.
+Given such resolve, will the Senate insist on being the scene of the chaotic enforcement of an international arrest warrant to shield one of its own in the name of tradition? It would be awkward, to say the least, for the Senate to stand in the way of the President’s policy to cooperate with the Interpol to give EJK perpetrators their day in court.
+
+Coupled with the Senate President’s firm position of delaying the impeachment trial of Vice President Sara Duterte, the Senate risks being seen as protector of impunity, a message to the global community that’s at odds with the chamber’s role of approving international agreements.
 
 Giving official refuge to Dela Rosa also allows him to escape accountability for his role as Tokhang architect and chief implementor of the brutal purge, while his boss remains in ICC custody halfway around the world and faces what appears to be a drawn-out trial. Is that even fair to Duterte—and most importantly, his drug war victims?
 

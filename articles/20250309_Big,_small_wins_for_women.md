@@ -4,9 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 09, 2025****
 
-
-
-
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03092025.png)
 
 
 
