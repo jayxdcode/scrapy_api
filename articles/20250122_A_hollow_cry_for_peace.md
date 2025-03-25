@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 22, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01222025.png)
+
 
 
 The Iglesia ni Cristo (INC) sounded the call, and almost two million faithful answered with their feet. In droves and by busloads, the members flocked to the Quirino Grandstand in Manila on Jan. 13 for the “National Rally for Peace,” touted as an apolitical gathering for unity and forgiveness.

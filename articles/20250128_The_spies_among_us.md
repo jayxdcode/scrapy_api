@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 28, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01282025.png)
+
 
 
 For a nation that has long aspired to become the No. 1 superpower, it’s only natural that China keeps tabs on any country that may jeopardize its ambition. Ergo, it has eyes and ears everywhere around the globe—the Philippines included.

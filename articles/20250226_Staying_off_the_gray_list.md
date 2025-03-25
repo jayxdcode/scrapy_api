@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 26, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02262025.png)
+
 The Marcos administration secured an important victory last week when the Paris-based Financial Action Task Force (FATF) finally dropped the Philippines from its list of countries subjected to “increased monitoring” due to serious shortcomings in local measures and efforts to combat money laundering and terrorist financing.
 
 The rejoicing over the FATF’s decision is certainly warranted as the exit of the Philippines from the so-called gray list—the only country to do so in this latest round—means reduced requirements for international money transfers, therefore making it easier and cheaper for Filipinos overseas to send money back to the Philippines.

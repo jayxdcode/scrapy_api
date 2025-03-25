@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 31, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01312025.png)
+
 Malacañang’s grant of executive clemency to former Iloilo City mayor Jed Mabilog, and its recent statement of support for International Criminal Police Investigation (Interpol) arrests on behalf of the International Criminal Court’s (ICC) investigation of the Duterte drug war, are welcome indications of the government’s pivot to the rule of law.
 
 While former president Rodrigo Duterte’s spokesperson Salvador Panelo has described the pardon as a “reward for (Mabilog) besmirching” Duterte’s reputation when he testified in a House quad comm hearing, the former Iloilo official called the clemency a “vindication for the wrongful and deceitful cases filed against (him)” and a “triumph of justice in this country.’’

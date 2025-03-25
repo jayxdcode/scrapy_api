@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 27, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12272024.png)
+
 Good things come in threes, with recent government initiatives seemingly tripling the glad tidings of the season.
 
 Early this week, Health Secretary Teodoro Herbosa said that, effective immediately, purchase booklets are no longer required for senior citizens to avail of the 20-percent discount on medicines. They only need a doctor’s prescription and a valid government ID indicating that they are at least 60 years old for drugstores to honor this seniors’ privilege.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 03, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02032025.png)
+
 After a massive blackout hit Panay Island in January 2024, House Speaker Martin Romualdez suggested that the Maharlika Investment Fund (MIF) buy into the National Grid Corp. of the Philippines (NGCP), which operates the country’s lone transmission network. “Such involvement could lead to improved efficiency, economic growth, enhanced energy security, support for renewable energy integration, and increased accountability in NGCP’s operations,” Romualdez noted.
 
 A year later, his proposal came to fruition. The Maharlika Investment Corp. (MIC), which manages the MIF, signed last week a P20-billion investment agreement that will give it a 20-percent stake in Synergy Grid and Development Philippines Inc. (SGP), which owns 40 percent of NGCP.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM January 12, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01122025.png)
+
 The government collected millions of pesos in fines from seatbelt violators last year—proof, per the Land Transportation Office (LTO), that it was strictly implementing the law.
 
 Indeed, P179.9 million netted from 134,147 motorists apprehended nationwide for violating Republic Act No. 8750, or the Seat Belts Use Act of 1999, is no chump change, especially at a time when the government needs every revenue source it can tap.

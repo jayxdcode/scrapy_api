@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM March 21, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03212025.png)
+
 It’s been said that the first casualty of war is truth, and nowhere is this more evident than in the ongoing avalanche of fake news and disinformation that greeted former president Rodrigo Duterte’s recent arrest and surrender to the International Criminal Court (ICC) in The Hague, Netherlands.
 
 The spurious claims are meant to portray Duterte’s arrest as “unjust and illegal,” “a breach of Philippine laws and sovereignty,” and “devoid of due process.” Ironically, that last is the same injustice Duterte has been accused of in the extrajudicial killings of over 6,000 drug suspects, for which he now faces ICC trial for crimes against humanity.

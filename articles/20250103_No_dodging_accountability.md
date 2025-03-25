@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 03, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01032025.png)
+
 It appears that while most Filipinos were busy with recent holiday festivities, an operative of the Philippine offshore gaming operators (Pogos) had tried to pull a fast one on the country’s bendable judicial system.
 
 “I have received reports that there are officials in the Bureau of Immigration (BI) who attempted to push for the release on bail of Tony Yang,” Sen. Risa Hontiveros said Monday, referring to the older brother of Michael Yang, the purported economic adviser of former president Rodrigo Duterte.
