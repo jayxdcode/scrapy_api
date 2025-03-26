@@ -22,9 +22,9 @@ This, as Dizon said acknowledged that the striking transport groups have legitim
 
 ## Euro 4-compliant engine
 
-Majority of the jeepney operators and drivers have said from the beginning that they are not opposed to modernizing their jeepneys because they also want to benefit from the safer, cleaner, and more fuel efficient vehicles.
+The majority of jeepney operators and drivers have said from the beginning that they are not opposed to modernizing their jeepneys because they also want to benefit from the safer, cleaner, and more fuel-efficient vehicles.
 
-But the average modern jeepney that is being required to replace the old jeepneys—with at least a Euro 4-compliant engine to bring down harmful emissions and at the same time provide commuters with a “more dignified, humane [system], on par with global standards”—is deemed far too expensive.
+But the average modern jeepney that is being required to replace the old jeepneys—with at least a Euro 4-compliant engine to bring down harmful emissions and at the same time provide commuters with a “more dignified, humane [system], on par with global standards” — is deemed far too expensive.
 
 This has been the main reason why the program launched in 2017, which called for not just the use of modern jeepneys but the consolidation of the jeepney operators and owners into cooperatives to access financing as well as the rationalization of jeepney routes so that not too many jeepneys are out on the road, has been met with repeated delays, protests, and deadline extensions.
 
@@ -46,6 +46,8 @@ Dizon had already said that modernization was a “no brainer,” but acknowledg
 
 The DOTr chief can readily build on the progress already made by his predecessors, as most of the major transport groups have already expressed their full support for the modernization program.
 
-Pasang Masda president Obet Martin has urged Dizon not to suspend the modernization program and suggested that the government should fix the problems during its implementation.Such a pragmatic approach is needed because any major change such as the public transport modernization program comes with the inevitable pains and not everyone will be happy. But it is a reform that must push forward to provide Filipinos with more convenient and environment-friendly public transportation.
+Pasang Masda president Obet Martin has urged Dizon not to suspend the modernization program and suggested that the government should fix the problems during its implementation.
+
+Such a pragmatic approach is needed because any major change such as the public transport modernization program comes with the inevitable pains and not everyone will be happy. But it is a reform that must push forward to provide Filipinos with more convenient and environment-friendly public transportation.
 
 The government must engage with the affected sectors with the clear and sincere intention to address the grievances and push for the early implementation of the vital program. It should not allow the modernization program to be derailed by certain sectors that do not want the change to take off in the first place.
