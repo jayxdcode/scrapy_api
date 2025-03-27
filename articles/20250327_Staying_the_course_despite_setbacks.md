@@ -26,22 +26,22 @@ President Marcos had previously vowed noncooperation with the ICC on account of 
 
 In Teves’ case, the government cannot count on Interpol’s help because Teves had sought asylum in Timor-Leste, whose appeals court blocked his extradition to the Philippines. Remulla raised the possibility that money had something to do with the adverse outcome, noting further that Timor-Leste has a “very immature justice system.”
 
-Rather than seeking to change Timor-Leste’s position with criticisms, the government must focus on exerting all legal and diplomatic means to bring Teves back to face the charges. The Department of Foreign Affairs must make the proper representations with the fledgling democracy, which has an observer status at the Association of Southeast Asian Nations (Asean). With the Philippines taking on the rotating chairmanship of Asean next year, it could raise the Teves case as an example of areas of cooperation that a prospective Asean member must consider.
+Rather than seeking to change Timor-Leste’s position with criticisms, the government must focus on exerting all legal and diplomatic means to bring Teves back to face the charges. The Department of Foreign Affairs must make the proper representations with the fledgling democracy, which has an observer status at the Association of Southeast Asian Nations (Asean).
+
+With the Philippines taking on the rotating chairmanship of Asean next year, it could raise the Teves case as an example of areas of cooperation that a prospective Asean member must consider.
 
 Malaysia’s refusal to cooperate in the investigation on Guo’s escape, on the other hand, was attributed to the two countries’ dispute over Sabah. This is a far more complex matter with no immediate resolution in sight.
 
 ## Triple whammy
 
-Information on Guo’s escape route could prove helpful to immigration officials who believe that lawyer Harry Roque, Duterte’s former spokesperson, likely used the same backdoor exit to leave the country and evade the warrant issued by the House of Representatives. Guo reportedly exited through Tawi-Tawi enroute to Sabah, and on to Jakarta, Indonesia where she was arrested and brought back to the Philippines.
+Information on Guo’s escape route could prove helpful to immigration officials who believe that lawyer Harry Roque, Duterte’s former spokesperson, likely used the same backdoor exit to leave the country and evade the warrant issued by the House of Representatives.
+
+Guo reportedly exited through Tawi-Tawi enroute to Sabah, and on to Jakarta, Indonesia where she was arrested and brought back to the Philippines.
 
 Like Guo, Roque has been implicated in the Pogo scam and was able to leave the country in September 2024. He recently surfaced in The Hague to present himself as a counsel for Duterte and announced that he had applied for asylum in the Netherlands.
 
 Malaysia’s negative response to the country’s request should prompt the Bureau of Immigration to ferret out from other sources the needed information on the Guo and Roque capers and identify those complicit in their escape. The BI need not look far as corruption in its ranks remains rampant.
 
 Roque’s asylum case is a potential triple whammy that the government can ill afford, given the politically charged arrest of Duterte. It is incumbent on the government to exert more vigorous efforts to bring Teves and Roque back to face their cases in the country. Failing to do so could validate the narrative being spread by Duterte supporters that the Marcos administration is conducting a politically motivated and selective prosecution of the former president.
-
-###—###
-
-#ColumnName
 
 EDITORIAL
