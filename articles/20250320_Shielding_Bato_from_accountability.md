@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 With the Philippine government allowing the arrest of former president Rodrigo Duterte and having him flown posthaste to The Hague to face charges before the International Criminal Court (ICC), the walls are now closing in on his key lieutenants who executed his administration’s war on drugs that led to the extrajudicial killing (EJK) of thousands of drug suspects.
 
 While the ICC, which prosecutes war crimes and crimes against humanity, has yet to serve similar arrest warrants for Duterte’s accomplices, it’s only a matter of time before Sen. Ronald “Bato” dela Rosa, former Davao City police chief Vicente Danao, and other central figures in the anti-drug campaign would have to face the music.
