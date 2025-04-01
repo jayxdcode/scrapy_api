@@ -36,6 +36,6 @@ The BI’s excuse—that it has discretion to allow deportees to book their own 
 
 Is there hope for this agency?
 
-Over the years, the BI has proven itself incapable of change, with corruption cases leading to mere dismissals and suspensions, while the system itself stays rotten. The government must recognize that token investigations, firings and vague promises of reform can’t cure a bureau that has been hijacked by crooks in uniform.
+Over the years, the BI has proven itself incapable of change, with corruption cases leading to mere dismissals and suspensions while the system itself stays rotten. The government must recognize that token investigations, firings, and vague promises of reform can’t cure a bureau that has been hijacked by crooks in uniform.
 
 Purging corrupt personnel is not enough without systemic changes, such as stricter oversight mechanisms with real teeth and digital tracking systems that remove arbitrary human discretion from immigration decisions. It’s high time that the government stopped seeing BI scandals as isolated incidents and started treating them for what they are—symptoms of an institutional disease.
