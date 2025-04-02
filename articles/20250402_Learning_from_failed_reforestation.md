@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04022025.png)
-
 
 
 
@@ -40,7 +38,9 @@ The agency was also so gung-ho about the National Greening Program that it dove 
 
 And of those seedlings that did manage to survive, these were mainly coffee, cacao, and other agroforestry species that do not even contribute to forest cover.
 
-“With forest cover at 7,014,154 hectares or 41.50 percent of what it was in 1934, reforestation remains an urgent concern. However, this does not mean that the government has to hurry implementing the program. DENR must pace the implementation of the program according to available resources,” COA underscored. The COA report may have been issued six years ago, but its conclusions and recommendations remain valid.
+“With forest cover at 7,014,154 hectares or 41.50 percent of what it was in 1934, reforestation remains an urgent concern. However, this does not mean that the government has to hurry implementing the program. DENR must pace the implementation of the program according to available resources,” COA underscored.
+
+The COA report may have been issued six years ago, but its conclusions and recommendations remain valid.
 
 COA, for example, suggested that the DENR shift its strategy from being merely “target-driven” to becoming “community-centered”, which means helping the peoples organizations on the ground become ready to participate in the program, from producing the seedlings to taking care of them until maturity. Forcing them to deliver when they are not yet ready would only lead to more waste, it pointed out.
 
