@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 As access to higher education remains a privilege in this country, the passage of Republic Act No. 12124 offers less fortunate Filipinos a more inclusive pathway toward a college degree.
 
 In a nutshell, the new law allows individuals to earn academic credits based on their learned skills, acknowledging that knowledge is acquired not only within the four walls of a classroom but the world at large. Years of hard work, hands-on training, and lived experience can be just as invaluable as reading textbooks or listening to lectures.
