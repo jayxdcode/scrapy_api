@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM April 06, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04062025.png)
-
 It’s not exactly a secret that dogs and cats are adorable but they can be harmful if they are not vaccinated against rabies.
 
 The Department of Health (DOH) has recently reminded pet owners to have their pets vaccinated following new data showing a rise in deaths caused by rabies, with almost half of the incidents caused by dog or cat bites.

@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 Transport group Manibela kicked off this week a three-day strike to protest the implementation of the contentious public transport modernization program, inconveniencing hundreds of commuters and forcing schools and universities to cancel face-to-face classes.
 
 This disruption has played out far too many times over the roughly eight years since the policy decision was made to replace the antiquated but beloved jeepneys with cleaner, more efficient and environment-friendly public utility vehicles.
