@@ -4,11 +4,11 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04072025.png)
-
 When United States President Donald Trump unleashed last week new tariffs on American imports from dozens of countries, the Philippines included, Canada immediately vowed to institute countermeasures, while China and the European Union (EU) vowed to also fight back. Nearer home, Vietnam will form a task force to address the situation, while Thailand and Malaysia said they will negotiate to bring down the stiff tariffs imposed by the US.
 
-In the Philippines, the reaction from the government and the country’s biggest business groups was, as Philippine Chamber of Commerce and Industry chair George Barcelon said, to look at the tariffs “from the positive side.” Philippine exports to the US will be charged a 17-percent tariff starting April 9. In contrast, more punishing tariffs were slapped on most of our competitors in Southeast Asia: Vietnam at 46 percent, Thailand at 36 percent, Indonesia at 32 percent and Malaysia at 24 percent and Cambodia at 49 percent.
+In the Philippines, the reaction from the government and the country’s biggest business groups was, as Philippine Chamber of Commerce and Industry chair George Barcelon said, to look at the tariffs “from the positive side.” 
+
+Philippine exports to the US will be charged a 17-percent tariff starting April 9. In contrast, more punishing tariffs were slapped on most of our competitors in Southeast Asia: Vietnam at 46 percent, Thailand at 36 percent, Indonesia at 32 percent, Malaysia at 24 percent, and Cambodia at 49 percent.
 
 “[T]his is an advantage for us since imports from us will be cheaper,” Philippine Exporters Confederation president Sergio Ortiz-Luis Jr. told the Inquirer. “Technically, if you look at it from a general perspective, that’s positive for us,” noted Agriculture Secretary Francisco Tiu Laurel Jr.
 
@@ -24,12 +24,20 @@ The UN Trade and Development (Unctad) issued on April 4 an alert that the intern
 
 Unctad added that the most vulnerable will be the countries with minimal responsibility for the US’ trade imbalances, stressing that the solution must come through dialogue and negotiation, not escalation. The immediate reactions to Trump’s tariffs bolster this fear. Several countries have threatened to engage the US in a trade war, sending financial and stock markets plunging.
 
-The point is that even this early, the Philippines should already worry about the bigger picture and what lies ahead if the high US tariffs persist. It should brace for what economists refer to as the potential secondary impact. History has shown that nothing good results from a large-scale trade war. As corporations worldwide struggle, they will cut expenses and, in turn, impact on the country’s biggest revenue earners—overseas Filipino workers and the business process outsourcing (BPO) industry. These two alone will deal a severe blow to the entire consumer-driven Philippine economy. Lesser remittances and BPO earnings will force Filipinos to spend less, affecting various industries from property to consumer goods. Also consider that less international maritime trade means fewer Filipino seafarers. The domino effect goes on until we wake up one day to an economy in a recessionary tailspin characterized by declining economic activity, job losses, and instability.
+The point is that even this early, the Philippines should already worry about the bigger picture and what lies ahead if the high US tariffs persist. It should brace for what economists refer to as the potential secondary impact. History has shown that nothing good results from a large-scale trade war. 
+
+As corporations worldwide struggle, they will cut expenses and, in turn, impact on the country’s biggest revenue earners — overseas Filipino workers and the business process outsourcing (BPO) industry. 
+
+These two alone will deal a severe blow to the entire consumer-driven Philippine economy. Lesser remittances and BPO earnings will force Filipinos to spend less, affecting various industries from property to consumer goods. 
+
+Also consider that less international maritime trade means fewer Filipino seafarers. The domino effect goes on until we wake up one day to an economy in a recessionary tailspin characterized by declining economic activity, job losses, and instability.
 
 ## Collateral damage
 
 An assessment last month by trade and development economist Annette Pelkmans-Balaoing cited the indirect but significant effects on the Philippines of Trump’s tariff escalation. If this causes a slowdown in global demand, Philippine exports of electronics, garments, and processed food will suffer.
 
-The worst that can happen is a prolonged trade war. “The last time the world saw a full-scale trade war, during the 1930s, it plunged the global economy into recession. The Smoot-Hawley Tariff Act of 1930 led to retaliatory measures that collapsed global trade and deepened the Great Depression. The economic devastation fueled nationalism, protectionism, and extremism, paving the way for World War II as nations turned inward and blamed foreign actors for their misfortunes. The lessons from history are clear: aggressive protectionism rarely ends well,” she pointed out.
+The worst that can happen is a prolonged trade war. “The last time the world saw a full-scale trade war, during the 1930s, it plunged the global economy into recession. The Smoot-Hawley Tariff Act of 1930 led to retaliatory measures that collapsed global trade and deepened the Great Depression. 
+
+The economic devastation fueled nationalism, protectionism, and extremism, paving the way for World War II as nations turned inward and blamed foreign actors for their misfortunes. The lessons from history are clear: aggressive protectionism rarely ends well,” she pointed out.
 
 Countries such as ours have very little say in the global economy. We simply become collateral damage in the looming global trade war following Trump’s punitive tariff policy. It’s true that we can hope for the best, but we must also brace for the worst.
