@@ -4,7 +4,9 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 08, 2025****
 
-Never doubt the ability—nay, audacity—of the Chinese government to twist the facts to suit its ends, even when its chosen narrative flies in the face of those same facts.
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04082025.png)
+
+Never doubt the ability — nay, audacity — of the Chinese government to twist the facts to suit its ends, even when its chosen narrative flies in the face of those same facts.
 
 In a stunning act of projection, China’s embassy in Manila has released an advisory warning Chinese citizens of “harassment” and an “unstable” security situation in the country while advising them to minimize outings, stay away from crowds, and “remain vigilant against potential security traps and schemes.”
 
@@ -38,7 +40,9 @@ Never mind that Chinese, tourists or otherwise, continue to arrive in the Philip
 
 ## Criminal enterprises
 
-If China is truly concerned about its people’s safety, it should perhaps start by recalling and repatriating those Chinese citizens who are wreaking havoc across the world for a taste of good-old “reeducation” back home. More importantly, a little self-reflection will help China determine why so many of its nationals are caught up in criminal enterprises overseas, rather than deflecting blame onto host countries that are trying to clean up the mess they leave behind.
+If China is truly concerned about its people’s safety, it should perhaps start by recalling and repatriating those Chinese citizens who are wreaking havoc across the world for a taste of good-old “reeducation” back home.
+
+More importantly, a little self-reflection will help China determine why so many of its nationals are caught up in criminal enterprises overseas, rather than deflecting blame onto host countries that are trying to clean up the mess they leave behind.
 
 In the meantime, the Philippines will do well to recognize China’s tactics as attempts at controlling the narrative, rather than genuine concerns about security, and respond to them as such and in kind.
 
