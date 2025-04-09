@@ -4,11 +4,9 @@
 
 ****Philippine Daily Inquirer / 04:40 AM April 09, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04092025.png)
-
 The Bangko Sentral ng Pilipinas (BSP) is going full steam ahead with its plan to saturate the country with polymer banknotes that it believes to be more durable, tamper-proof, and environment-friendly than the still more widely used paper versions.
 
-Nevertheless, the Department of Agriculture (DA) is making a last-ditch effort to dissuade the BSP from using only polymer and instead maintain in circulation a sizable volume of Philippine banknotes that use locally grown abaca. It noted that over 1.5 million Filipinos—among the country’s poorest—depend almost entirely on the indigenous fiber for their livelihood.
+Nevertheless, the Department of Agriculture (DA) is making a last-ditch effort to dissuade the BSP from using only polymer and instead maintain in circulation a sizable volume of Philippine banknotes that use locally grown abaca. It noted that over 1.5 million Filipinos — among the country’s poorest — depend almost entirely on the indigenous fiber for their livelihood.
 
 “We will request that the Bangko Sentral ng Pilipinas reconsider its decision to remove abaca fiber from Philippine banknotes, given the impact this decision has on the livelihoods of millions who rely on the abaca industry,” said Agriculture Secretaty Francisco Tiu Laurel Jr., who has also urged the Department of Foreign Affairs to incorporate abaca fiber in the production of Philippine passports.
 
@@ -32,7 +30,7 @@ They are known for their tensile strength and resistance to saltwater damage, ma
 
 The abaca sector’s growth potential has been dimmed, however, by increase in competition and the dwindling demand as traditional users shifted to other alternatives such as synthetic fiber. These factors contributed to the 4-percent decline in abaca production last year.
 
-It is thus laudable that the DA is training its focus on this long neglected sector. But perhaps going to the BSP is not the most wise option.
+It is thus laudable that the DA is training its focus on this long-neglected sector. But perhaps going to the BSP is not the wisest option.
 
 Indeed, even if it manages to persuade the BSP does continue using paper notes, the upside to the abaca industry will not be that be big enough to outweigh the stated benefits of using polymer banknotes.
 
@@ -46,7 +44,7 @@ To blunt the effect of the shift to polymer bills, the BSP stressed that there w
 
 There are opportunities here, too.
 
-Philippine Fiber Industry Development Authority executive director Arnold Atienza noted that while the local sector was crying out for a domestic market, imported fibers—including abaca—are brought in, thus the call to regulate their entry.
+Philippine Fiber Industry Development Authority executive director Arnold Atienza noted that while the local sector was crying out for a domestic market, imported fibers — including abaca — are brought in, thus the call to regulate their entry.
 
 “Why are we importing abaca when we have [plenty of] abaca?” Atienza asked.
 

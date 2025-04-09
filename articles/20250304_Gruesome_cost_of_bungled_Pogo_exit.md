@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 04, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03042025.png)
-
 The script practically writes itself: A kidnapped Chinese teenager’s pinkie finger is chopped off; his driver gets murdered in cold blood; the authorities arrive late but recover the victim; the perpetrators speed away unscathed.
 
 Sadly, this is not a scene from a dystopian thriller — it is the reality facing a country that can’t quite get rid of the remnants of its shuttered offshore gaming industry.
