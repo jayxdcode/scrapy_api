@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 27, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02272025.png)
-
 
 
 Public opinion surveys play a role in democracy. They are tools for data gathering, providing a snapshot of the fleeting views of the general public. But some surveys can be plagued by errors, among them sampling bias, loaded questions, response and interviewer bias, and low response rates.
