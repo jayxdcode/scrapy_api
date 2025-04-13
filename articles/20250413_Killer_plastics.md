@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM April 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04132025.png)
-
 On Tuesday, fisherfolks in Bolinao, Pangasinan, discovered a short-finned pilot whale (Globicephala macrorhynchus) in emaciated condition, weak, and struggling to swim. It died not long after. A necropsy revealed that the dolphin’s stomach was filled with debris.
 
 Hasmin Chogsayan, a veterinarian from the Bureau of Fisheries and Aquatic Resources, described the plastic waste inside the dolphin’s stomach as “blackened,” indicating that it had been there for a long time. She said the mammal was likely starving and unable to absorb nutrients.

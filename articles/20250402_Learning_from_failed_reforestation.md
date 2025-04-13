@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 The Department of Environment and Natural Resources (DENR) marked the International Day of Forests this year by launching its “Forests for Life: 5M Trees by 2028” program, the latest demonstration of its “commitment to climate resilience and sustainable forest management.”
 
 The massive reforestation program has garnered the wholehearted support of some of the country’s largest corporations, whose shared enthusiasm for the project even led to the doubling of the target to an ambitious 10 million indigenous trees across key provinces by the end of the Marcos administration in 2028.
