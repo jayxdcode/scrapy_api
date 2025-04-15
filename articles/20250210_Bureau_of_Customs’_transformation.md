@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 10, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02102025.png)
-
 President Ferdinand Marcos Jr. was all praises for the Bureau of Customs (BOC) when he graced the agency’s 123rd anniversary celebration last week. It may come as a big surprise to many, considering the BOC’s tarnished image in the past as a hotbed of corruption. Sadly, this negative perception remains in the minds of many despite the significant gains achieved by the BOC in the past few years.
 
 For instance, the President lauded the agency for collecting P931.05 billion in 2024. Although short of the P939.7-billion goal for the year, it was the highest in the agency’s history and was P40 billion more than the P890.45 billion collected in 2023.

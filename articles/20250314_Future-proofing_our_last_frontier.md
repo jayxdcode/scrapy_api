@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM March 14, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03142025.png)
-
 Palawan, the country’s last frontier, deserves all the protection it could get against all sorts of environmental threats that endanger its unique flora and fauna. These are the same threats that can also jeopardize the main tourism draw of the white-sand beaches and dive spots in central and northern Palawan.
 
 Thus, the news that Southeast Asia’s most biologically diverse and resource-rich area is being future-proofed by an unprecedented local government resolution that bans the issuance of new mining permits for the next 50 years is laudable.
