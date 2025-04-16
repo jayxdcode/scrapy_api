@@ -14,7 +14,7 @@ The Subscriber Identity Module (SIM) Registration Act was passed in 2022 and the
 
 Sen. Grace Poe, one of the authors of Republic Act No. 11934, said such a “dramatic increase” in scam calls observed during the first quarter of the year was “disturbing,” to say the least.
 
-She was referring to fraudsters’ odious scheme of sending spurious emails or other messages supposedly coming from reputable companies to trick individuals into revealing sensitive personal information—such as passwords and credit card numbers—that can be used to access their financial accounts.
+She was referring to fraudsters’ odious scheme of sending spurious emails or other messages supposedly coming from reputable companies to trick individuals into revealing sensitive personal information — such as passwords and credit card numbers—that can be used to access their financial accounts.
 
 The SIM Registration Act was supposed to help curb these scams by requiring registration of SIM cards, on the premise that by attaching these SIM cards to real people, it would be easier to identify those behind numbers being used to commit these crimes and easier to prosecute them.
 
@@ -28,13 +28,17 @@ These are clear violations of the SIM Registration Act that should therefore not
 
 The National Telecommunications Commission has called for face-to-face verification of identification cards before individuals can register the SIM cards on their mobile phone.
 
-The NTC noted that the current registration process that requires only a photo and submission of some personal information and a copy of a government-issued ID card may be too lax and therefore vulnerable to fraud. Unscrupulous individuals exploit the system to sell their identities to others, it said.This is similar to the personal appearance required for the granting or renewal of driver’s licenses and clearances from the National Bureau of Investigation and the Philippine National Police, a more tedious process that will require extra time and resources.
+The NTC noted that the current registration process that requires only a photo and submission of some personal information and a copy of a government-issued ID card may be too lax and therefore vulnerable to fraud. Unscrupulous individuals exploit the system to sell their identities to others, it said.
 
-Telecommunications companies—which are key to the strict implementation of the SIM Registration Act—however opposed the idea as they claimed requiring face-to-face verification will just add a layer of bureaucracy that will further delay registration and make it harder for Filipinos in remote and rural areas to comply with the law. It will also cost more, they said.
+This is similar to the personal appearance required for the granting or renewal of driver’s licenses and clearances from the National Bureau of Investigation and the Philippine National Police, a more tedious process that will require extra time and resources.
+
+Telecommunications companies — which are key to the strict implementation of the SIM Registration Act — however opposed the idea as they claimed requiring face-to-face verification will just add a layer of bureaucracy that will further delay registration and make it harder for Filipinos in remote and rural areas to comply with the law. It will also cost more, they said.
 
 ## Verified ID database
 
-“The very essence of universal access is to provide connectivity to all Filipinos at the lowest possible price and the easiest way to get it. Requiring face-to-face registration will defeat this principle,” said Froilan Castelo, general counsel of telecommunications industry leader Globe Telecom Inc. The Philippine Chamber of Telecommunication Operators instead suggested that the government put together a single, verified ID database that the telcos can rely on to validate the authenticity of SIM registrants.
+“The very essence of universal access is to provide connectivity to all Filipinos at the lowest possible price and the easiest way to get it. Requiring face-to-face registration will defeat this principle,” said Froilan Castelo, general counsel of telecommunications industry leader Globe Telecom Inc.
+
+The Philippine Chamber of Telecommunication Operators instead suggested that the government put together a single, verified ID database that the telcos can rely on to validate the authenticity of SIM registrants.
 
 The National ID system can perform that function, but then again that presents another set of problems due to multiple complaints of sub-quality plastic cards with faded images, rendering them practically useless as a means of verification, not to mention the long delay in the delivery of the IDs.
 
