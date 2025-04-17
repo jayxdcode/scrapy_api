@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 17, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02172025.png)
-
 The so-called “Great Resignation” that saw a record number of employees worldwide quitting their jobs since 2021, the height of the global paralysis caused by the COVID-19 pandemic, is not over yet. In the Philippines, almost two-thirds of workers are considering changing jobs this year, according to the 2025 Human Capital Employee Sentiment Study by London-headquartered global risk management and insurance brokerage firm Aon. 
 
 It noted that 64 percent of the survey respondents said they were either in the process of moving to another employer or might seek new employment in the next 12 months.
