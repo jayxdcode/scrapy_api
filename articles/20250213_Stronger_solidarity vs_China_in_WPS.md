@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02132025.png)
-
 A Status of Visiting Forces Agreement (Sovfa) with New Zealand, which will be concluded this year, is the latest pact entered into by the Philippines as it seeks to deepen its military alliance in the region.
 
 If ratified by both countries, the Sovfa would be the Philippines’ third agreement with a close ally, after similar agreements with the United States and Australia, and a Reciprocal Access Agreement (RAA) with Japan. Negotiations for similar pacts with Canada and France are ongoing.

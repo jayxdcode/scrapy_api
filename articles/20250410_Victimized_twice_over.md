@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 On March 11, 2025, something that was once unthinkable happened: Rodrigo Duterte was arrested by the Philippine government and, in a matter of hours, was flown to the custody of the International Criminal Court (ICC) in The Hague, Netherlands.
 
 There, the former strongman now awaits trial for charges of murder as a crime against humanity stemming from the blood-soaked “war on drugs” that was the defining legacy of his administration.

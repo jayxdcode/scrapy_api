@@ -4,13 +4,15 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 21, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04212025.png)
-
 Despite the assurance from the Department of Energy (DOE) that there will be enough electricity supply for a brownout-free election in May, there are those who remain worried. And they have a valid reason to be concerned.
 
-Early last month, the National Grid Corp. of the Philippines (NGCP) warned that more red or yellow alerts could be issued during the summer months as unplanned power plant outages threaten supply. In a yellow alert, supply can still meet demand, but a plant breakdown could cause brownouts. A red alert means supply is no longer sufficient to meet demand and power interruptions are more likely. While NGCP painted this as the worst-case scenario, it cannot be dismissed outright because past experience showed that many power generators break down during the summer months.
+Early last month, the National Grid Corp. of the Philippines (NGCP) warned that more red or yellow alerts could be issued during the summer months as unplanned power plant outages threaten supply. In a yellow alert, supply can still meet demand, but a plant breakdown could cause brownouts.
 
-Consider the yellow alert declared by NGCP on the Luzon grid on March 5. The Institute for Climate and Sustainable Cities (ICSC), a Philippine-based nongovernmental organization that advocates for climate, energy, and low-carbon solutions, has pointed to a more alarming power supply situation following this first alert for 2025. “This year’s early occurrence is particularly concerning, as similar alerts in previous years were typically issued closer to peak summer months, such as April or May,” it noted.
+ A red alert means supply is no longer sufficient to meet demand and power interruptions are more likely. While NGCP painted this as the worst-case scenario, it cannot be dismissed outright because past experience showed that many power generators break down during the summer months.
+
+Consider the yellow alert declared by NGCP on the Luzon grid on March 5. The Institute for Climate and Sustainable Cities (ICSC), a Philippine-based nongovernmental organization that advocates for climate, energy, and low-carbon solutions, has pointed to a more alarming power supply situation following this first alert for 2025. 
+
+“This year’s early occurrence is particularly concerning, as similar alerts in previous years were typically issued closer to peak summer months, such as April or May,” it noted.
 
 ## Unplanned outages
 
@@ -22,9 +24,11 @@ NGCP had projected that grid disruptions last March 3 to 9 were only 2 to 3 perc
 
 ## Supply issues
 
-Adding to the unease is the issue raised by the DOE about Meralco’s 1,200-megawatt supply deal with Excellent Energy Resources Inc. (Eeri), whose natural gas plant is facing fuel supply issues and commissioning delays. Energy Assistant Secretary Mario Marasigan said some units of Eeri are still under testing and commissioning, despite the supply agreement requiring the delivery of committed power capacity by December 2024. “Our concern is that without the fulfillment of the power supply agreements of Meralco and Eeri, there is a gap,” Marasigan said.
+Adding to the unease is the issue raised by the DOE about Meralco’s 1,200-megawatt supply deal with Excellent Energy Resources Inc. (Eeri), whose natural gas plant is facing fuel supply issues and commissioning delays. Energy Assistant Secretary Mario Marasigan said some units of Eeri are still under testing and commissioning, despite the supply agreement requiring the delivery of committed power capacity by December 2024. 
 
-Compounding this is the completion of the gas storage facility of Linseed Field Power Corp., whose fuel will be shared between Eeri and the Ilijan power plant, which is also experiencing a setback. NGCP has cautioned that while supply seems sufficient on paper—as the DOE says it will be in May—it has observed that over the years, unplanned outages of critical plants are a major factor in the power situation and have been the primary cause of power interruptions, particularly during summer months.
+“Our concern is that without the fulfillment of the power supply agreements of Meralco and Eeri, there is a gap,” Marasigan said.
+
+Compounding this is the completion of the gas storage facility of Linseed Field Power Corp., whose fuel will be shared between Eeri and the Ilijan power plant, which is also experiencing a setback. NGCP has cautioned that while supply seems sufficient on paper — as the DOE says it will be in May — it has observed that over the years, unplanned outages of critical plants are a major factor in the power situation and have been the primary cause of power interruptions, particularly during summer months.
 
 ## Stable power
 
