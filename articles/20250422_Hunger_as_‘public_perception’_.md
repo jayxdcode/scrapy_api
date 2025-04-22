@@ -16,7 +16,7 @@ At a Malacañang press briefing last week, the Department of Social Welfare and 
 
 What do the numbers say?
 
-The March 2025 Stratbase-SWS poll found that 27.2 percent of Filipino families experienced involuntary hunger—or being hungry and not having anything to eat—at least once in the past three months. Hunger occurs at different rates among the poor and the non-poor, although hunger is usually higher among the poor.
+The March 2025 Stratbase-SWS poll found that 27.2 percent of Filipino families experienced involuntary hunger — or being hungry and not having anything to eat — at least once in the past three months. Hunger occurs at different rates among the poor and the non-poor, although hunger is usually higher among the poor.
 
 But the most startling finding is how total hunger rose sharply among the self-rated poor, from 26.4 percent in February to 35.6 percent in March. Among the non-poor, the hunger rate also spiked slightly, from 16.2 percent to 18.3 percent.
 
