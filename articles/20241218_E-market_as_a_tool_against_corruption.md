@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM December 18, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12182024.png)
-
 Getting rid of the scourge of corruption may be just an ”add to cart” away, following the launch by the Department of Budget and Management (DBM) last week of an online marketplace on the government’s central portal for public procurement.
 
 At least that is what is envisioned for eMarketplace, a component of the enhanced Philippine Government Electronic Procurement System (PhilGEPS), through which government agencies and procuring entities such as local government units (LGUs), government-owned and -controlled corporations, state colleges and universities, and government financial institutions can browse, compare prices, and purchase their regularly used supplies and equipment requirements from vetted, competent, and reliable suppliers.
