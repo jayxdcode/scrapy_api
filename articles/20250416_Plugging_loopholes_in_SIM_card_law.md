@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 The Subscriber Identity Module (SIM) Registration Act was passed in 2022 and the Philippine offshore gaming operators (Pogos) that spawned many crimes were banned effective end of last year. And yet, too many Filipinos are still being hounded by scam calls cleverly designed to defraud them of their hard-earned money.
 
 Sen. Grace Poe, one of the authors of Republic Act No. 11934, said such a “dramatic increase” in scam calls observed during the first quarter of the year was “disturbing,” to say the least.
