@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM March 28, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03282025.png)
+
 While the country appears focused on former President Rodrigo Duterte’s arrest and turnover to the International Criminal Court (ICC), another issue of accountability — this time over the questionable use of hundreds of millions in public funds — deserves as much discussion and state action beyond the amusing headlines of recent days.
 
 Levity aside, government should look into the list of recipients of Vice President Sara Duterte’s intelligence and confidential funds (ICF) that makes a mockery of accepted procedures in accounting for the use of taxpayer money. The VP’s ICF was the subject of repeated House hearings last year that the official had snubbed. The funds’ confidential nature precludes disclosure on their use, Duterte had insisted when asked how she had gone through P125 million in just 11 days.

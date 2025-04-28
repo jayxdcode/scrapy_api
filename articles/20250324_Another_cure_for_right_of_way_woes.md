@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 24, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03242025.png)
-
 On March 25, 2024, President Marcos signed Administrative Order No. 19 creating the interagency committee for right of way (ROW) activities for national railway projects.
 
 Noting how ROW issues delay the completion of new railway systems, the President stressed the need to accelerate the implementation of railway projects and ensure high level cooperation and support from concerned government agencies to streamline the process of land acquisition and resettlement of the affected people.

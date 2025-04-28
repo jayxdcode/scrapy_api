@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 23, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03232025.png)
-
 The start of this year’s dry season felt like déjà vu: Classes in nearly half of the schools in Metro Manila were suspended due to soaring temperatures. The same thing happened last year, but the government should not normalize this as the only solution to problems caused by global warming.
 
 Extreme weather events—from super typhoons to droughts—are a reality today, but they are even more so for the Philippines, whose geographical location makes it among the most vulnerable countries to climate change. The government has a National Climate Action Plan (2011-2028), which lays out the policy framework for climate change adaptation and mitigation efforts, but there is no comprehensive heat action plan that stakeholders can turn to for reference.
