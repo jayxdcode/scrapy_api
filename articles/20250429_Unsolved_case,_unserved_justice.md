@@ -20,7 +20,9 @@ On March 29, Tan, a Chinese Filipino steel magnate from Valenzuela City, who was
 
 ## Battered, bound, and strangled
 
-The battered, bound, and strangled state of the victims’ remains showed that their deaths were not the result of a spur-of-the-moment crime but a “calculated kidnap-for-hire operation,” according to police. “These were not random acts but deliberate, contract-based crimes targeting individuals embroiled in disputes over unpaid debts, betrayals, or internal conflicts,” the PNP said.
+The battered, bound, and strangled state of the victims’ remains showed that their deaths were not the result of a spur-of-the-moment crime but a “calculated kidnap-for-hire operation,” according to police.
+
+“These were not random acts but deliberate, contract-based crimes targeting individuals embroiled in disputes over unpaid debts, betrayals, or internal conflicts,” the PNP said.
 
 On April 20, the PNP announced the arrest of three suspects, with a promise that the mastermind “will be identified and formally charged within the week.” Investigators learned that one of the suspects, David Tan Liao, also known by three other aliases, was linked to no fewer than five kidnapping incidents in Metro Manila since 2022, all with similar patterns and all allegedly tied to Philippine offshore gaming operators.
 
@@ -36,7 +38,9 @@ Based on reports, a ransom amounting to P200 million was paid to the kidnappers,
 
 But as former Sen. Panfilo Lacson, who once headed the PNP, noted, the police force has plenty of resources at its disposal to follow the money trail. Which means that if the government truly wanted to track it down, it could. The question is: does it want to?
 
-Instead of confronting these questions, the PNP insists that the incident is not part of any trend of rising criminality. “These are isolated, calculated acts rooted in personal and financial vendettas. The situation is firmly under control. Our law enforcement strategies are effective. Criminal networks are being taken down,” Marbil said in a statement last week. What’s funny is that it was the police chief himself who used the plural “these,” betraying his own claim.
+Instead of confronting these questions, the PNP insists that the incident is not part of any trend of rising criminality. 
+
+“These are isolated, calculated acts rooted in personal and financial vendettas. The situation is firmly under control. Our law enforcement strategies are effective. Criminal networks are being taken down,” Marbil said in a statement last week. What’s funny is that it was the police chief himself who used the plural “these,” betraying his own claim.
 
 Marbil must have recalled that it was only in February when a 14-year-old Chinese student lost a pinkie finger in yet another kidnap-for-ransom case that remains unsolved. After the boy was recovered along a Parañaque City highway, officials claimed that no ransom was paid to the abductors. But could we take their word for it?
 
@@ -48,4 +52,4 @@ This case has stoked not only fear among the Chinese Filipino community and the 
 
 If anything, his death is a testament to the tragic reality facing us today and which the PNP stubbornly refuses to admit: The police can no longer be trusted to protect even the most ordinary and innocent Filipinos from harm.
 
-The PNP has a lot of work to do if it hopes to prove this conclusion wrong. It can start by arresting the mastermind in the Tan-Pabillo case, rounding up all other perpetrators, and returning the ransom—in full—to the grieving family.
+The PNP has a lot of work to do if it hopes to prove this conclusion wrong. It can start by arresting the mastermind in the Tan-Pabillo case, rounding up all other perpetrators, and returning the ransom — in full — to the grieving family.
