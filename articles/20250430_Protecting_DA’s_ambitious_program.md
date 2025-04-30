@@ -26,7 +26,7 @@ According to the Pork Producers Federation of the Philippines, the ASF outbreak 
 
 Given the gravity of what is at stake, the country cannot just sit back and wait for the benefits of these programs to start being felt.
 
-Instead, the national government as well as local government units should fill the gap not just by relying on imported pork products to stabilize supply and prices but by doubling down on the strict and consistent enforcement of control measures to prevent the spread the ASF.
+Instead, the national government as well as local government units should fill the gap not just by relying on imported pork products to stabilize supply and prices but by doubling down on the strict and consistent enforcement of control measures to prevent the spread of ASF.
 
 ## ‘Pork holiday’
 
