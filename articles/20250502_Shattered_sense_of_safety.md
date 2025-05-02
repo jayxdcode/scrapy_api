@@ -18,7 +18,7 @@ At least 11 people, aged 5 to 65, were killed while more than 30 were injured in
 
 ## Surprising aberration
 
-That’s reason enough for Filipinos to flock to its shores, numbering almost a million in 2021, according to Statistics Canada. In British Columbia alone—which includes Vancouver—over 174,000 Filipinos represent 3.5 percent of the province’s total population, placing third among Asian residents after South Asia and China.
+That’s reason enough for Filipinos to flock to its shores, numbering almost a million in 2021, according to Statistics Canada. In British Columbia alone — which includes Vancouver — over 174,000 Filipinos represent 3.5 percent of the province’s total population, placing third among Asian residents after South Asia and China.
 
 Which makes the car-ramming attack a surprising aberration, according to Vancouver police who defended their safety protocols for the festival, saying there were no indications of threats beforehand.
 
@@ -28,11 +28,13 @@ But while the light police presence may be explained away, it’s deplorable tha
 
 ## Mea culpas
 
-The suspect is said to have had previous encounters with police and mental health workers because of episodes with his mental health, the latest being only the day before the Lapu Lapu Day block party. Even his family had expressed concern about it and should have alerted police and health workers to keep a discreet eye on him, maybe even have him under observation in a mental health facility. Canada, after all, is known for its extensive and accessible health-care system, another plus in its attraction for would-be migrants.
+The suspect is said to have had previous encounters with police and mental health workers because of episodes with his mental health, the latest being only the day before the Lapu Lapu Day block party. Even his family had expressed concern about it and should have alerted police and health workers to keep a discreet eye on him, maybe even have him under observation in a mental health facility. 
+
+Canada, after all, is known for its extensive and accessible health-care system, another plus in its attraction for would-be migrants.
 
 Rai has acknowledged that more should be done to address the root causes of mental health disorders, and said the police will now be working with the city “to review all the circumstances surrounding the planning of this event.”
 
-He added: “The system had worked up to this point—but this will be a watershed moment for city operations, police, ambulance, and all stakeholders.”
+He added: “The system had worked up to this point — but this will be a watershed moment for city operations, police, ambulance, and all stakeholders.”
 
 Such mea culpas are welcome, as are the expressions of support for the Filipino community from government officials and institutions, which offer needed comfort for grieving families, and counselling for those affected by the tragedy to start what could be a long healing process.
 
