@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 11, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02112025.png)
-
 And so the die is cast — the House of Representatives has crossed the Rubicon by moving to evict Vice President Sara Duterte from office.
 
 On the last session day before the midterm elections, more than 200 House members endorsed the impeachment complaint against Duterte, sending the case directly to the Senate for trial and burning all bridges with the country’s second top official and her powerful family.
