@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04072025.png)
-
 When United States President Donald Trump unleashed last week new tariffs on American imports from dozens of countries, the Philippines included, Canada immediately vowed to institute countermeasures, while China and the European Union (EU) vowed to also fight back. Nearer home, Vietnam will form a task force to address the situation, while Thailand and Malaysia said they will negotiate to bring down the stiff tariffs imposed by the US.
 
 In the Philippines, the reaction from the government and the country’s biggest business groups was, as Philippine Chamber of Commerce and Industry chair George Barcelon said, to look at the tariffs “from the positive side.” 

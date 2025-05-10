@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 06, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01062025.png)
+
 Budget Secretary Amenah Pangandaman had declared that the national budget for 2025 would reflect the Marcos administration’s determination to fulfill “the needs and aspirations of the Filipino people,” who are confronted by a multitude of daunting challenges, not least of which is the unabated increase in the prices of basic goods and commodities that has weakened the power of the peso.
 
 However, the political opposition, academe, civil society, and business community have joined the chorus of criticisms against the P6.326-trillion 2025 budget on grounds that it “may not succeed” in delivering on “lofty goals” that include elevating the quality of education and skills training and improving the delivery of public health services.
