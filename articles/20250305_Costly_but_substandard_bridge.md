@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 05, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03052025.png)
+
 It took over a decade and P1.22 billion in taxpayer money to complete the bridge connecting the Cabagan and Santa Maria towns of the province of Isabela, but a mere seconds for a section of the newly retrofitted structure to collapse.
 
 Four vehicles including the dump truck loaded with boulders weighing 102 tons crashed into a dried up section of the bank of Cagayan river below, leaving five with minor injuries and a young boy with critical head and body injuries, a heartbreaking incident that paints an ugly picture of the steep cost of possible corruption and incompetence.
