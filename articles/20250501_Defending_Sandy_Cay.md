@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 On April 24, the world woke up to dispiritingly familiar news: China was up to its antics again, displaying fresh aggression and ratcheting up tension in the flashpoint South China Sea region by claiming to have taken control of the tiny sandbank of Sandy Cay, part of the Spratly group of islands which are, under international law, within the exclusive economic zone (EEZ) of the Philippines.
 
 Chinese state media said Beijing had “implemented maritime control and exercised sovereign jurisdiction” over the reef in mid-April and backed up that assertion with photos of Chinese coast guard officers standing allegedly on the reef, holding a Chinese flag.
