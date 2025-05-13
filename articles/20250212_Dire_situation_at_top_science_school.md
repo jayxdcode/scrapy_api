@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 12, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02122025.png)
-
 The House of Representatives last week voted to pass on third and final reading a bill that seeks to expand the number of schools under the Philippine Science High School System (PSHS), an urgent measure that should breeze through the notoriously snail-paced legislative process to immediately become law.
 
 Earlier, the Senate approved on second reading Senate Bill No. 2974 or the Expanded Philippine Science High School System Act for a “unified commitment to fostering scientific talent and innovation in the country.”
