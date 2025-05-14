@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 14, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05142025.png)
+
 The initial report was alarming enough: Nine foreign nationals and two Filipinos had been apprehended at the Mactan-Cebu International Airport over the weekend for carrying an unexplained P441.92 million, $168,730, and 1,000 Hong Kong dollars in cold cash.
 
 The timing of the transport plus the involvement of six Chinese nationals, a Malaysian, Indonesian, and Kazakh immediately suggested, however, that the crime extends well beyond mere possession of a suspiciously large amount of cash in local and foreign currencies.
