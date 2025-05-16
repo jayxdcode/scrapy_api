@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM March 16, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03162025.png)
+
 Ghosts of the Ninoy Aquino International Airport’s (Naia) dark past seem to have come back to torment travelers, further adding to its bad image as one of the world’s worst airports.
 
 An incident last week at the Naia has given rise to fears that “tanim-bala”—literally bullet-planting—the modus operandi that became notorious a decade ago, is back to spook departing passengers.

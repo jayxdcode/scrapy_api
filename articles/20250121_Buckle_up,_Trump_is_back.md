@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 21, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01212025.png)
-
 The 47th president of the United States, Donald Trump, took his oath of office in Washington on Jan. 20. A peaceful transfer of power in America officially marked the stunning political comeback of Trump, unlike the chaotic departure he had in 2021.
 
 But on this side of the Pacific, there are many worries that are troubling everyone: What are the prospects for the Philippines, which is the US’ oldest and most trusted ally in Southeast Asia, and Filipinos living and working in the US, in the next four years?

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 14, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01142025.png)
+
 In his book “Beyond Fear,” American technologist Bruce Schneier coined the term “security theater” to describe high-key security measures aimed at making people feel safe without actually improving their safety.
 
 Examples include the requirement on passengers to take their shoes off before going through airport body scanners and the ban on bottled water and other liquids on flights. Equally superficial, and arguably as unnecessary, are those stop-and-frisk policies on public transportation, as well as fake surveillance cameras at street corners. Such protocols are inconvenient and often pointless, but they give people a sense of security and bolster the perception that the authorities are working to protect the public from harm.
