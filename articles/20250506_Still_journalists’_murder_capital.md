@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 For a while, media observers entertained the tiniest sliver of hope that this could be the year the Philippines finally shed its notoriety as a murder capital of journalists.
 
 In hindsight, the dream wasn’t so far-fetched: 2024 was the first time in two decades that not a single Filipino media practitioner was killed in the line of duty, according to a report of the Committee to Protect Journalists released in February. In October, the Philippines ranked ninth on the Global Impunity Index released by the same group, one spot lower than its placement in 2023.
