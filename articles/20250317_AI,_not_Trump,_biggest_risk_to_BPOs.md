@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 17, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03172025.png)
-
 Information technology and business process management (IT-BPM) has been one of the most dynamic sectors of the Philippine economy for the past two decades. As of the end of 2024, it was a $38-billion industry providing 1.82 million jobs. However, since 70 percent of its clients originate from the United States, it now feels threatened by renewed protectionist policies of US President Donald Trump.
 
 Local IT-BPM companies raised concerns last week about the future of the industry over the next five years, citing fears of a potential business slowdown under the Trump administration. They have reason to be so: During Trump’s first term from 2017 to 2020, according to the IT and Business Process Association of the Philippines (IBPAP), offshoring businesses slowed significantly, with industry growth decelerating to 2.5 percent in 2017 and 3.9 percent in 2018, compared with the 12.3-percent expansion recorded in 2016, or before Trump was inaugurated as the 45th US president on Jan. 20, 2017.
