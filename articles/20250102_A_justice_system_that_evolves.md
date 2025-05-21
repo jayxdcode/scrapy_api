@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 02, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01022025.png)
+
 As reviled as it is by many who have experienced being on the bad side of the law, there is hope yet for the justice system in the Philippines, one that is exemplified by the extraordinary tale of a coconut farmer from the Visayas.
 
 Pedro Amarille earned a humble living by harvesting coconuts to produce copra, or sun-dried coconut meat used to make oil. For years, he had mistakenly believed the plantation in Bohol province, where he gathered coconuts, was owned by his grandfather Eufemio. Unbeknownst to him, the land had passed into the hands of other heirs.

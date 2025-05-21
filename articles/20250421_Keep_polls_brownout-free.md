@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 21, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04212025.png)
+
 Despite the assurance from the Department of Energy (DOE) that there will be enough electricity supply for a brownout-free election in May, there are those who remain worried. And they have a valid reason to be concerned.
 
 Early last month, the National Grid Corp. of the Philippines (NGCP) warned that more red or yellow alerts could be issued during the summer months as unplanned power plant outages threaten supply. In a yellow alert, supply can still meet demand, but a plant breakdown could cause brownouts.
