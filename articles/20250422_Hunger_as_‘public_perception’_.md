@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 22, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04222025.png)
+
 Pearl S. Buck perfectly captured the nature of hunger as a primeval motivation for humans when she wrote: “A hungry man can’t see right or wrong. He just sees food.”
 
 As such, the late American writer would have disagreed with Social Welfare Assistant Secretary Irene Dumlao when the latter described the latest Social Weather Stations (SWS) survey on hunger as mere “public perception.” Neither would millions of underprivileged Filipinos agree that hunger is a matter of opinion or imagination instead of a crisis that consumes every second of their lives.
