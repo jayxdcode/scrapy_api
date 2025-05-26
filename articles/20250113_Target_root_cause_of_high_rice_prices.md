@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01132025.png)
-
 Since December last year, the Department of Agriculture (DA) has been announcing measures to address the stubbornly high prices of rice. As 2024 was about to end, it decided to order the removal of brand labels and “premium” and “special” markings on imported rice, suspecting that some industry players were using these to justify their high prices.
 
 A few days later, it announced that it is considering declaring a “food security emergency” in early 2025. Last week, the agency decided to impose a P58-a-kilo maximum suggested retail price for imported rice initially in Metro Manila beginning Jan. 20.
