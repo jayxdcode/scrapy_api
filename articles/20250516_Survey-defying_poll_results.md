@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 Virtually locked out in several surveys, former senators Bam Aquino and Kiko Pangilinan shocked even their camps by placing second and fifth, respectively, in the hotly contested senatorial race in last Monday’s elections.
 
 The two opposition candidates had neither giant tarpaulins, flashy TV ads, and catchy campaign jingles to trigger name recall and to boost their mass appeal. In contrast, most of the survey topnotchers have the vast resources and command votes of political dynasties and showbiz connections to count on.

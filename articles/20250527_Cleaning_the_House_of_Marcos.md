@@ -4,25 +4,23 @@
 
 ****Philippine Daily Inquirer / 05:08 AM May 27, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05272025.png)
-
 
 
 President Marcos’ stunning directive for his Cabinet to submit courtesy resignations marks a turning point for his three-year-old administration, a moment when the Palace, finally, appears willing to match rhetoric with resolve.
 
-It’s a move no one expected from a chief executive better known for consensus than confrontation. It took gumption and the kind of political courage that could redefine his presidency—if he stays the course, that is.
+It’s a move no one expected from a chief executive better known for consensus than confrontation. It took gumption and the kind of political courage that could redefine his presidency — if he stays the course, that is.
 
 Cleaning the House of Marcos, after all, requires more than a performance review. For this bold move to lead to real change, it demands cutting loose the dead weight. Which means letting go of underperforming and corrupt officials, no matter how loyal or closely connected to the seat of power they may be.
 
 Already, some firings have been announced: Environment Secretary Maria Antonia Yulo-Loyzaga is out while Housing Secretary Jerry Acuzar and Foreign Secretary Enrique Manalo are moving to other posts. But five members of the economic team get to keep their jobs.
 
-“It’s time to realign government with the people’s expectations,” the President said last week, adding that the public “expects results—not politics, not excuses.” In doing this, Mr. Marcos set the stage for what could be a genuine break from “business as usual,” a decision he characterized as a matter of “performance, alignment, and urgency.”
+“It’s time to realign government with the people’s expectations,” the President said last week, adding that the public “expects results — not politics, not excuses.” In doing this, Mr. Marcos set the stage for what could be a genuine break from “business as usual,” a decision he characterized as a matter of “performance, alignment, and urgency.”
 
 ## Historic electoral mandate
 
 For the public, it is a welcome, if overdue, admission that the first half of the Marcos presidency has fallen short, especially for a government that rode into office on the back of high voter expectations and historic electoral mandate in 2022. Three years later, that immense political capital has diminished considerably.
 
-Despite unprecedented government spending during the election year—on programs like Tupad and 4Ps—designed ostensibly to help the poor but widely seen as vote-buying tools, basic services remain in disarray. Education is in crisis, with schools still lagging behind in international assessments and failing global standards. Public health systems are languishing. Housing remains a pipe dream for millions. And millions more continue to suffer hunger and joblessness.
+Despite unprecedented government spending during the election year — on programs like Tupad and 4Ps—designed ostensibly to help the poor but widely seen as vote-buying tools, basic services remain in disarray. Education is in crisis, with schools still lagging behind in international assessments and failing global standards. Public health systems are languishing. Housing remains a pipe dream for millions. And millions more continue to suffer hunger and joblessness.
 
 More than half of Filipino families, or 55 percent, rated themselves as poor in the latest Stratbase-Social Weather Stations survey, a number had risen steadily in the first half of 2025.
 
