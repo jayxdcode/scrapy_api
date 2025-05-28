@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM February 09, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02092025.png)
+
 The Metro Manila Development Authority (MMDA) appears to never run out of wild ideas to solve the notorious traffic problem in the capital’s major thoroughfare—often at the expense of the commuting public.
 
 The latest proposal is to remove the Edsa busway, a lane that served more than 5 million passengers last month alone, because it is “repetitive” of the railway route. MMDA assured that the plan would be implemented only once the capacity of the Metro Rail Transit (MRT-3) had been expanded. MRT-3 is undergoing rehabilitation and maintenance to increase its capacity to half a million passengers daily, and this is expected to be completed by June.

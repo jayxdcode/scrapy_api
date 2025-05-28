@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM February 23, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02232025.png)
+
 The unscrupulous people never seem to run out of ways to fiddle with the system for their personal gain—from “ghost projects” to “ghost employees,” and now, “ghost students.”
 
 The Department of Education (DepEd) recently flagged 12 private schools across nine divisions for having nonexistent students participating in the government’s Senior High School Voucher Program (SHS-VP). The DepEd, just in time, stopped the release of P52.5 million worth of vouchers covering the school year 2023-2024 because it could not verify the beneficiaries’ existence.
