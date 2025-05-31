@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 29, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04292025.png)
-
 Even with three suspects in custody, the Anson Tan-Armanie Pabillo kidnapping-and-murder case is anything but closed.
 
 As each day passes, questions persist about the circumstances behind the crime, and the police narrative of unpaid offshore gaming debts and sketchy tales of revenge sounds more like a poor attempt at deflection than the outcome of honest-to-goodness detective work.

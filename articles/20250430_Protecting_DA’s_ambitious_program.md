@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 30, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04302025.png)
+
 With the local hog population estimated to be just 60 percent of what it was before the first case of the highly contagious African swine fever (ASF) was reported in 2019, the Department of Agriculture (DA’s) P1-billion swine repopulation program is a welcome development that must be given every chance to succeed.
 
 Under this program announced last week by the DA, 30,000 gilts or female pigs that have yet to produce piglets will be distributed to large farms, which will in turn “repay the government by providing reared pigs for distribution to backyard farmers.”
