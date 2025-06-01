@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM June 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06012025.png)
-
 Just one week since the No Contact Apprehension Policy (NCAP) was reimplemented, the Metropolitan Manila Development Authority (MMDA) claimed it has successfully deterred traffic violations based on data gathered before and after the controversial measure took effect.
 
 The agency recorded 1,112 infractions on the first day of implementation, compared to 3,982 violations the previous week. On the fourth day, the violations were down to 858. Most of them were disregarding traffic signs, using the Edsa bus lane and motorcycle lane, and loading-unloading offenses.
