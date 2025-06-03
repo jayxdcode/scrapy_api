@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04012025.png)
-
 Yet another controversy is brewing at the Bureau of Immigration (BI). This time, seven immigration staff members stand accused of aiding the trafficking of 206 Filipinos who were coerced into running online scams in Myanmar under brutal conditions.
 
 For an agency long reputed to be a revolving door of corruption, it wasn’t surprising to learn that BI employees were allegedly complicit in human trafficking. Such allegations seem to have become second nature to a bureau whose officers are routinely dragged in all manner of rackets, from airport bribes to fugitive escapes.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 27, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01272025.png)
-
 What’s so difficult about resolving this dragging furor over the alleged blank items in the congressional bicameral report on Republic Act No. 12116, or the General Appropriations Act (GAA) of 2025?
 
 Former president Rodrigo Duterte insists that the P6.326-trillion national budget for 2025 is invalid, based on the claim of his ally Davao City Rep. Isidro Ungab that the bicam report, which served as the basis for the GAA, had blank items in it. 

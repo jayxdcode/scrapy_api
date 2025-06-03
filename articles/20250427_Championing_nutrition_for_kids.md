@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM April 27, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04272025.png)
-
 Hunger and malnutrition among Filipino children continue to be prevalent, not so much due to a lack of an institutional framework, but more because of inconsistent implementation of programs meant to address the problem.
 
 There has been progress, indeed, from the 1980s when an iconic photo of an emaciated child from Negros came out. However, malnutrition remains a crisis and should be viewed as an important election issue that candidates in the midterm polls must address.

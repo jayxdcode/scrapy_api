@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 05, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01052025.png)
-
 The new year welcomed babies belonging to Generation Beta who will live in a world where technology such as artificial intelligence and automation will be fully embedded in daily life. The members of the newest generation will be born between 2025 and 2039 and will likely live into the 22nd century, inheriting problems that the world faces today such as climate change.
 
 Older generations, particularly the millennials and older Gen Zs who will raise Gen Beta, are responsible for helping the newest members of the world population prepare for the issues that they must eventually find solutions for. This also means that these older generations should implement reforms that could help mitigate the impact of ecological and developmental challenges—and that this should be done now.

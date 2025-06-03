@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM May 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05012025.png)
-
 
 
 On April 24, the world woke up to dispiritingly familiar news: China was up to its antics again, displaying fresh aggression and ratcheting up tension in the flashpoint South China Sea region by claiming to have taken control of the tiny sandbank of Sandy Cay, part of the Spratly group of islands which are, under international law, within the exclusive economic zone (EEZ) of the Philippines.

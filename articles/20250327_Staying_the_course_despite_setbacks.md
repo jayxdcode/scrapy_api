@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM March 27, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03272025.png)
-
 It is ironic that after handing over former president Rodrigo Duterte to the International Criminal Court (ICC) on the strength of an arrest warrant served by the International Police Organization (Interpol), the Philippine government suffered two diplomatic setbacks in its pursuit of fugitives evading criminal charges in the country.
 
 Wednesday last week, Justice Secretary Jesus Crispin Remulla disclosed that Malaysia had refused to provide information on how dismissed Bamban, Tarlac mayor Alice Guo was able to flee to Kuala Lumpur in July last year. Guo faced several Senate hearings that looked into her spurious Filipino citizenship, and her links to a Philippine offshore gaming operator (Pogo) complex in Tarlac found to have hosted criminal activities.

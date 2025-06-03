@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01012025.png)
-
 Filipinos have consistently met the coming of a new year with hope and excitement, as it represents a fresh start, looking forward to better days ahead, and a chance to begin again after reflecting on the year that was.
 
 However, the events of 2024 — from geopolitical upheavals to local political skirmishes on top of lingering issues with inflation and interest rates — have proven to be so challenging that even Filipinos’ vaunted ability to look at life as a glass half-full has been shaken.

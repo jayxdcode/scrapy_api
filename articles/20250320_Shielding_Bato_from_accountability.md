@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM March 20, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03202025.png)
-
 
 
 With the Philippine government allowing the arrest of former president Rodrigo Duterte and having him flown posthaste to The Hague to face charges before the International Criminal Court (ICC), the walls are now closing in on his key lieutenants who executed his administration’s war on drugs that led to the extrajudicial killing (EJK) of thousands of drug suspects.

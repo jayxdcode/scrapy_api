@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 03, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04032025.png)
+
 Whatever doubts the Trump administration’s foreign policies may have created about the United States’ commitment to the defense of the Philippines amid Chinese aggression quickly dissipated following the visit of US Defense Secretary Pete Hegseth last week.
 
 Hegseth, the first high-ranking US official to visit the country, not only expressed the US’ “ironclad commitment” to the Philippines but also vowed to enhance military alliances to “reestablish deterrence in the Indo-Pacific region and achieve peace through strength.”

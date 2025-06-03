@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:17 AM April 25, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04252025.png)
-
 No ifs and buts about it: The Marcos administration did right in rejecting the application for Philippine citizenship of Chinese businessman Li Duan Wang aka Mark Ong.
 
 President Marcos’ veto of House Bill No. 8839 came with a particularly pointed justification: “I am unable,” he said, “to blindly ignore the alarming and revealing warnings raised by our relevant national agencies that find the subject grantee’s character and influence to be full of ominous and dire consequences, if not of a clear and present danger.”

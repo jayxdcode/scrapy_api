@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04022025.png)
-
 
 
 The Department of Environment and Natural Resources (DENR) marked the International Day of Forests this year by launching its “Forests for Life: 5M Trees by 2028” program, the latest demonstration of its “commitment to climate resilience and sustainable forest management.”

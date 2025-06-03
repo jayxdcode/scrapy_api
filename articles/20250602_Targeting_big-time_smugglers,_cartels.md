@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM June 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06022025.png)
-
 The government is finally gaining headway in addressing the nagging problem of agricultural smuggling and illegal cartel-like behavior that has affected the livelihood of farmers and fishers and caused high prices for consumers.
 
 Considered a milestone in this effort is the enactment in September 2024 of Republic Act No. 12022, or the Anti-Agricultural Economic Sabotage Act. It repealed a similar law passed in 2016 and strengthened the government’s anti-smuggling drive by classifying smuggling, hoarding, profiteering, and engaging in a cartel as economic sabotage. 

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 09, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03092025.png)
-
 
 
 Filipino women have come a long way from the 1800s when their rights were suppressed to earning educational degrees, climbing professional ladders, and breaking glass ceilings today.

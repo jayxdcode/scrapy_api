@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM May 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05022025.png)
-
 “It was like a war zone,” an eyewitness said of the horrifying spectacle of bodies lying on the street after a black SUV plowed through the Filipino community’s crowded Lapu-Lapu Day festivities in Vancouver, Canada, Saturday night.
 
 The street party was winding down after having drawn up to 100,000 revelers with its offer of food, cultural numbers, and music from popular artists of Filipino descent, including rap star Apl.de. Ap. The crew was dismantling the barricades around the area when a car drove “full speed,” mowing down the throng of people and food stalls lining the street.

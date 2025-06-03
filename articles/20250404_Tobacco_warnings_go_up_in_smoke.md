@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM April 04, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04042025.png)
-
 It’s a picture that paints a thousand doubts on the Department of Health’s (DOH) vaunted commitment to promote the country’s health.
 
 Last week, Health Secretary Ted Herbosa drew sharp criticism from public health advocates when he and several government representatives posed with Philip Morris executives during the turnover of mobile clinics donated by the tobacco company in Malacañang. The event was hosted by First Lady Liza Marcos.
