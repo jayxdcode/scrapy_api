@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 11, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03112025.png)
-
 For generations, indigenous Filipinos have fought for a seat at the table where discussions are made on the policies that affect their communities and shape their lives.
 
 The Supreme Court’s decision to side with Aeta leader Chito Balintay, who was previously disqualified by the Commission on Elections (Comelec) from running for governor of Zambales province on a technicality, is a step toward breaking this cycle of exclusion that has kept indigenous peoples (IPs) from public office for too long.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 24, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12242024.png)
-
 For good or ill, the alliance between the Philippines and Japan is a testament to the aphorism in international relations that there are no permanent enemies nor permanent friends, only permanent interests.
 
 But it is the Philippines’ good fortune, indeed, that it has found a trade, military, and development partner in its former tormentor, Japan, with whom it likewise shares common defense ties to the United States, as the latter builds an arc of regional alliances to counter China’s expansionism in the South China Sea. That this partnership became possible at all, in spite of the two nations’ bitter history during World War II, when the Japanese invaded and occupied the Philippines, is in itself a wonder of geopolitical serendipity.
