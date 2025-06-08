@@ -24,7 +24,7 @@ The study, “Exploring the HIV Epidemic in the Philippines: Initiatives and Cha
 
 It, however, noted that despite these measures, including the increase in primary HIV care facilities and treatment centers, there still was “not much improvement [in controlling] the rising HIV cases.”
 
-The researchers attributed this to several factors, such as the low use of artificial contraceptives, like condoms, pre-exposure prophylaxis (PrEP), or the use of antiretroviral drugs, to prevent contracting HIV, especially among MSM. The researchers noted that PrEP was available mainly in urban areas but not in the provinces and recommended that health care providers include this service, with the help of private companies and the government.
+The researchers attributed this to several factors, such as the low use of artificial contraceptives, like condoms and pre-exposure prophylaxis (PrEP), or the use of antiretroviral drugs, to prevent contracting HIV, especially among MSM. The researchers noted that PrEP was available mainly in urban areas but not in the provinces and recommended that health care providers include this service, with the help of private companies and the government.
 
 They also cited the Catholic Church’s conservatism, which “greatly influences [and] prevents the full implementation of sexual education in all schools in the country.” The Church has opposed the use of artificial contraceptives and sex education in schools, arguing that parents should be the primary educators in this area.
 
@@ -36,4 +36,4 @@ The government can look to Thailand, which has successfully controlled its HIV e
 
 In the 1990s, Thailand, under the leadership of then-Cabinet member Mechai Viravaidya, launched an intensive public information campaign on HIV/AIDS prevention. This included mandatory one-minute AIDS education spots every hour on television and radio, as well as education programs in schools that raised students’ level of awareness.
 
-The world today has a better understanding of HIV and AIDS, and together with it, many ways to protect oneself from contracting HIV, or treating it early it so that PLHIVs can live a long and healthy life. This is where the government should focus its efforts instead of hyping up numbers that only trigger panic or fear among the public.
+The world today has a better understanding of HIV and AIDS, and together with it, many ways to protect oneself from contracting HIV, or treating it early so that PLHIVs can live a long and healthy life. This is where the government should focus its efforts instead of hyping up numbers that only trigger panic or fear among the public.
