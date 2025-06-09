@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM June 09, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06092025.png)
-
 In one of its last acts before the 19th Congress adjourns on June 13, the House of Representatives approved on third and final reading last week a bill seeking to raise the minimum wage of workers in the private sector across the country by P200 a day.
 
 If concurred by the Senate and signed into law by President Marcos, this will be the first legislated nationwide wage hike since 1989, when the Wage Rationalization Act was passed creating the regional tripartite wage boards tasked with setting local minimum wage rates.
