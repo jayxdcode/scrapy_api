@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:08 AM June 10, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06102025.png)
-
 
 
 
@@ -36,6 +34,6 @@ In the case of Dito, once again the national security implications couldn’t be
 
 Dito, in other words, may turn out to be another troubling case of a critical piece of infrastructure somehow getting into the hands of foreign “experts” whose mother country just happens to be waging a campaign of harassment and aggression against the Philippines’ interests in the South China Sea. Recall the case of the National Grid Corporation of the Philippines, the operator of the country’s power grid no less, which has been the subject of Senate inquiries due to the State Grid Corporation of China’s 40-percent ownership of the utility, and the presence in it of Chinese executives in highly sensitive positions.
 
-A legislative investigation may also be needed to get to the bottom of Dito’s case, the company’s existence being subject to a congressional franchise. But the larger issue of the continuing proliferation of illegal foreigners in the country, and the heedlessly corrupt ways at the Immigration Bureau that sustain and make possible such widespread misconduct at the expense of the country’s social order and national security, demands urgent and definitive action by the Marcos administration.
+A legislative investigation may also be needed to get to the bottom of Dito’s case, the company’s existence being subject to a congressional franchise. But the larger issue of the continuing proliferation of illegal foreigners in the country, and the heedlessly corrupt ways at the immigration bureau that sustain and make possible such widespread misconduct at the expense of the country’s social order and national security, demands urgent and definitive action by the Marcos administration.
 
 It can begin by forthwith (as in “immediately”) looking into the real situation at the immigration bureau, and getting rid of its corrupt employees and officials for good.
