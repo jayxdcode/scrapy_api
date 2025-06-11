@@ -10,13 +10,15 @@
 
 
 
-With crippling and interminable blackouts lasting for as long as 22 hours in some areas, the island-province of Siquijor in Central Visayas last week rightfully declared a state of calamity. The measure unanimously approved by the Siquijor Provincial Board will allow the provincial government to activate funds for the urgent requisition of additional energy sources. This is to make up for the sudden drop in supply caused by the breakdown of the power generation units operated by Siquijor Island Power Corp. (Sipcor), the island’s sole power provider.
+With crippling and interminable blackouts lasting for as long as 22 hours in some areas, the island-province of Siquijor in Central Visayas last week rightfully declared a state of calamity. The measure unanimously approved by the Siquijor Provincial Board will allow the provincial government to activate funds for the urgent requisition of additional energy sources.
+
+This is to make up for the sudden drop in supply caused by the breakdown of the power generation units operated by Siquijor Island Power Corp. (Sipcor), the island’s sole power provider.
 
 “Sobra na! (It’s just too much) What I want is to have a standby generator,” a furious Siquijor Gov. Jake Vincent Villa said, describing the bleak daily situation as “unbearable.” According to the resolution, the outage of Sipcor units led to a critical shortfall of about 2.2 megawatts out of the daily demand of 9.4 megawatts, leading to rotating power interruptions.
 
 In some areas, electricity has been available for only two to five hours since May 13, severely hampering the delivery of basic public services and dealing a heavy blow to the local economy.
 
-Thus the additional power supply—initially via power barges from Palawan—cannot come soon enough to bring immediate relief to the people across the island who are suffering from the adverse impact of the widespread and prolonged power interruptions on their water, transport, communication, education, and even health-care services.
+Thus the additional power supply — initially via power barges from Palawan — cannot come soon enough to bring immediate relief to the people across the island who are suffering from the adverse impact of the widespread and prolonged power interruptions on their water, transport, communication, education, and even health-care services.
 
 ## Hospitality sector
 
@@ -28,7 +30,9 @@ Sipcor, which has a 20-year power supply agreement with local distributor Provin
 
 ## Lone power plant
 
-Siquijor’s situation is indeed grave but hardly unique as other island-provinces in the country that are not connected to the grid and have to rely on a single supplier have had their bouts with agonizingly long power interruptions that have held back their economic growth. Last February, for example, residents of the island-province of Masbate also had to endure prolonged and frequent power outages because of technical issues with the island’s lone power plant, that eventually led to its total shutdown for a number of days.
+Siquijor’s situation is indeed grave but hardly unique as other island-provinces in the country that are not connected to the grid and have to rely on a single supplier have had their bouts with agonizingly long power interruptions that have held back their economic growth.
+
+Last February, for example, residents of the island-province of Masbate also had to endure prolonged and frequent power outages because of technical issues with the island’s lone power plant, that eventually led to its total shutdown for a number of days.
 
 Then last year, the burgeoning tourist destination of Siargao also had to suffer extended power interruptions because the line transmitting electricity to the island was cut, causing massive inconvenience and leaving a stain on the reputation of the area as a top tourist destination.
 
@@ -36,7 +40,9 @@ These situations are indeed dire but will nevertheless continue to repeat themse
 
 ## No longer a luxury
 
-The local distributors, for example, should regularly update their power development plan so they will know beforehand if demand in their area will rise given increased economic activity and population growth. In the case of Siquijor, for example, the DOE’s investigation showed that the debilitating power crisis was caused by a “combination of technical, operational and regulatory issues” preventing Sipcor from deploying its full generating capacity to meet local demand.”
+The local distributors, for example, should regularly update their power development plan so they will know beforehand if demand in their area will rise given increased economic activity and population growth.
+
+In the case of Siquijor, for example, the DOE’s investigation showed that the debilitating power crisis was caused by a “combination of technical, operational and regulatory issues” preventing Sipcor from deploying its full generating capacity to meet local demand.”
 
 Thus, the DOE underscored the “urgent need” for coordinated and sustained action, the same action that must be exercised across all island-provinces that are especially vulnerable to technical issues affecting the power plants and the transmission lines since they are not connected to the regional or national grid.
 
