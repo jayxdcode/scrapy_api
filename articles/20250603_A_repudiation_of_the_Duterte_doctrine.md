@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 Carlito Salomon was dismissed from government service when he tested positive for shabu or crystal meth, the street name for the illegal stimulant, methamphetamine hydrochloride, during a random drug test 14 years ago. He was lucky it happened in 2011, not five years later, when Rodrigo Duterte assumed the presidency and waged a bloody war that left scores of drug suspects dead.
 
 But in a landmark ruling made public on May 20 this year, the Supreme Court asserted that even the dismissal of the Muntinlupa City engineer had been unwarranted, as it found that civil servants like Salomon deserved a second chance and a shot at rehabilitation. In doing so, the country’s highest court restored a concept unfamiliar to the former president—due process.
