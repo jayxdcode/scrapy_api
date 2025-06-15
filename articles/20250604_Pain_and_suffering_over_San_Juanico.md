@@ -4,10 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 04, 2025****
 
-
-
-
-
 Fewer vehicles are seen traversing the usually packed 2.16-kilometer San Juanico Bridge, which connects Leyte and Samar Islands.—PHOTO COURTESY OF PROUD BISAYA BAI
 
 
