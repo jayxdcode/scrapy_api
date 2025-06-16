@@ -8,10 +8,6 @@
 
 
 
-
-
-
-
 It was a broadside that seemingly came out of nowhere. Reacting to the widely praised appointment of Police Gen. Nicolas Torre III as the new chief of the Philippine National Police, Sen. Jinggoy Estrada had quite a mouthful to say: Torre, he harrumphed, was “not a good choice.” This is the first time, he added, that the country will have “such an arrogant PNP chief.”
 
 As far as the public knew, Torre had not had any altercation with Estrada before this, so what prompted the outburst? Did the senator — still entangled in 11 counts of graft charges at the Sandiganbayan over the alleged diversion of P200 million in pork barrel funds — tremble at the thought that Torre as the nation’s chief law enforcer might one day have to haul him to jail? Was this a visceral indication of fear from anyone who realized that, here at last, was a top cop who would be “arrogant” enough to ignore the bluster and power customary to the high and mighty in public office, and would simply apply the law in discharging his job?
