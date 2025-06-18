@@ -356,9 +356,6 @@
     "20250424": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250424_Salvation_for_Filipino_commuters.md"
     },
-    "20250425": {
-        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250425_A_rightful_veto.md"
-    },
     "20250427": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250427_Championing_nutrition_for_kids.md"
     },
@@ -373,9 +370,6 @@
     },
     "20250501": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250501_Defending_Sandy_Cay.md"
-    },
-    "20250502": {
-        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250502_Shattered_sense_of_safety.md"
     },
     "20250504": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250504_Manila_Bay’s_social,_environmental_ruin.md"
@@ -499,5 +493,14 @@
     },
     "20250618": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250618_Online_gambling_and_broken_lives.md"
+    },
+    "20250619": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250619_‘Unconstitutional’_act.md"
+    },
+    "20250425": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250425_A_rightful_veto.md"
+    },
+    "20250502": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250502_Shattered_sense_of_safety.md"
     }
 }
