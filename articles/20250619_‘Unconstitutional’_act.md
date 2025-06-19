@@ -10,7 +10,7 @@ But politicians are nothing if not tenacious when it comes to ways that would al
 
 The reconciled version of House Bill 11287 and Senate Bill 2816 does not front-load that objective. Instead, it passes itself off as an “An Act Setting the Term of Office of Barangay Officials and Members of the Sangguniang Kabataan, and for other purposes,” mandating three consecutive terms of four years, from the previous three, for barangay officials, and a single four-year term for SK officials.
 
-But then the bill tacks on the provision that the election for these officials be moved from December this year to the second Monday of November 2026—and there lies the rub. That proposal, if approved, would allow “incumbent barangay officials to continue serving in a holdover capacity—effectively extending their tenure without a public mandate,” as veteran election lawyer Romulo Macalintal pointed out in a statement appealing to Marcos to veto the bill.
+But then the bill tacks on the provision that the election for these officials be moved from December this year to the second Monday of November 2026 — and there lies the rub. That proposal, if approved, would allow “incumbent barangay officials to continue serving in a holdover capacity — effectively extending their tenure without a public mandate,” as veteran election lawyer Romulo Macalintal pointed out in a statement appealing to Marcos to veto the bill.
 
 ## Genuine periodic elections
 
@@ -30,7 +30,9 @@ In signing RA 11935, Marcos had defended the power of Congress to postpone the v
 
 ## Unambiguous ruling
 
-That view, however, was decisively repudiated by the Supreme Court. For good measure, to prevent repetition, the tribunal also laid out “guidelines and principles for the bench, the bar, and the public as regards any government action that seeks to postpone any elections.” Any such move, it said, “must be based on genuine reasons and only on objective and reasonable criteria.” A case of public emergency may qualify, for instance, “but only if and to the extent strictly required by the exigencies of the situation.”
+That view, however, was decisively repudiated by the Supreme Court. For good measure, to prevent repetition, the tribunal also laid out “guidelines and principles for the bench, the bar, and the public as regards any government action that seeks to postpone any elections.”
+
+Any such move, it said, “must be based on genuine reasons and only on objective and reasonable criteria.” A case of public emergency may qualify, for instance, “but only if and to the extent strictly required by the exigencies of the situation.”
 
 What, then, has changed since that 2023 judgment that outgoing lawmakers were emboldened yet again to tinker with the BSK elections? Expending effort on a fresh bid to resurrect a discredited project, let alone passing a bill that would fail the constitutional test, is a gross waste of time and taxpayers’ money.
 
