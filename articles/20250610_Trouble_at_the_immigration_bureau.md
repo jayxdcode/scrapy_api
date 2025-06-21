@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 There’s trouble yet again at the Bureau of Immigration (BI). A June 2 letter sent to President Marcos by BI employees has accused Commissioner Joel Anthony Viado of corruption and misconduct, particularly for allegedly colluding with now-banned Philippine offshore gaming operators in the entry and/or deportation of illegal foreign workers.
 
 Among the allegations: Viado supposedly facilitated the release of foreign Pogo bosses and allowed the auction to the highest bidders of quota visas which are limited and regulated in number, with Chinese applicants paying as much as P5 million for a visa. The Bureau, the letter said, has also been complicit in the mistreatment of deported foreign nationals, and even in human trafficking.
