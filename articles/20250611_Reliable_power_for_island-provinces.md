@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 With crippling and interminable blackouts lasting for as long as 22 hours in some areas, the island-province of Siquijor in Central Visayas last week rightfully declared a state of calamity. The measure unanimously approved by the Siquijor Provincial Board will allow the provincial government to activate funds for the urgent requisition of additional energy sources.
 
 This is to make up for the sudden drop in supply caused by the breakdown of the power generation units operated by Siquijor Island Power Corp. (Sipcor), the island’s sole power provider.
