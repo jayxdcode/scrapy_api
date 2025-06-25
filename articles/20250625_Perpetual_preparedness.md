@@ -10,7 +10,9 @@
 
 
 
-On Sunday, seven B-2 stealth fighters took off from Missouri and dropped multiple “bunker buster” precision bombs on three key Iranian nuclear facilities under Operation Midnight Hammer, thrusting superpower United States smack in the middle of the escalating Israel-Iran conflict. This unprecedented move that US President Donald Trump boasted as “a very successful attack” predictably set off an exchange of missile attacks that threatens to burst wide open the conflict in the already volatile Middle East.
+On Sunday, seven B-2 stealth fighters took off from Missouri and dropped multiple “bunker buster” precision bombs on three key Iranian nuclear facilities under Operation Midnight Hammer, thrusting superpower United States smack in the middle of the escalating Israel-Iran conflict.
+
+This unprecedented move that US President Donald Trump boasted as “a very successful attack” predictably set off an exchange of missile attacks that threatens to burst wide open the conflict in the already volatile Middle East.
 
 Repercussions continue to be felt across the globe through flight disruptions, currency fluctuations, stock market gyrations, and surging oil prices.
 
@@ -18,21 +20,25 @@ The Philippines is especially vulnerable to the escalating situation in the Midd
 
 Indeed, oil companies are raising their pump prices this week by as much as P5 a liter, with another round of potentially even higher price hikes set for next week as the peso sinks and global market prices climb.
 
-And where oil prices go, so do the tags of most products and services, increasing the risk that inflation—or the rate of increase in the prices of basic goods and services that Filipinos typically buy—will go up to over 5 percent, just when the Philippines is enjoying rates below the 2-4 percent 2025 target range for the year of the Bangko Sentral ng Pilipinas (BSP).
+And where oil prices go, so do the tags of most products and services, increasing the risk that inflation — or the rate of increase in the prices of basic goods and services that Filipinos typically buy — will go up to over 5 percent, just when the Philippines is enjoying rates below the 2-4 percent 2025 target range for the year of the Bangko Sentral ng Pilipinas (BSP).
 
 ## Fragile global order
 
 “Oil is one of the big risks that we worry about. We have a bad scenario, if I may call it that, in which our inflation rate could exceed five percent,” BSP Governor Eli Remolona had said.
 
-That is, unless a genuine and lasting ceasefire between Israel and Iran comes to fruition and Iran’s threatened closure of the vital Strait of Hormuz—where a third of oil exports passes through—will not come to pass.
+That is, unless a genuine and lasting ceasefire between Israel and Iran comes to fruition and Iran’s threatened closure of the vital Strait of Hormuz—where a third of oil exports passes through — will not come to pass.
 
-But as of writing, Iranian Foreign Minister Abbas Araghchi said there was “NO agreement on any ceasefire or cessation of military operations” and has continued to fire missiles into Israel, indicating that an immediate resolution to this latest shock to the fragile global order is nowhere in sight. The world is thus facing the “most complex” geopolitical situation seen in decades, said Borge Brende, president and chief executive officer of the World Economic Forum, and warned that turmoil was “impacting global growth”.
+But as of writing, Iranian Foreign Minister Abbas Araghchi said there was “NO agreement on any ceasefire or cessation of military operations” and has continued to fire missiles into Israel, indicating that an immediate resolution to this latest shock to the fragile global order is nowhere in sight.
+
+The world is thus facing the “most complex” geopolitical situation seen in decades, said Borge Brende, president and chief executive officer of the World Economic Forum, and warned that turmoil was “impacting global growth”.
 
 With far too many variables in play that could either raise the conflict to another level or bring the Middle East back from the edge of full scale warfare, the Marcos administration must stand ready to take heightened coordinated and immediate action to mitigate the impact on the Philippines and the overseas Filipino workers across the oil-rich nations.
 
 ## Perpetual preparedness
 
-The Department of Energy urged oil companies to “stagger” the price adjustments this week to soften the impact of the price hike. President Marcos also ordered the rollout of a fuel subsidy program for operators and drivers of public utility vehicles in case oil prices further increase and thus force them to seek a corresponding increase in transport fares. An initial P2.5 billion in the 2025 budget has already been identified as a source for the subsidy, the distribution guidelines of which are being finalized.
+The Department of Energy urged oil companies to “stagger” the price adjustments this week to soften the impact of the price hike. President Marcos also ordered the rollout of a fuel subsidy program for operators and drivers of public utility vehicles in case oil prices further increase and thus force them to seek a corresponding increase in transport fares.
+
+An initial P2.5 billion in the 2025 budget has already been identified as a source for the subsidy, the distribution guidelines of which are being finalized.
 
 The Department of Migrant Workers, on the other hand, is spearheading efforts to bring home Filipinos who are urgently seeking repatriation from the conflict zones of Israel and Iran.
 
