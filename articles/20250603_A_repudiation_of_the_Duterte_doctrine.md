@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:08 AM June 03, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06032025.png)
-
 
 
 Carlito Salomon was dismissed from government service when he tested positive for shabu or crystal meth, the street name for the illegal stimulant, methamphetamine hydrochloride, during a random drug test 14 years ago. He was lucky it happened in 2011, not five years later, when Rodrigo Duterte assumed the presidency and waged a bloody war that left scores of drug suspects dead.
