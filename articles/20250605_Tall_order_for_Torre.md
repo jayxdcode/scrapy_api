@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 05, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06052025.png)
-
 
 
 It was a broadside that seemingly came out of nowhere. Reacting to the widely praised appointment of Police Gen. Nicolas Torre III as the new chief of the Philippine National Police, Sen. Jinggoy Estrada had quite a mouthful to say: Torre, he harrumphed, was “not a good choice.” This is the first time, he added, that the country will have “such an arrogant PNP chief.”
