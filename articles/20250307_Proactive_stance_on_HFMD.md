@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM March 07, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03072025.png)
+
 The disease isn’t fatal and is self-limiting within 7-10 days. Aside from mouth sores and rashes or blisters on the hands, feet, and buttocks, its symptoms are relatively mild.
 
 But with hand, foot and mouth disease (HFMD) being highly contagious, afflicting mainly children under 5, and registering a three-fold increase in just a month, the Department of Health (DOH) has raised the alarm on this little-known malaise, if only to spread correct information and allay unwarranted fears.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 05, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02052025.png)
+
 It has been almost five years since the COVID-19 pandemic happened and close to two years since President Marcos lifted the public health emergency in the country. And yet, costly irregularities, shortcomings and missteps surrounding the Duterte era COVID-19 pandemic response continue to rear their ugly head.
 
 Last week, the Commission on Audit (COA) said that as of September 2023, the Philippines recorded a “substantial wastage” of as much as 68.668 million COVID-19 vaccines either procured by national or local government units or donated by partner countries or foreign humanitarian organizations, highlighting “inadequate planning in vaccine procurement/acquisition, receipt, utilization and distribution.”

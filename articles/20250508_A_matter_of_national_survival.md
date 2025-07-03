@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 08, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05082025.png)
+
 Education has always been a top priority among Filipinos, as evidenced by the framed diplomas of a family’s college graduates, the shingle of the progeny’s professional title tacked outside the home, and the giant tarpaulins congratulating new degree holders.
 
 Despite such proud aspirations, Filipinos still languish at the bottom of global academic assessments, placing 77th out of 81 countries in the 2022 Programme for International Student Assessment.

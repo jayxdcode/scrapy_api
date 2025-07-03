@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 15, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05152025.png)
+
 At this point, it’s all over but the proclamations for national positions. By late Tuesday night, Filipino voters eagerly awaiting the results of the 2025 midterm elections went to their beds already armed with reasonable certainty as to who were going to be their next senators, representatives, and local officials.
 
 The speed of vote transmission, though still based on partial and unofficial tallies, appeared to be a repeat of the swifter-than-expected results of the May 2022 presidential election, giving people the assurance that they wouldn’t be looking at a messy, uncertain political landscape in the aftermath of the polls.

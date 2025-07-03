@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM March 25, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03252025.png)
+
 
 
 As access to higher education remains a privilege in this country, the passage of Republic Act No. 12124 offers less fortunate Filipinos a more inclusive pathway toward a college degree.

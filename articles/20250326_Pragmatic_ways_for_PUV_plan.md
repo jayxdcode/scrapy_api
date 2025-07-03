@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM March 26, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03262025.png)
+
 
 
 Transport group Manibela kicked off this week a three-day strike to protest the implementation of the contentious public transport modernization program, inconveniencing hundreds of commuters and forcing schools and universities to cancel face-to-face classes.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 16, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01162025.png)
+
 It could easily be dismissed as a pro forma farewell call by the outgoing leader of the United States, but President Joe Biden’s reassurance of continued American support must still hold water for allies facing China’s intimidation in the disputed South China Sea, particularly in Philippine waters.
 
 Biden held a video conference call with President Marcos and Japan Prime Minister Shigeru Ishiba on Monday, a week before he steps down and transfers power to his successor, president-elect Donald Trump. The call, he said, was meant to “advance our cooperation in the Indo-Pacific.”

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 23, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05232025.png)
+
 When the framers of the 1987 Constitution included party list representation in Article VI of the Charter, they created a mechanism to give the marginalized a voice in Congress. Envisioned was a proportional representation for the poor and disadvantaged to incorporate social justice in the nation’s fundamental law.
 
 The provision mandates that 20 percent of the total number of House seats be filled with elected representatives from “the labor, peasant, urban poor, indigenous cultural communities, women, youth, and such other sectors as may be provided by law, except the religious sector.”

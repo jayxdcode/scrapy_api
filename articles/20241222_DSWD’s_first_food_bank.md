@@ -4,6 +4,8 @@
 
 ****05:03 AM December 22, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12222024.png)
+
 The reminder not to waste food out of consideration for those hungry is very familiar among Filipinos. “Huwag sayangin ang pagkain, maraming nagugutom,” adults would remind children at mealtime that finishing one’s food has become a virtue.
 
 The intent behind this principle is the same as the objective behind the Department of Social Welfare and Development’s (DSWD) recently launched “Walang Gutom Kitchen,” the department’s first food bank that aims to hit two birds with one stone: address involuntary hunger and help minimize food wastage.

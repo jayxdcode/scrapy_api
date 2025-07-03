@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM December 31, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12312024.png)
+
 Once again, many parts of the Philippines are turning into a war zone as Filipinos outdo each other in greeting the New Year with a bang.
 
 But the age-old superstition that sudden bursts of heat, light, and sound from firecracker explosions bring good luck has long been dispelled by scores of people who welcome the first day of the year with more pain than prosperity—due to mangled limbs and other injuries, on top of soaring medical bills.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM February 20, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02202025.png)
+
 The administration’s program to rehabilitate the Pasig River got a $20-million funding support from the United Arab Emirates, boosting the momentum to pursue the restoration of the historic and once-pristine waterway after decades of neglect.
 
 First Lady Liza Araneta-Marcos announced the UAE donation, equivalent to some P1.55 billion, during the World Governments Summit in Dubai last week where she also witnessed the signing of agreements between the Department of Environment and Natural Resources and the Clean Rivers (Erth Zayed Philanthropies). The nonprofit organization under the patronage of UAE President Mohamed bin Zayed Al Nahyan is funding efforts to remove plastic pollution from river systems around the world.

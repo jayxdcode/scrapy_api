@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM February 18, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02182025.png)
+
 No, the party list system, contrary to popular belief, was never designed to “give voice to the voiceless.”
 
 Some of the framers of the 1987 Constitution, including the late Jesuit priest Joaquin Bernas, did envision a permanent and proportional representation for poor and disadvantaged Filipinos and pushed strongly for incorporating social justice in the nation’s fundamental law.

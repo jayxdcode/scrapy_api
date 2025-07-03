@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 23, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04232025.png)
+
 I’m here to be with you. A little bit late, but I’m here.”
 
 Pope Francis’ words were like a balm bringing relief and reassurance to the traumatized survivors of Supertyphoon “Yolanda” (international name: Haiyan), one of the deadliest storm on record, that laid to waste Tacloban, Leyte on Nov. 8, 2013, and left over 6,000 people dead.

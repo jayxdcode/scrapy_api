@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:00 AM January 08, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01082025.png)
+
 President Ferdinand Marcos Jr. expended considerable political capital after he ignored calls to scrap the controversial Ayuda Para sa Kapos ang Kita Program (Akap) and instead injected it with P26 billion in fresh funds under the P6.326-trillion budget for 2025.
 
 He did, however, sought to reassure the public concerned about the funds being used for political gain — especially that 2025 is an election year — by placing the program under “conditional implementation” to “ensure that the people’s funds are utilized in accordance with their authorized and stated purpose.”The Department of Social Welfare and Development, for instance, will no longer be the sole implementer of Akap.

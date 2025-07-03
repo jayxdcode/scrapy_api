@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:40 AM December 16, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12162024.png)
+
 The Bureau of Internal Revenue (BIR) warned last week that it will launch a nationwide crackdown on the sale and use of fake identification cards for persons with disabilities (PWDs), calling the practice a tax evasion scheme that has cost the government revenue losses of about P88.2 billion in 2023 alone. “People who sell and use fake PWD IDs are not only committing tax evasion, they are also disrespecting legitimate and compliant PWDs,” BIR chief Romeo Lumagui Jr. lamented. “The discount given by law to PWDs is for the improvement of their well-being and easing of their financial burden. It is not some common discount card that is accessible to the general public. Expect the BIR to run after fake PWD ID sellers and users.”
 
 This followed a Senate committee on ways and means investigation into the proliferation and unscrupulous use of fake PWD cards. In the course of its probe, lawmakers heard odd stories encountered by restaurant owners ranging from “legally blind pilots” to couples claiming “conjugal disability,” obviously using fake PWD cards. Data from the Department of Health showed that as of Nov. 9 this year, there were 1.8 million registered PWDs in the country. However, Sen. Sherwin Gatchalian, head of the Senate panel, put the number of PWD cards circulating in the country at 8 million based on their own research and conversation with different establishments.

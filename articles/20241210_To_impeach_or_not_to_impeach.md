@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:40 AM December 10, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12102024.png)
+
 The road is long and uncertain for those seeking the removal of Vice President Sara Duterte via impeachment, but impeachment is by no means the only path in the pursuit of accountability for the P612.5 million in confidential funds allegedly misspent under her leadership.
 
 The reality is that impeachment is not just a constitutional instrument to make high officials answerable for wrongdoing. Too often, it serves as a bargaining chip for partisan gain or monetary benefit; in other words—a political tool. But the allegations leveled at Duterte, being imbued with public interest, require a legal response and potentially, a judicial reckoning.

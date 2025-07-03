@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 31, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03312025.png)
+
 Researchers from the University of the Philippines Manila recently developed a cost-effective painkiller made from an herbal plant that has long been used by many Filipinos as a home remedy: the yerba buena tablet.
 
 This a “game-changer” not only for the herbal medicine market but for the pharmaceuticals sector—and should encourage more initiatives like this that could give Filipinos a viable alternative to more expensive medicines.

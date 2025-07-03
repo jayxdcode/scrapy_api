@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM May 12, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05122025.png)
+
 Beyond the political showdowns happening nationwide, the story of today’s midterm election, much like the 2022 presidential polls, is shaping up to be another battle of disinformation.
 
 Unless voters are discerning in their choice of leaders, victory will go to the candidates in command of well-funded troll armies that can shape and distort public opinion, rather than those with the best platforms and principles, let alone the heart to serve. So insidious is this new virus that some quarters rightly consider disinformation as the single biggest danger facing the electorate, one worse tenfold than the “guns, goons, and gold” of elections past.

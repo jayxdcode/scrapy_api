@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 20, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01202025.png)
+
 Feeling that they were being “shortchanged,” mayors across the country asked the Department of Finance (DOF) for a full accounting of the 40-percent share of local government units (LGUs) from national taxes. They were referring to the 2018 Supreme Court decision affirming that local governments are entitled to 40 percent of all national government taxes, and not just collections of the Bureau of Internal Revenue. The high court upheld the arguments made by local officials led by Batangas Gov. and lawmaker Hermilando Mandanas and former Bataan Gov. Enrique Garcia, who sued the government in 2013.
 
 Formerly called the internal revenue allotment of provinces, municipalities, cities and barangays, this was expanded to include other revenue sources such as the collections of the Bureau of Customs and the value-added tax and is incorporated in the General Appropriations Act (GAA) under the new name national tax allotment (NTA). It took effect during the Duterte administration and the impact of the Mandanas-Garcia Doctrine on national expenditures was eased by enforcing a complete transfer of several national government functions to local governments.

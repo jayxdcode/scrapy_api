@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM February 04, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02042025.png)
+
 
 
 Here, at last, comes a serious and determined push in Congress to increase the minimum daily salary in the private sector, some 36 years after the country’s workers experienced their last across-the-board wage hike.
