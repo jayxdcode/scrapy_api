@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM December 23, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12232024.png)
+
 Agriculture Secretary Francisco Tiu Laurel Jr. is making headway on his promise to rid the farm sector of scalawags. He reported that at least 10 private companies have been blacklisted by the Department of Agriculture (DA) in the last six months for their involvement in illegal trade or other unlawful agricultural practices—more than the number in the past six years combined. Three other companies with import licenses were also sanctioned for their involvement in anticompetitive practices such as price manipulation and collusion.
 
 As a result, the licenses of the blacklisted firms engaged in misdeclaration and illegal importation were revoked, while those without licenses were banned from dealing with the DA. “This should serve as a clear warning to those who attempt to challenge our resolve in going after smugglers and unscrupulous traders whose illegal activities harm our farmers, fisherfolk and consumers,” Tiu Laurel said.

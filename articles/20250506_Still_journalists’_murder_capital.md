@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM May 06, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05062025.png)
+
 
 
 For a while, media observers entertained the tiniest sliver of hope that this could be the year the Philippines finally shed its notoriety as a murder capital of journalists.

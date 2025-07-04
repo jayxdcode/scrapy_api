@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 17, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04172025.png)
+
 
 
 Some crimes are so heinous, so extraordinarily vile that they become watershed moments in the national narrative — seared into the public’s consciousness as an assault on the people’s fundamental sense of security and order, and immediately a defining challenge for the government that must deal with the ramifications of the sordid deed.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:40 AM April 09, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04092025.png)
+
 The Bangko Sentral ng Pilipinas (BSP) is going full steam ahead with its plan to saturate the country with polymer banknotes that it believes to be more durable, tamper-proof, and environment-friendly than the still more widely used paper versions.
 
 Nevertheless, the Department of Agriculture (DA) is making a last-ditch effort to dissuade the BSP from using only polymer and instead maintain in circulation a sizable volume of Philippine banknotes that use locally grown abaca. It noted that over 1.5 million Filipinos — among the country’s poorest — depend almost entirely on the indigenous fiber for their livelihood.

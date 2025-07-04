@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 26, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12262024.png)
+
 Nobody celebrates Christmas more enthusiastically than children.
 
 Indeed, their wide smiles and unadulterated joy at receiving presents and partaking of special food make this most wonderful time of the year more festive.

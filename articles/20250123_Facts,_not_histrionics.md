@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 23, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01232025.png)
+
 
 
 President Marcos did not hide his aversion to certain provisions of the Prevention of Adolescent Pregnancy bill or Senate Bill No. 1979, a measure that seeks to make sex education mandatory in public and private schools to, among others, help curb the alarming increase in the incidence of teenage pregnancy in the country.

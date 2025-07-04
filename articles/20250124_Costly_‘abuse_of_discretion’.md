@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 24, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01242025.png)
+
 When Vice President Sara Duterte refused to account for her office’s P125-million confidential funds that she had used up in 11 days, people rightfully expressed outrage at this sheer display of arrogance and entitlement over taxpayer money. Calls for the official’s impeachment swiftly followed, with her approval ratings plummeting in what can be considered public censure.
 
 Was it too much to expect the same expression of scorn, disgust, and calls for accountability directed at the Commission on Elections (Comelec) for the P132 million in public funds wasted, when the Supreme Court overturned the poll body’s “arbitrary” decision to declare several individuals “nuisance candidates” in the coming May elections?

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM December 20, 2024****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12202024.png)
+
 It’s a good problem to have: What should we do with billions of pesos’ worth of suddenly available assets in the wake of the total ban on Philippine offshore gaming operators (Pogos) effective the end of this year?
 
 President Marcos on Nov. 5 ordered an immediate ban on Pogos, internet gaming, and similar offshore gaming operations in the country in the wake of online scams, fraud, human trafficking, and other criminal activities uncovered in a series of government raids on several Pogo hubs.

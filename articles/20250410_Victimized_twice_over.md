@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:05 AM April 10, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04102025.png)
+
 
 
 On March 11, 2025, something that was once unthinkable happened: Rodrigo Duterte was arrested by the Philippine government and, in a matter of hours, was flown to the custody of the International Criminal Court (ICC) in The Hague, Netherlands.
