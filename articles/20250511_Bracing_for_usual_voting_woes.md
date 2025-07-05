@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM May 11, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05112025.png)
-
 About 69 million Filipinos will troop to the polling booths tomorrow to vote for national and local leaders.
 
 So much has changed in the conduct of Philippine elections. We are no longer in the manual era when voters had to write down the names of their preferred candidates on the ballot and drop it inside a steel box; when the physical tallying of votes took days and was marred with electoral protests over misspelled names, vote padding or shaving, etc.; or when public school teachers feared blackouts and had to protect the ballot boxes literally with their lives.
