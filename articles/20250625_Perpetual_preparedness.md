@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
 On Sunday, seven B-2 stealth fighters took off from Missouri and dropped multiple “bunker buster” precision bombs on three key Iranian nuclear facilities under Operation Midnight Hammer, thrusting superpower United States smack in the middle of the escalating Israel-Iran conflict.
 
 This unprecedented move that US President Donald Trump boasted as “a very successful attack” predictably set off an exchange of missile attacks that threatens to burst wide open the conflict in the already volatile Middle East.
