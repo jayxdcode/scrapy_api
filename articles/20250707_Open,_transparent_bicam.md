@@ -10,13 +10,13 @@ The “#OpenBicam” campaign is indeed gaining momentum and the Filipino public
 
 Last June 26, the Development Budget Coordination Committee approved the proposed 2026 national budget of P6.793 trillion, 7.4 percent more than the 2025 budget of P6.326 trillion, and equivalent to 22 percent of the country’s gross domestic product.
 
-The Department of Budget and Management expects to submit to Congress in August the 2026 National Expenditure Program for their approval. After the long and winding budget hearings in both chambers, conflicting provisions in the Senate and House versions of the budget are resolved—like any other piece of legislation—through the bicameral conference committee composed of representatives from both chambers.
+The Department of Budget and Management expects to submit to Congress in August the 2026 National Expenditure Program for their approval. After the long and winding budget hearings in both chambers, conflicting provisions in the Senate and House versions of the budget are resolved — like any other piece of legislation — through the bicameral conference committee composed of representatives from both chambers.
 
 ## ‘Third chamber’
 
 The bicameral conference committee is supposed to just harmonize the two versions into one final piece of legislation, the penultimate step in the process before a measure is ultimately signing into law by the president. But over the years, it has come under heavy criticism for going far beyond its purpose to reconcile differences, thus becoming a breeding ground for corruption.
 
-Numerous insertions, deletions, and juggling of the budget line items are allegedly executed during this phase of the process conducted behind closed doors, allegedly to favor pet projects and programs of legislators as well as the executive branch, thus earning the bicam its powerful reputation as the “third chamber” in the two-house legislative system.
+Numerous insertions, deletions, and juggling of the budget line items are allegedly executed during this phase of the process conducted behind closed doors, allegedly to favor pet projects and programs of legislators as well as the executive branch, thus earning the bicam its powerful reputation as the “third chamber” in the two-house legislative system. 
 
 Ma. Victoria Raquiza, co-convenor of budget watchdog Social Watch Philippines, said last year that the utter lack of transparency and accountability brought about by the sub rosa bicameral conference committee meetings “has allowed Congress to abuse its ‘Power of the Purse’ for years, creating a breeding ground for corrupt and unfair practices.”
 

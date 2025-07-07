@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM May 30, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05302025.png)
-
 To taunts and jeers mainly by former President Rodrigo Duterte supporters that law and order has gone lax and rampant crime is back under the Marcos administration, the Palace fired back with a quick riposte in February this year: The crime rate at present, it said, was in fact lower compared to figures under the past administration, citing police records showing a downward trajectory in cases. Even kidnapping incidents had declined following the government ban on offshore gaming operators or Pogos, it added.
 
 Thus, the country’s crime situation was merely being “sensationalized,” declared Presidential Communications Office Undersecretary and Palace Press Officer Claire Castro. “The claim being spread that the crime rate is increasing under President Marcos is propaganda made up by trolls.”

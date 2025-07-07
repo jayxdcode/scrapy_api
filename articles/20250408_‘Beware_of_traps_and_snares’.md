@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM April 08, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04082025.png)
-
 Never doubt the ability — nay, audacity — of the Chinese government to twist the facts to suit its ends, even when its chosen narrative flies in the face of those same facts.
 
 In a stunning act of projection, China’s embassy in Manila has released an advisory warning Chinese citizens of “harassment” and an “unstable” security situation in the country while advising them to minimize outings, stay away from crowds, and “remain vigilant against potential security traps and schemes.”

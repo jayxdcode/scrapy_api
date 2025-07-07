@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 09, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05092025.png)
-
 It sounds like a spy movie with all the classic subterfuge and layers of deception — except it’s all very real, and could severely impact the country’s political future and compromise our sovereignty.
 
 After several telling incidents, China’s moves to influence the May 2025 elections have become too obvious to ignore.

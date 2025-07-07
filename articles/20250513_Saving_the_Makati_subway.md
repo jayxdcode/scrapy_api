@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05132025.png)
-
 The P200-billion Makati City subway project was hatched in 2018 and, despite being sidelined by the COVID-19 pandemic, was targeted for partial operation this year. However, a Supreme Court decision in 2022 transferred jurisdiction over 10 “Embo” (enlisted men’s barrios) in Makati to Taguig City, affecting the alignment of the 11-kilometer subway.
 
 The project is “no longer economically and operationally feasible,” according to its contractor, Philippine Infradev Holdings Inc., as it announced last week that arbitration proceedings have been initiated at the Singapore International Arbitration Center regarding its joint venture agreement with the Makati City government. Indeed, proceeding with the subway project with a shorter length would not be financially viable because the daily passenger volume would be smaller.

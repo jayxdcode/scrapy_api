@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 06, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06062025.png)
-
 Senate President Francis Escudero’s move to delay once more after four months the impeachment trial of Vice President Sara Duterte reeks of political horse-trading at best and is, at worst, a blatant disregard for the Senate’s constitutional mandate to hold erring public officials accountable.
 
 Was Escudero treading lightly lest he risk his political fortunes amidst shifting alliances evident in the lackluster win of administration candidates? Were his colleagues now egging the chamber to altogether junk the impeachment trial to curry favor with the Duterte supporters in the next elections?
