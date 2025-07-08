@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:40 AM July 08, 2025****
 
-On the surface, Beijing’s sanctions on former senator Francis Tolentino appear to be just petty retaliation for old slights. That it comes on the heels of Tolentino’s defeat in the May midterm elections hints at a bit of schadenfreude, as well—as though China was twisting the knife on one of its fiercest critics in Manila.
+On the surface, Beijing’s sanctions on former senator Francis Tolentino appear to be just petty retaliation for old slights. That it comes on the heels of Tolentino’s defeat in the May midterm elections hints at a bit of schadenfreude, as well — as though China was twisting the knife on one of its fiercest critics in Manila.
 
 But to dismiss the sanctions as mere spite is to underestimate, gravely, how China operates against its perceived adversaries. A deeper look suggests something more sinister: a warning to all Filipino leaders who dare assert the country’s sovereign rights.
 
@@ -40,7 +40,7 @@ Over the years, China has flexed its might against Filipino officials and the de
 
 Tolentino’s exposé of a 2023 deal between the Chinese embassy and a local PR firm to deploy “keyboard warriors” was a revelation that should have triggered national anger. Instead, he reaped the consequence of his actions with a belated travel ban from China and a muted response from the government he served.
 
-The message behind China’s sanctions on Tolentino could not be clearer: Speak up for Philippine sovereignty and face punishment. But if defending our sovereign rights earns a former senator a stinging reproach from Beijing, then the least our government can do is prove he was right to speak up—by giving its unequivocal support even at the risk of offending China.
+The message behind China’s sanctions on Tolentino could not be clearer: Speak up for Philippine sovereignty and face punishment. But if defending our sovereign rights earns a former senator a stinging reproach from Beijing, then the least our government can do is prove he was right to speak up — by giving its unequivocal support even at the risk of offending China.
 
 But the government’s apparent indifference is dangerous not only to itself but to all other Filipinos who fearlessly assert the nation’s maritime claims in disputed waters. Until the government demonstrates its will to protect these “anti-China” critics, the President’s pledge to defend the nation’s territory and people will ring false.
 

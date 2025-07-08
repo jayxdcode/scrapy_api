@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 12, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03122025.png)
+
 Finally, the much-awaited day of reckoning has come, as former president Rodrigo Duterte was escorted by police and an International Criminal Police Organization (Interpol) representative upon his arrival from Hong Kong yesterday, and marched off to police custody at the Villamor Air Base.
 
 Duterte is facing investigation for crimes against humanity before the International Criminal Court (ICC), for the thousands of extrajudicial killings (EJKs) committed during his brutal war on drugs. While the current administration has repeatedly declared noncooperation with the ICC, saying it no longer has jurisdiction over the country after Duterte’s withdrawal of Philippine membership in 2019, Marcos administration officials lately said they will work with the Interpol to maintain reciprocal relations on law enforcement. The ICC, which retains jurisdiction over crimes committed during a country’s period of membership, coursed the warrant through Interpol.

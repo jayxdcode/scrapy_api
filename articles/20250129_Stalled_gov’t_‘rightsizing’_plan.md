@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 29, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01292025.png)
-
 In his first State of the Nation Address in 2022, President Marcos declared that he wanted to have the National Government Rightsizing Program (NGRP) passed to transform the bloated bureaucracy into a lean and efficient organization that can deliver better public service while ensuring the optimal use of precious financial resources.
 
 But alas, Mr. Marcos is now halfway into his term and the chances of what was supposed to be a priority bill being passed into law before the current Congress goes on recess in June are getting slimmer by the day.
