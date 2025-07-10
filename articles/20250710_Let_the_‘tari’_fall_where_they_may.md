@@ -8,7 +8,7 @@ Filipinos tuning in only now to the saga of the 34 missing “sabungeros” (coc
 
 The stories of the men who vanished seemingly overnight first emerged in tense whispers in 2021, then as sporadic news over the following weeks and months about distressed families appealing for help, and even an arrest or two of alleged suspects related to abductions and suspicious activities that could explain the strange disappearances.
 
-But, despite the number of victims said to have suffered the same fate and the commonality of their circumstances—all were somehow linked to the booming, high-stakes industry of e-sabong—the case’s progress seemed bafflingly slow.
+But, despite the number of victims said to have suffered the same fate and the commonality of their circumstances — all were somehow linked to the booming, high-stakes industry of e-sabong — the case’s progress seemed bafflingly slow.
 
 The stories would eventually peter out, and the Duterte administration gave way to the new Marcos administration without the authorities making a single breakthrough in the case.
 
@@ -16,7 +16,7 @@ It’s only in the last few weeks that the public has rediscovered the story of 
 
 ## Sensational claims
 
-The horror has come from the sensational claims made by self-proclaimed whistleblower Julie Patidongan, alias “Totoy”—that there were more than 34 victims, all eventually killed and dumped in Taal Lake and other places; that gambling tycoon Atong Ang and his cohorts were the masterminds, and that even actress Gretchen Barretto, a close friend of Ang’s, was involved in the decision to liquidate the sabungeros, allegedly for daring to engage in game-fixing.
+The horror has come from the sensational claims made by self-proclaimed whistleblower Julie Patidongan, alias “Totoy” — that there were more than 34 victims, all eventually killed and dumped in Taal Lake and other places; that gambling tycoon Atong Ang and his cohorts were the masterminds, and that even actress Gretchen Barretto, a close friend of Ang’s, was involved in the decision to liquidate the sabungeros, allegedly for daring to engage in game-fixing.
 
 Ang and Barretto have vehemently denied the accusations. To press his point, Ang has gone to court, accusing Patidongan, a former aide of his, of trying to extort P300 million from him. He and the others implicated have not been charged at this point, and they are entitled to make a robust defense of their names. It is to their benefit, too, that the police hasten the thorough investigations that should have been done four years ago to get to the bottom of this case.
 
@@ -36,6 +36,6 @@ According to the Department of Justice, more people may be entangled in this sha
 
 Patidongan himself remains a suspect, one of six security personnel of a Manila cockpit who stand accused of kidnapping and illegally detaining a number of the sabungeros that eventually went missing.
 
-What all these tell the public is a harrowing reality: That if it takes a village to raise a child, it takes even more—a sprawling, far-reaching criminal enterprise, in and out of government—to mount a monstrous operation like the mass disappearance of dozens of individuals, from the multiple abductions and killings, to the erasure of any trace of them, to the coverups and delays that would account for why such a crime of enormous proportions is only now seeing the light of day.
+What all these tell the public is a harrowing reality: That if it takes a village to raise a child, it takes even more — a sprawling, far-reaching criminal enterprise, in and out of government — to mount a monstrous operation like the mass disappearance of dozens of individuals, from the multiple abductions and killings, to the erasure of any trace of them, to the coverups and delays that would account for why such a crime of enormous proportions is only now seeing the light of day.
 
 In pursuing a just resolution to this collective nightmare, the Marcos administration must not waver: Let the chips—or in this case the fighting roosters’ “tari” or blade—fall where they may.
