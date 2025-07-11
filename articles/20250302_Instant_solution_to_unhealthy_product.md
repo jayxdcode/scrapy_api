@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM March 02, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03022025.png)
-
 They are tasty, cheap, and convenient, but also very harmful to one’s health. With massive global appeal of instant noodles, it’s about time manufacturers take on the challenge of making their product safer for public consumption. It all boils down to cutting down on the salt, sugar, and fat content of instant noodles.
 
 It’s a challenge that certainly won’t have instant results given the enormous size of the industry, which is projected to grow from $61 billion in 2024 to $98 billion by 2032. Nonetheless, it is a critical and necessary action that manufacturers must take given the popularity of instant noodles and the harm they pose to public health.

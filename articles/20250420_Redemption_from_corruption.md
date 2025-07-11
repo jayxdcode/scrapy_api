@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM April 20, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04202025.png)
-
 With Easter regarded as a time for spiritual renewal and reflection, Filipinos can also use this opportunity to reflect collectively as a nation especially with the midterm elections coming up soon.
 
 The country has been through its own agony in the garden with attacks against its moral fiber. This is no more evident than in the endemic corruption that has destroyed the core of government institutions and has pushed the country many steps behind its regional neighbors.

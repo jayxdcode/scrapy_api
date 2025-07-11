@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 11, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06112025.png)
+
 
 
 With crippling and interminable blackouts lasting for as long as 22 hours in some areas, the island-province of Siquijor in Central Visayas last week rightfully declared a state of calamity. The measure unanimously approved by the Siquijor Provincial Board will allow the provincial government to activate funds for the urgent requisition of additional energy sources.
