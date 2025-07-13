@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM July 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07132025.png)
-
 Horrific floods in Texas in the United States have killed at least 121 people over the July Fourth holiday, including young girls at a summer camp along the precarious banks of a river, with many others still missing. In New Mexico, also in the US, at least three people died from a flash flood in a mountainside community. In Tokyo, the Japanese capital known for its modern infrastructure and efficient disaster management, record-breaking heavy rains submerged roads and prompted authorities to issue evacuation orders.
 
 These are all familiar scenes to Filipinos who have seen and experienced much worse, not only during super typhoons but even from an otherwise regular rainfall. The southwest monsoon (“habagat”) season has brought heavy rains and floods to many areas in Luzon, particularly densely-populated Metro Manila. The Office of Civil Defense has also issued a warning to remain vigilant as more rains—and with them, floods—are expected during the season.
