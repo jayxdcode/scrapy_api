@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM February 21, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02212025.png)
-
 It’s a problem that’s been hovering since the 2017 Dengvaxia controversy led to the suspension of the Department of Health’s (DOH) vaccination campaign against this endemic scourge.
 
 On Saturday, Quezon City declared a dengue outbreak, while the DOH has noted “a concerning rise” in the number of dengue cases in eight other local government units (LGUs) in the National Capital Region, Calabarzon, and Central Luzon.

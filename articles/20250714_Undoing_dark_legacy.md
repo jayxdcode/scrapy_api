@@ -4,7 +4,9 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 14, 2025****
 
-Reelected Leyte 1st District Rep. Ferdinand Martin G. Romualdez and Tingog Party list Representatives Andrew Julian Romualdez and Jude Acidre filed a bill on June 30 that seeks to reform the Philippines’ decades-old bank secrecy law, which happens to be one of the most restrictive in the world. House Bill (HB) No. 7 aims to amend Republic Act No. 1405, or the Law on Secrecy of Bank Deposits, by allowing the Bangko Sentral ng Pilipinas (BSP) to check bank deposits “in specific circumstances,” when it has reason to believe that such deposits are connected to acts of “fraud, serious irregularity, or unlawful activity.”
+Reelected Leyte 1st District Rep. Ferdinand Martin G. Romualdez and Tingog Party list Representatives Andrew Julian Romualdez and Jude Acidre filed a bill on June 30 that seeks to reform the Philippines’ decades-old bank secrecy law, which happens to be one of the most restrictive in the world. 
+
+House Bill (HB) No. 7 aims to amend Republic Act No. 1405, or the Law on Secrecy of Bank Deposits, by allowing the Bangko Sentral ng Pilipinas (BSP) to check bank deposits “in specific circumstances,” when it has reason to believe that such deposits are connected to acts of “fraud, serious irregularity, or unlawful activity.”
 
 Republic Act No. 1405 was enacted in September 1955, or 60 years ago, and is clearly in dire need of updating to be able to address current needs and realities. In the 19th Congress a similar bill had been certified as a priority measure by the Marcos administration, but, alas, the Senate failed to enact a counterpart measure.
 
