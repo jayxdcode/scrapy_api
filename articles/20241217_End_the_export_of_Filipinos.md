@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM December 17, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12172024.png)
-
 President Marcos has a dream: to “make overseas work a choice rather than a necessity” one day.
 
 Speaking at a ceremony in Malacañang last week to honor individuals and organizations for excelling in their fields and championing overseas Filipino workers (OFWs), the President cited reforms in governance and economic development that, he said, would provide Filipinos with more and better opportunities here.

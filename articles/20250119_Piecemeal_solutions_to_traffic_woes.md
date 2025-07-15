@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM January 19, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01192025.png)
-
 The Metro Manila Development Authority (MMDA) is proposing moving work hours an hour earlier to help untangle traffic jams in the metropolis.
 
 MMDA said it will recommend to President Marcos that national government agencies (NGAs) in the National Capital Region adopt the 7 a.m. to 4 p.m. work schedule to help ease traffic that is seen to worsen with the planned rehabilitation of Edsa starting in March.
