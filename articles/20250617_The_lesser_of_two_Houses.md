@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM June 17, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06172025.png)
+
 Let’s dispel once and for all the enduring myth that the Senate is the “upper chamber” of Congress.
 
 On the contrary, an overwhelming majority of senators have shown themselves to belong to the inferior half of the bicameral legislature: more subservient, less statesmanlike, and, by their own actions, constitutionally illiterate — indeed the lesser of the two Houses.

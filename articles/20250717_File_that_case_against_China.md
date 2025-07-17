@@ -42,4 +42,4 @@ If the Marcos administration is serious about gathering and building a strong do
 
 At any rate, a formal complaint that brings international attention to China’s brazen actions has become more and more imperative, as every day brings fresh news of yet another willful act of hostility and/or destruction by that country in our territory.
 
-The world needs to see the truth. Time to confront Beijing in court—again.
+The world needs to see the truth. Time to confront Beijing in court — again.
