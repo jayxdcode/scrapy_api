@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 12, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06122025.png)
-
 Exactly 127 years ago today, revolutionary general Emilio Aguinaldo declared the country’s independence from 300 years of Spain’s colonial rule, marking a turning point in Philippine history.
 
 But while reclaiming the country’s sovereignty has since been celebrated as the end of struggle against a foreign power, there’s an unfinished battle that Filipinos continue to wage against a formidable foe: poverty.

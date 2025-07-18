@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 22, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05222025.png)
+
 Efraim Genuino had been down this road before. In March 2023, the chair of the Philippine Amusement and Gaming Corp. (Pagcor) during the Gloria Macapagal-Arroyo administration was found guilty by the Sandiganbayan of graft — convicted, along with two other former officials of the gaming regulator, for the illegal release of P37 million in Pagcor funds to the Philippine Amateur Swimming Association (Pasa), supposedly for the training of Philippine National Team swimmers.
 
 The law was clear that the money should not have gone directly to Pasa but to the Philippine Sports Commission (PSC), which had jurisdiction over Pasa. Section 26 of Republic Act No. 6847 specifies that “5 percent of the gross income of Pagcor should be automatically remitted to the PSC.”
