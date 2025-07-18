@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:40 AM May 26, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05262025.png)
+
 No matter what contingency plans the government will come up with following the Edsa rehabilitation project starting in the middle of June, traffic will surely become worse.
 
  “We know that there will be heavy traffic. We will not deny that. Our countrymen need to understand that. But it’s not that the government will not do anything. The President said that we need to somehow ease the inconvenience to be experienced by our countrymen,” Transportation Secretary Vince Dizon admitted.
