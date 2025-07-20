@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 20, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06202025.png)
+
 Is he for real, people must be asking of Philippine National Police chief Gen. Nicolas Torre III’s recent initiatives to buff the image of the police force previously seen as “Mission Impossible” given its known proclivity for abuse and corrupt practices.
 
 But if there’s one person adept at beating the odds, it would be Torre, who managed to smoke out self-proclaimed Appointed Son of God Apollo Quiboloy, the pastor facing money laundering, human trafficking, and child abuse charges. More impressively, Torre managed to tamp down the drama to unceremoniously whisk off former president Rodrigo Duterte to The Hague to face trial before the International Criminal Court for crimes against humanity.
