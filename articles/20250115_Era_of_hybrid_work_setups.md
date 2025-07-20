@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM January 15, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01152025.png)
+
 The Marcos administration was understandably elated over the Philippine Statistics Authority’s report last week that the country’s jobless rate had gone down to 3.2 percent in November last year from 3.9 percent the prior month and the 3.6 percent in November 2023.
 
 Job quality likewise improved, as the number of employed Filipinos who were either looking for additional jobs or eager to put in more hours went down to 10.8 percent in November from 12.6 percent in October and 11.7 percent in November 2023.
