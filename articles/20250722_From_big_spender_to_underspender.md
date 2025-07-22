@@ -8,15 +8,19 @@ For an agency that infamously burned through P125 million in public funds in the
 
 Then again, perhaps this is only to be expected of an office whose impeached leader is unaccustomed to operating under the glare of heightened scrutiny. Still, it is disconcerting to see Vice President Sara Duterte’s office swing from one extreme of fiscal mismanagement to another, that is, from accusations of reckless, unchecked extravagance to apparent gross inefficiency due to poor absorptive capacity.
 
-As of June, Duterte’s office has logged a fund utilization rate of 34 percent, meaning it has only used up around P250 million of its P733 million budget for 2025, the OVP admitted last week. “[We] intend to use up the entire budget that was allotted to us for 2025,” OVP spokesperson Ruth Castelo said. “[W]e still have time, and we’re going to speed up the action on all of our programs.”
+As of June, Duterte’s office has logged a fund utilization rate of 34 percent, meaning it has only used up around P250 million of its P733 million budget for 2025, the OVP admitted last week. 
 
-To hear the OVP mouthpiece tell it, this is all just an exercise in caution to avoid further controversy. “We understand that we need to speed up utilizing the funds, but we also do not want to carelessly utilize the funds. So we are being very careful so as not to open any issue that may be thrown against us,” Castelo said.
+“[We] intend to use up the entire budget that was allotted to us for 2025,” OVP spokesperson Ruth Castelo said. “[W]e still have time, and we’re going to speed up the action on all of our programs.”
+
+To hear the OVP mouthpiece tell it, this is all just an exercise in caution to avoid further controversy. 
+
+“We understand that we need to speed up utilizing the funds, but we also do not want to carelessly utilize the funds. So we are being very careful so as not to open any issue that may be thrown against us,” Castelo said.
 
 ## P170 million budget hike
 
-She cited “a lot of challenges inside, internally, in the [OVP]” that affected its use of funds, alluding to the allegations that culminated in Duterte’s impeachment and looming trial—on charges that she misused P612.5 million in confidential funds granted to the OVP and to the Department of Education, which she headed for two years.
+She cited “a lot of challenges inside, internally, in the [OVP]” that affected its use of funds, alluding to the allegations that culminated in Duterte’s impeachment and looming trial — on charges that she misused P612.5 million in confidential funds granted to the OVP and to the Department of Education, which she headed for two years.
 
-Yet now we hear that the OVP has requested—and been granted—a P170-million hike in its proposed budget for 2026. From P733 million, Duterte’s office is seeking P903 million in its outlay next year.
+Yet now we hear that the OVP has requested — and been granted — a P170-million hike in its proposed budget for 2026. From P733 million, Duterte’s office is seeking P903 million in its outlay next year.
 
 In approving the request, the Department of Budget and Management (DBM) cited mandatory salary adjustments and the need to fund a government-wide digitalization program despite the OVP’s underspending woes. This was the same DBM that noted a low budget utilization rate signals an agency’s limited capacity to spend more funds.
 
