@@ -218,9 +218,6 @@
     "20250227": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250227_Voter_education,_not_surveys.md"
     },
-    "20250228": {
-        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250228_Nipping_fake_news_in_the_bud.md"
-    },
     "20250302": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250302_Instant_solution_to_unhealthy_product.md"
     },
@@ -586,5 +583,11 @@
     },
     "20250722": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250722_From_big_spender_to_underspender.md"
+    },
+    "20250723": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250723_Atoning_for_PhilHealth_plunder.md"
+    },
+    "20250228": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250228_Nipping_fake_news_in_the_bud.md"
     }
 }

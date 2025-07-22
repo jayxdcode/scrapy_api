@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 28, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05282025.png)
+
 Well over 30 years since a Freedom of Information bill was first filed in Congress, the call has recently gotten louder for the 20th Congress to immediately pass the measure that could become a legacy of the Marcos administration.
 
 No less than Budget Secretary Amenah Pangandaman has added her voice to those urging Congress to act now on the measure long fought for by civil society groups and anti-corruption advocates who believe it would make government more transparent and public servants more accountable.
