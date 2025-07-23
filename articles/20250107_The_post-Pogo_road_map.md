@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM January 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01072025.png)
-
 If 2024 spelled doom for the once bustling industry known as Philippine offshore gaming operators (Pogos), 2025 looks poised to hammer the final nail in its coffin.
 
 Or so the government hopes.

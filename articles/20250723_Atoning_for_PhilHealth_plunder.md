@@ -44,8 +44,8 @@ A number of lawmakers, academics, and progressive groups had called this year’
 
 This especially hits hard when it comes to PhilHealth, on which poor Filipinos rely almost entirely for their health-care needs.
 
-And as the Marcos administration atones for missteps in the 2025 budget, PhilHealth must take the opportunity to show the Filipinos to it deserves the additional funds and deliver on its crucial mandate to effectively deliver health-care services to the people.
+And as the Marcos administration atones for missteps in the 2025 budget, PhilHealth must take the opportunity to show the Filipinos that it deserves the additional funds and deliver on its crucial mandate to effectively deliver health-care services to the people.
 
-The Governance Commission for Government Owned or Controlled Corporations under the Office of the President has already ordered it to do so to enhance its efficiency and solve key operational challenges, specifically ordering it to address long-standing issues including its outdated workforce, fragmented data, strategy execution and benefits claims.
+The Governance Commission for Government Owned or Controlled Corporations under the Office of the President has already ordered it to do so to enhance its efficiency and solve key operational challenges, specifically ordering it to address long-standing issues, including its outdated workforce, fragmented data, strategy execution,n and benefits claims.
 
 By healing itself, PhilHealth will be in a more robust position to do right by its members, especially now with the promised funds in the 2026 budget.
