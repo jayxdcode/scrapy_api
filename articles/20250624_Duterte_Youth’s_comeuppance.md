@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:08 AM June 24, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06242025.png)
+
 Tempting as it might be to celebrate the decision of the Commission on Elections (Comelec) to cancel the registration of Duterte Youth as a richly deserved comeuppance for its own actions, one can’t help but feel a little skeptical.
 
 Will this penultimate ruling by the poll body’s Second Division be the beginning of a crusade for accountability against all other erring party lists, or well-connected groups masquerading as party lists? Or was Duterte Youth merely a sacrificial lamb offered to appease the powers it might have offended?

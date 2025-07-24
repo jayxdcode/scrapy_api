@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM February 24, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial02242025.png)
-
 For developed countries threatened by United States President Donald Trump’s announcement of higher tariffs on American imports, their natural reaction is to hit back by doing the same. But for smaller nations such as the Philippines, their more logical recourse should be to look elsewhere for new markets for their affected export products as well as other suppliers for their vital imports.
 
 Exactly what Manila is doing now. Last week, the Department of Trade and Industry (DTI) said it is speeding up negotiations on a free trade agreement (FTA) with the European Union (EU), with both sides aiming to have it finally completed by next year. 
