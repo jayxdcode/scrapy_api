@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:30 AM June 27, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06272025.png)
+
 For a country that produces some 80,000 nursing graduates every year on top of its over 10,000 registered nurses, it seems the height of irony that our hospitals and health facilities have remained perennially understaffed.
 
 That’s because the Philippines has deployed at least 25,000 nursing professionals abroad in the last three years as of 2023. In 2019 alone, 18,644 Filipino nurses left for work overseas, according to data compiled by the Philippine Overseas Employment Administration. 
