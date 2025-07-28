@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM June 15, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06152025.png)
+
 The Philippine Coconut Authority (PCA) has reported that more than 500,000 coconut trees have been infested by the coconut scale insect, also known as “cocolisap,” resulting in a loss of around P200 million.
 
 The situation is “manageable” and is not considered a threat to the coconut industry, the PCA said, since the number of affected trees only accounts for 0.15 percent of the country’s 345 million coconut trees. “This is just a very small portion of the overall number. That’s why we can consider that this is not a threat on a national level,” said PCA administrator Dexter Buted.
