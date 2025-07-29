@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 29, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07292025.png)
-
 The country’s volatile political situation has been compounded by the recent ruling of the Supreme Court that the impeachment by the House of Representatives of Vice President Sara Duterte was unconstitutional and that the Senate has no jurisdiction to hold an impeachment trial.
 
 ​The 13-0 decision drew adverse reaction from several members of Congress. Some senators expressed their intention to defy it and continue with the trial as they considered it an infringement of the Senate’s authority to pass upon an impeachment complaint that had already been filed with it.
