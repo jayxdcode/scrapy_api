@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 18, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03182025.png)
+
 The dismissal of yet another civil forfeiture case involving assets allegedly pillaged during the dictatorship—the latest in a growing tally since President Marcos took power in 2022—adds another black mark to the tarnished legacy of the Presidential Commission on Good Government (PCGG).
 
 Once heralded as a public watchdog entrusted with the noble mission to recover ill-gotten wealth from the martial law years, it has slowly morphed into an undertaker whose sole task is presiding over the slow funeral of its own cases.
