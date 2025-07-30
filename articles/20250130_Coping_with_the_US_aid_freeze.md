@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:00 AM January 30, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial01302025.png)
-
 By Foreign Undersecretary Eduardo de Vega’s reckoning, the Philippines will not be severely impacted by President Donald Trump’s suspension of all United States’ foreign development assistance to countries around the world, since we have many other economic partners to count on.
 
 While acknowledging that trade with the US remains high, De Vega noted that the aid freeze is not likely “to severely affect us because aid packages from the US are small right now.”
