@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 02, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07022025.png)
+
 A “dynamic shift” has been observed among Filipino youth either in or entering the labor force, one that the government and the private sector cannot afford to ignore if they want this new generation to become productive members of a fast-growing Philippine economy.
 
 According to the Department of Labor and Employment (DOLE), young Filipinos looking for decent employment against a backdrop of rising costs of living and evolving dynamics in both the government and private sector are “increasingly seeking not just any job, but meaningful work that aligns with evolving global demands.”
