@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07012025.png)
-
 The Philippine Daily Inquirer (PDI) was born in the dying days of a dictatorship, when journalism spelled resistance to the powerful and truth-telling carried a life-or-death price. That founding spirit endures as it takes a transformative step forward.
 
 Beginning today, the Inquirer’s print edition will operate under the auspices of PDI’s sister company, Inquirer Interactive, merging the depth and strength of this storied broadsheet with the mobility and modernity of its digital platform, Inquirer.net.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM August 03, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08032025.png)
-
 President Marcos has made two major health-related announcements that would be of huge help, especially for poor Filipinos who cannot afford medical care and for communities that lack health service facilities.
 
 In his fourth State of the Nation Address (Sona) last Monday, Mr. Marcos said that zero-balance billing will be implemented for patients in Department of Health (DOH) hospitals. He also announced that his administration will build more Bagong Urgent Care and Ambulatory Service (Bucas) facilities across the country over the next three years.

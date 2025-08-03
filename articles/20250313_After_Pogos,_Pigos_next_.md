@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM March 13, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03132025.png)
+
 President Ferdinand Marcos Jr. was widely praised last year for banning Philippine offshore gaming operators (Pogos) and ordering these companies that multiplied and thrived during the Duterte administration to wind up their affairs and cease operations by Dec. 31, 2024.
 
 But concerns are rapidly growing that the Philippine inland gaming operators (Pigos) that were supposed to help fill up the gaming revenue and employment hole left behind by the departure of Pogos are causing their own set of serious problems.
