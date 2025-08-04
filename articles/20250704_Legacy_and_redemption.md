@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 04, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07042025.png)
+
 It may yet be President Marcos’ greatest legacy, and the most relevant way of redeeming his father’s name which has often been associated with human rights abuses during martial law. Presidential spokesperson Claire Castro’s recent statement that the President is open to rejoining the International Criminal Court (ICC) is a welcome shift from his predecessor’s belligerent and disdainful regard for this first permanent tribunal prosecuting war crimes and impunity established in 2002.
 
 Castro was responding to the call of United Nations special rapporteur Irene Khan, who urged the Philippine government to ratify international human rights treaties and reinstate its previous commitment to the Rome Statute of the ICC. “[Mr. Marcos] is open to it. The last time we spoke — since we’ve talked about this before — he said he was open to it,” Castro said.

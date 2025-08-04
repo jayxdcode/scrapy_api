@@ -4,15 +4,13 @@
 
 ****Philippine Daily Inquirer / 05:40 AM August 04, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08042025.png)
-
 President Marcos vowed during his fourth State of the Nation Address (Sona) to build at least 40,000 new public school classrooms before he steps down from office in 2028, an ambitious but critical goal that if accomplished will shape his legacy and help ensure that history will look back kindly on his administration.
 
 Mr. Marcos made the commitment in acknowledgment of the “pitiful” situation that public school students are in, with classrooms packed with students beyond the maximum of 50, thus affecting their ability to learn and their teachers’ ability to effectively impart their lessons.
 
 According to the latest research of the Philippine Institute of Development Studies released last June, congestion was highest in the National Capital Region, particularly in the cities of Caloocan, Valenzuela, and Malabon where almost all of the classrooms had more than 50 students each. Above-average levels of congestion were also observed in the provinces of Rizal (66 percent) and Cavite (57.7 percent).
 
-The severe classroom shortage—particularly in the elementary level—was just one of the issues that Mr. Marcos acknowledged were confronting Filipino learners today, from high dropout rates to learning poverty and woeful proficiency in basic subjects of reading, math and science.
+The severe classroom shortage — particularly in the elementary level — was just one of the issues that Mr. Marcos acknowledged were confronting Filipino learners today, from high dropout rates to learning poverty and woeful proficiency in basic subjects of reading, math and science.
 
 Thus Mr. Marcos gave clear enough instructions during his last Sona, urging the 20th Congress, which will soon tackle next year’s budget, to allocate enough funds to meet the growing demand for classrooms, and to pick up the pace as only 22,000 classrooms had been built over the last three years.
 
@@ -26,7 +24,7 @@ Indeed, even with the promise of 40,000, it is far from enough. Back in June, Ed
 
 And this shortage will just grow every year unless the rate of construction outpaces at the very least the new demand to meet a growing population, estimated at 10,000 classrooms a year.
 
-Overcoming these daunting challenges will require out-of-the-box thinking and concerted, determined effort from all parties—government, private sector, local government officials, and nongovernment sector to break out of the inertia of slow action that marked prior years.
+Overcoming these daunting challenges will require out-of-the-box thinking and concerted, determined effort from all parties — government, private sector, local government officials, and nongovernment sector to break out of the inertia of slow action that marked prior years.
 
 ## Public-private partnership
 
