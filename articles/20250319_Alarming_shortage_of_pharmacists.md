@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:36 AM March 19, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03192025.png)
+
 The Private Sector Advisory Council (PSAC) formed to support the government’s economic programs recently sounded the alarm over the shortage of registered pharmacists across the country, just another symptom of the sorry state of the country’s public health-care system.
 
 The situation is dire indeed.

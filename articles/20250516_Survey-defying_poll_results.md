@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 16, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05162025.png)
+
 
 
 Virtually locked out in several surveys, former senators Bam Aquino and Kiko Pangilinan shocked even their camps by placing second and fifth, respectively, in the hotly contested senatorial race in last Monday’s elections.

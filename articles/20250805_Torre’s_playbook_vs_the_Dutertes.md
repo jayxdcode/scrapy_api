@@ -4,11 +4,9 @@
 
 ****Philippine Daily Inquirer / 05:35 AM August 05, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08052025.png)
-
 Two Sundays ago, Gen. Nicolas Torre III taught Filipinos a crash course on “How to Deal with Bullies 101.” Too bad his student, acting Davao City Mayor Sebastian “Baste” Duterte, skipped class and flew off to Singapore instead.
 
-Even so, the big lesson imparted by the chief of the Philippine National Police wasn’t lost on the drama-loving public, and it’s one that political leaders would be foolish to ignore: You don’t have to take the high road when dealing with a Duterte—you only have to call their bluff.
+Even so, the big lesson imparted by the chief of the Philippine National Police wasn’t lost on the drama-loving public, and it’s one that political leaders would be foolish to ignore: You don’t have to take the high road when dealing with a Duterte — you only have to call their bluff.
 
 Despite the conspicuous absence of former president Rodrigo Duterte’s son, Torre’s PR stunt turned into a knockout success. Baste’s no-show didn’t spoil the show; rather, it became the whole point of it. Without a word said or a punch thrown, Torre deftly exposed Baste as all bark and no bite.
 
@@ -46,4 +44,4 @@ And there it was: a new playbook for dealing with Duterte-style antics. There’
 
 By putting Baste in his place and beating him at his own game, the PNP chief reminded Filipinos that bullies often fold when they’re confronted. As Torre put it: “We stood up to the bully, but the bully ran away.”
 
-For a nation long held hostage by political machismo and authoritarian posturing—by Duterte clan members and others of similar ilk—there couldn’t be a more satisfying punchline.
+For a nation long held hostage by political machismo and authoritarian posturing — by Duterte clan members and others of similar ilk — there couldn’t be a more satisfying punchline.
