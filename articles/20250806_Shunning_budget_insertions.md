@@ -8,7 +8,7 @@
 
 The Department of Budget and Management is scheduled to submit to Congress next week the National Expenditure Program or the “President’s Budget” for 2026 that will run up to P6.793 trillion, thus kicking off the annual grueling and time-bound exercise that promises, however, to be radically different this year.
 
-Stung by charges that Congress—which has the sole power of the purse under the Constitution—had mangled the 2025 budget because of last-minute earmarks or insertions passed by the bicameral conference committee, some members of the 20th Congress are determined to make the budget approval process more transparent and inclusive, thus preventing a repeat of previous blunders.
+Stung by charges that Congress — which has the sole power of the purse under the Constitution — had mangled the 2025 budget because of last-minute earmarks or insertions passed by the bicameral conference committee, some members of the 20th Congress are determined to make the budget approval process more transparent and inclusive, thus preventing a repeat of previous blunders.
 
 President Marcos had already set the right tone during his last State of the Nation Address, when he warned he will not sign the 2026 budget if it would not align with priorities outlined in Malacañang’s expenditure program with quality education, health care, and workforce upskilling as well as infrastructure getting the lion’s share.
 
@@ -36,9 +36,9 @@ Even House Speaker Ferdinand Martin Romualdez welcomed mounting calls from the p
 
 ## Bigger challenge
 
-Romualdez earlier filed a resolution seeking to institutionalize the “active participation of bonafide people’s organizations as official nonvoting observers in the public hearings of the committee on appropriations on the budget.”
+Romualdez earlier filed a resolution seeking to institutionalize the “active participation of bona fide people’s organizations as official nonvoting observers in the public hearings of the committee on appropriations on the budget.”
 
-They underscored that by opening up the proceedings, red flags over recent bicameral committee outcomes, such as the creation of new non-regular spending items such as the Ayuda para sa Kapos ang Kita Program, exclusion of critical programs like the PhilHealth National Health Insurance Program from the budget, and unvetted allocations for questionable infrastructure projects can be prevented.
+They underscored that by opening up the proceedings, red flags over recent bicameral committee outcomes, such as the creation of new non-regular spending items, such as the Ayuda para sa Kapos ang Kita Program, exclusion of critical programs like the PhilHealth National Health Insurance Program from the budget, and unvetted allocations for questionable infrastructure projects can be prevented.
 
 It’s easy to promise transparency; the bigger challenge is for members of Congress to shun the opportunities for corruption hidden in the budget process. It is public knowledge, the President disclosed in his Sona, that a racket in projects exists in the form of kickbacks, initiatives, errata, SOP (or bribe treated as standard operating procedure).
 
