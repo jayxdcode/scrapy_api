@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM May 10, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05102025.png)
+
 Habemus papam. We have a pope.
 
 A new spiritual leader has risen to shepherd the world’s 1.4 billion Catholics, chosen from among the 133 cardinal-electors who gathered beneath the Sistine Chapel’s frescoed ceiling to discern and decide the future of the Roman Catholic Church.

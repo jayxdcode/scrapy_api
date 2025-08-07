@@ -4,15 +4,15 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 07, 2025****
 
-It’s called the “Streisand effect”—when essentially a bid to hide something ironically triggers more attention about the matter. In the original context, American singer Barbra Streisand had sued to keep photos of her house in Malibu, California, from being published on grounds of privacy. But the resulting legal drama only spawned widespread public awareness about her property.
+It’s called the “Streisand effect” — when essentially a bid to hide something ironically triggers more attention about the matter. In the original context, American singer Barbra Streisand had sued to keep photos of her house in Malibu, California, from being published on grounds of privacy. But the resulting legal drama only spawned widespread public awareness about her property.
 
 The “Streisand effect” is in full swing in the case of Health Undersecretary Maria Rosario Singh-Vergeire, whose sudden removal from the Department of Health (DOH) the Marcos administration had apparently intended to keep under wraps, and without so much as an explanation.
 
 Big mistake. First of all, Vergeire at this point is no longer an obscure career official the Palace could shuffle off to dusty corners of the bureaucracy without anyone noticing. By virtue of her work as a calm and credible presence throughout the COVID-19 pandemic, when she soothed the hysteria and anxiety of the moment with her measured, professional daily updates on the public health crisis, Vergeire had become a nationally known figure.
 
-Thereafter, she also served for a year as DOH officer in charge—a widely welcomed appointment, though many had also wondered why the then new Marcos administration did not give her the portfolio on a permanent basis.
+Thereafter, she also served for a year as DOH officer in charge — a widely welcomed appointment, though many had also wondered why the then new Marcos administration did not give her the portfolio on a permanent basis.
 
-In an interview she did at that time, Vergara disclosed that, first, she wasn’t directly offered the position of secretary, and second, she had her own reservations about the job—mainly, that if she accepted it, she would lose her career tenure and become coterminous with the Marcos administration.
+In an interview she did at that time, Vergara disclosed that, first, she wasn’t directly offered the position of secretary, and second, she had her own reservations about the job — mainly, that if she accepted it, she would lose her career tenure and become coterminous with the Marcos administration.
 
 ## Security of tenure
 
@@ -32,7 +32,7 @@ None of those reasons have been cited by the Palace to justify its mysterious re
 
 There might be a perfectly rational, justifiable explanation for this move, but since Malacañang couldn’t be bothered to clear the air, instead playing coy and tight-lipped all of a sudden, soon enough the public took notice and began asking questions.
 
-They would learn that as early as July 14, the President had already appointed a replacement for Vergeire—a lawyer and nonhealth professional named Randy Escolango.
+They would learn that as early as July 14, the President had already appointed a replacement for Vergeire — a lawyer and nonhealth professional named Randy Escolango.
 
 No announcement was made that Vergeire was being axed. It was only on July 29 that Herbosa confirmed that Vergeire, along with undersecretaries Kenneth Ronquillo and Achilles Gerard Bravo, had been removed from the DOH’s executive committee. Bravo and Ronquillo had reached mandatory retirement in January and April, respectively, though they had extended their stay until June.
 

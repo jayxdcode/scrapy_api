@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM May 04, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05042025.png)
+
 The good news is that Manila Bay is “alive and vibrant,” according to a new scientific study. However, the same study said reclamation projects the size of two Metro Manila cities threaten its life and sustainability.
 
 The study released by the Department of Environment and Natural Resources (DENR) on Wednesday warned that these projects could change the natural flow of water currents in the bay. This would create a bottleneck in the flow of water, cause huge floods in nearby cities, and could become breeding grounds for bacteria since it will take time for the floodwaters to recede. This degradation would then kill the flora and fauna—51 coral genera and 167 fish species—in the bay’s ecosystem.

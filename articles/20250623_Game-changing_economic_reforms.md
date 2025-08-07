@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM June 23, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06232025.png)
-
 Big business groups last week praised lawmakers for passing three key economic reform measures aimed at boosting investments, improving transparency in government transactions, and speeding up key infrastructure projects. 
 
 The Makati Business Club (MBC) lauded Congress for approving amendments to the Foreign Investors’ Long-Term Lease Act, and the E-Governance Act, and the Right of Way (ROW) Act, reforms that “aligned with our advocacies for improvements in governance, infrastructure, and transparency, which we see as key drivers to attract more investors and create more jobs.”
