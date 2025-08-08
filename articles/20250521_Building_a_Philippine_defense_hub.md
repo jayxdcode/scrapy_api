@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 21, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05212025.png)
+
 A welcome development sidelined by the recent midterm elections was the offer by US-based global security and aerospace company Lockheed Martin to establish a local innovation hub that will put the Philippines closer to its dream of having its own strong and reliable defense industry.
 
 Jess Koloini, director of business development at Lockheed Martin’s Integrated Fighter Group, shared during her recent visit to the Philippines their company’s intent to establish here a facility similar to its Center for Innovation and Security Solutions in Abu Dhabi that will help develop a pool of Filipinos who can contribute to the development of the country’s nascent aerospace sector.

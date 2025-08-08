@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:08 AM May 27, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05272025.png)
+
 
 
 President Marcos’ stunning directive for his Cabinet to submit courtesy resignations marks a turning point for his three-year-old administration, a moment when the Palace, finally, appears willing to match rhetoric with resolve.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM May 25, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05252025.png)
-
 The month of May has been deadly with two major vehicular accidents. In one, a toddler lost both parents. In another, a four-year-old died.
 
 President Marcos, seeing a discrepancy in the benefits claims between passengers of private cars and of private utility vehicles (PUVs), ordered a review of the insurance system for public transportation.

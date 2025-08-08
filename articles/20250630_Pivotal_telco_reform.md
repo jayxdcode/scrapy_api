@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM June 30, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06302025.png)
-
 Before it adjourned early this month, the 19th Congress ratified on June 9 the Konektadong Pinoy Act (or the Open Access in Data Transmission Act) in a bid to expand internet access across the country, lower costs to consumers, and boost service quality, especially in so-called underserved areas that existing players have failed to address. It is now awaiting the signature of President Marcos to become law.
 
 During the years it was being crafted, the bill gained support from a broad segment of the business community and international organizations as they welcomed the opening of a market dominated by two big players by removing burdensome barriers to entry such as the need for a legislative franchise. 

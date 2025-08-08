@@ -12,7 +12,7 @@ Big mistake. First of all, Vergeire at this point is no longer an obscure career
 
 Thereafter, she also served for a year as DOH officer in charge — a widely welcomed appointment, though many had also wondered why the then new Marcos administration did not give her the portfolio on a permanent basis.
 
-In an interview she did at that time, Vergara disclosed that, first, she wasn’t directly offered the position of secretary, and second, she had her own reservations about the job — mainly, that if she accepted it, she would lose her career tenure and become coterminous with the Marcos administration.
+In an interview she did at that time, Vergeire disclosed that, first, she wasn’t directly offered the position of secretary, and second, she had her own reservations about the job — mainly, that if she accepted it, she would lose her career tenure and become coterminous with the Marcos administration.
 
 ## Security of tenure
 

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 10, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03102025.png)
+
 Sen. Win Gatchalian has called for a Senate investigation into the recent spate of smuggling of luxury cars, lamenting that these result in considerable revenue loss for the government. Exactly a year ago, Gatchalian had filed Senate Resolution No. 954 to adopt corrective legislation to end fancy automobile smuggling. 
 
 This was prompted by the alleged entry of two Bugatti Chiron sports cars, which were reportedly valued at P165 million each, without paying customs duties and taxes. At 50-percent excise tax, the government should have collected P165 million just from the two vehicles, he said.
