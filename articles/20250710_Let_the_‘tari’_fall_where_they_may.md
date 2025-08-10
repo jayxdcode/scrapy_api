@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM July 10, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07102025.png)
+
 Filipinos tuning in only now to the saga of the 34 missing “sabungeros” (cockfight aficionados) may be startled to learn that this case is in fact over four years old.
 
 The stories of the men who vanished seemingly overnight first emerged in tense whispers in 2021, then as sporadic news over the following weeks and months about distressed families appealing for help, and even an arrest or two of alleged suspects related to abductions and suspicious activities that could explain the strange disappearances.

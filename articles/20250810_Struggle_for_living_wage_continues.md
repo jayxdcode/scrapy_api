@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM August 10, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08102025.png)
-
 Several wage hike bills have already been filed in just over a month since the 20th Congress commenced: at least 10 in the Senate and 15 in the House of Representatives.
 
 In the previous Congress, legislators failed to ratify the measure at the last minute due to disagreement over the amount of the wage hike. The Senate proposed P100, while the House wanted P200. The measure died when both houses adjourned sine die in June without ratifying the measure, but this was the closest that the labor sector got to pushing for a legislated wage hike. The last one was in 1989, during the 8th Congress, with the passage of Republic Act No. 6727, also known as the Wage Rationalization Act.
@@ -20,7 +18,7 @@ One of the arguments against a legislated wage hike was the pressure it would pl
 
 However, the needs of the working class, especially the more than five million minimum wage earners, on whose backs the economy rolls through their hard labor, should not be neglected either. A wage hike, as the Trade Union Congress of the Philippines (TUCP) stated, will be a huge relief for them and their families.
 
-“The P200 wage bill is their only hope for a decent increase … Minimum wages were never meant to be stagnant and starvation wages even below the poverty line which is exactly what the broken system of regional wage boards has delivered for nearly four decades already—a permanent class of poor people,” said TUCP Rep. Raymond Mendoza, who was among the first to refile a wage hike proposal in this Congress.
+“The P200 wage bill is their only hope for a decent increase … Minimum wages were never meant to be stagnant and starvation wages even below the poverty line which is exactly what the broken system of regional wage boards has delivered for nearly four decades already — a permanent class of poor people,” said TUCP Rep. Raymond Mendoza, who was among the first to refile a wage hike proposal in this Congress.
 
 He said that a legislated wage increase “will correct that historic injustice and restore minimum wages nationwide as a safeguard against exploitation and a stepping stone towards the constitutional mandate of living wages for all.”
 
@@ -30,7 +28,9 @@ TUCP also cited the latest survey of the Social Weather Stations, where 49 perce
 
 TUCP criticized as “unacceptable, unfair, and unjust” what it called the measly increase of P50, or to P695 from P645, for workers in the National Capital Region (NCR) that took effect last month. “[Fifty pesos] is only one-fourth of our P200 wage hike bill and will put the NCR minimum wage only a little over half of the daily family living wage estimated by the IBON Foundation at [P1,222]. This once more is too little, too late,” Mendoza said. 
 
-Progressive lawmakers in the House, citing IBON, said the P645 minimum wage represents only 52.8 percent of the P1,222 family living wage needed in NCR, and that the new P695 rate still falls short of what families needed to survive. “This P50 increase is nothing but a band-aid solution to the worsening poverty of Filipino families,” ACT Teachers Rep. Antonio Tinio said.
+Progressive lawmakers in the House, citing IBON, said the P645 minimum wage represents only 52.8 percent of the P1,222 family living wage needed in NCR, and that the new P695 rate still falls short of what families needed to survive. 
+
+“This P50 increase is nothing but a band-aid solution to the worsening poverty of Filipino families,” ACT Teachers Rep. Antonio Tinio said.
 
 Mendoza added that it was as if the government was telling workers: “You do not deserve to provide your family a healthy meal, much less a decent life.”
 

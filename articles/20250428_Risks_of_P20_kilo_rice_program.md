@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 28, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04282025.png)
-
 Despite the criticism that greeted its announcement, the P20-a-kilo rice program to be rolled out this week initially in the Visayas is a welcome respite for consumers, particularly the poorer households grappling each day with high food prices.
 
 It was a promise of President Marcos during his 2022 campaign that was mocked by his rivals as an empty one until last week, when Agriculture Secretary Francisco Tiu Laurel Jr. unveiled it in a press conference at the Cebu provincial capitol, where the Chief Executive earlier met with governors in the region led by Gov. Gwendolyn Garcia of Cebu to discuss the program’s initial launch.
