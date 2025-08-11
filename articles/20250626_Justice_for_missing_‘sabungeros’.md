@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 26, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06262025.png)
-
 The stories first emerged in June 2022 — about how some men had gone mysteriously missing in the previous months, seemingly vanishing overnight from their families and communities.
 
 These men hailed from different parts of Luzon, but from the testimonies of family members and the occasional video footage that came out, it appeared that the men shared a common fate: They were kidnapped and taken against their will from their homes or even at public places, from thereon never to be seen again.

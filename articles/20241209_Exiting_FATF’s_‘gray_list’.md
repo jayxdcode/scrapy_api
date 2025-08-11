@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM December 09, 2024****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial12092024.png)
-
 President Marcos vowed last week to end the country’s long struggle to comply with international laws on money laundering and terrorist financing. “I know that it’s not spoken about a great deal in the public domain but nonetheless, as an obstacle to the continuing transformation of our economy … us exiting from the [gray] list is a significant move,” Mr. Marcos said during the 33rd Anti-Terrorism Regular Council Meeting in Malacañang.
 
 The President was referring to the gray list of the Paris-based watchdog Financial Action Task Force (FATF), an intergovernmental body that sets international standards against money laundering and terrorist financing. Since 2000, the Philippines has been on and off this list of countries actively working with the agency to improve their anti-money laundering and combating the financing of terrorism regimes.

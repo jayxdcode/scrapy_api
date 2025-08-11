@@ -4,6 +4,8 @@
 
 ****05:40 AM July 11, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07112025.png)
+
 The announcement last week that private hospitals will no longer accept guarantee letters, given their over P500-million receivables from government, sounds much like pulling the plug for ailing Filipinos.
 
 Barely able to make ends meet on their minimum wage, most Filipinos often fall back on guarantee letters from politicians, public officials, charity groups, and nongovernment organizations to meet the P500 cost of doctor’s consultations and confinement in private hospitals that charge from P2,500 to P3,000 a day. 
