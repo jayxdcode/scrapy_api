@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM April 11, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04112025.png)
-
 What is it about elections that bring out the toxic machismo in male candidates? By picking on those perceived to be weaker, do they think they’d look stronger and thus a better fit for the immense power that comes with an elective post?
 
 Three male politicians displayed such mindset in recent days with sexist remarks about women couched as jokes, that two of them claimed were merely meant to enliven a sluggish crowd. Someone should have warned them: The last time a cocky candidate dismissed his rival as “just a housewife,” she sent him and his family packing posthaste.

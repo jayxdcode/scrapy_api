@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM April 24, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04242025.png)
-
 For millions of Filipinos who trooped to seaports, airports, and land transport terminals across the country to spend Holy Week with their loved ones, the ordeal that accompanies this annual exodus is so familiar and expected that many are probably resigned to this sad state of affairs.
 
 Daily commuters, especially those in Metro Manila, know this punishing ordeal only too well.

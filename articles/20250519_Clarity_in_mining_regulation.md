@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 19, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05192025.png)
-
 In rejecting the 25-year moratorium on mining imposed by Occidental Mindoro and one of its municipalities in areas within their jurisdiction, the Supreme Court did not favor miners at the expense of environmentalists. It simply clarified the legal bounds of what local government units (LGUs) can do in relation to national laws.
 
 The province’s blanket prohibition on all large-scale mining activities is too broad and therefore void, said the high court decision written by Senior Associate Justice Marvic Leonen. While it agreed that the exploration, development, and utilization of mineral resources necessarily affect the environment, it pointed out that the LGU’s exercise of its powers under the Local Government Code of 1991 must be consistent with the provisions of Republic Act No. 7942 (The Philippine Mining Act of 1995), a later legislative enactment specially regulating mining. 

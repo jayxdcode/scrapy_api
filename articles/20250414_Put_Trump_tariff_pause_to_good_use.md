@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:40 AM April 14, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04142025.png)
-
 United States President Donald Trump backed down on his tariff madness and ordered last week a 90-day pause on punitive unilateral levies against dozens of countries, except for China. This somehow eased the worries of a widespread trade war plunging the global economy into a recession.
 
 While the aim of the reprieve, according to Washington officials, is to give time for the US to negotiate with many affected countries that have requested for a dialogue, it will do well for the Philippines to take stock and brace the local economy for a potential foreign trade breakdown that remains very likely.
