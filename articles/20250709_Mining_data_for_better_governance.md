@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:40 AM July 09, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07092025.png)
-
 It had often been said: Data is the new gold. But unlike the precious metal that is a finite asset, data is inexhaustible. There is an endless supply of information that can be used, reused, or repurposed to serve a myriad of purposes, such as forming the basis for the formulation of consequential government policies.
 
 Unfortunately, this valuable and abundant resource is not being maximized or put to full use by local government units, as lamented recently by Dan Bantugan, health education and promotions officer of the Bohol Provincial Health Office. Bantugan shared that the province regularly collects all kinds of information regarding health, such as the condition of local children and their mothers to identify malnutrition cases.
