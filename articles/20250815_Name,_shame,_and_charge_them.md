@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 15, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08152025.png)
-
 Firing off initial findings of his promised scrutiny of flood-control projects, President Marcos on Monday talked about a “disturbing assessment” that only 15 contractors have cornered the bulk of the country’s flood control projects.
 
 “Twenty percent of the entire P545 billion budget was awarded to only 15 contractors, five of whom have projects in almost all regions nationwide,” the President said in a press conference where he launched a website (sumbongsapangulo.ph) for monitoring flood control projects.

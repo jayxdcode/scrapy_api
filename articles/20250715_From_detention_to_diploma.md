@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 15, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07152025.png)
+
 What does justice look like behind bars?
 
 For more than 10,000 Filipinos who finished their basic education while in detention, it looks like a second chance. Or more tangibly, a place where they can still grow and learn and be seen, not as statistics or lost causes, but as regular people with potential.
