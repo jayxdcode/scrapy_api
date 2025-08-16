@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 03, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07032025.png)
-
 Even in the magic-realist world of Philippine politics, where extraordinary tales of intrigue, duplicity, and absurdity in the pursuit of power are commonplace and just about nothing shocks the electorate anymore, the case of Alice Guo, the once- and now-disqualified mayor of Bamban, Tarlac, still stood out as a stranger-than-fiction story.
 
 And why not? It had elements that seemed ripped straight from a thriller novel — mystery, danger, deception, skullduggery.

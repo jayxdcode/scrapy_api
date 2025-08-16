@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:08 AM June 10, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06102025.png)
+
 
 
 There’s trouble yet again at the Bureau of Immigration (BI). A June 2 letter sent to President Marcos by BI employees has accused Commissioner Joel Anthony Viado of corruption and misconduct, particularly for allegedly colluding with now-banned Philippine offshore gaming operators in the entry and/or deportation of illegal foreign workers.
