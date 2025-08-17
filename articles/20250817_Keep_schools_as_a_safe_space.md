@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM August 17, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08172025.png)
-
 Schools are supposed to be a safe space for students and teachers, but several incidents this month have called attention to how violence has seeped into campuses.
 
 On Aug. 4, a 34-year-old teacher at Balabagan Trade School in Lanao del Sur was fatally shot just outside the school grounds. The gunman, a Grade 11 student who received a failing grade from the teacher, later turned himself in to authorities.

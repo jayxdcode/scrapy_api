@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM June 08, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06082025.png)
-
 With a 500-percent surge in new human immunodeficiency virus or HIV cases per day, the Philippines now has the fastest-growing number of people living with HIV (PLHIV) in the Western Pacific region. This development is alarming enough to prompt the Department of Health (DOH) to urge President Marcos to declare a national public health emergency.
 
 “With a national public health emergency for HIV, every sector in the society will help to address this. The whole of society, the whole of government can help us in this campaign to reduce the number of new HIV cases,” Health Secretary Teodoro Herbosa said.

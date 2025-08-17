@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05072025.png)
-
 It is the height of irony that just as the Philippines began observing Land Transportation Safety Month, a series of fatal road mishaps occurred, including two tragic vehicular accidents that happened just days apart, claiming 12 lives, injuring dozens more, and damaging property.
 
 The video of an overseas Filipino worker crying out in anguish after a wayward SUV killed his 5-year-old daughter just moments after he kissed her goodbye at the Ninoy Aquino International Airport (Naia) were so gut-wrenching that it spurred the government to action.

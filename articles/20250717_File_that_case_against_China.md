@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 17, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07172025.png)
+
 In October 2023, Justice Secretary Jesus Crispin Remulla bared plans by the Marcos administration to sue China before an international tribunal for what Remulla said was the “innumerable and immeasurable” damage Beijing had inflicted on the Philippines’ marine resources and environment in the West Philippine Sea (WPS).
 
 The formal legal move, he added, would be “not only of the Filipino people but the rest of humanity,” and the evidence marshaled by the case would “show the abomination that China is doing to our waters.”

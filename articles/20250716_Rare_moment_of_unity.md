@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 16, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07162025.png)
-
 As is always the case, it takes some time before regulation catches up with the rapid development of technology. Online gaming, or let’s call it for what it is — gambling, is no exception.
 
 Indeed, these online gambling apps had been aggressively promoted using celebrities all over outdoor media, social media platforms, and mobile phone apps, and the entire ecosystem — including the government — has profited handsomely from their ubiquity. And by this time, stories abound of Filipinos who had fallen to the dark side of unfettered betting on online gambling apps.
