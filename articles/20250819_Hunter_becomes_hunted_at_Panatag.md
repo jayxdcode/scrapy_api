@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM August 19, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08192025.png)
-
 From Beijing’s vantage point, the events of Aug. 11 near Panatag Shoal must have seemed unthinkable. Two of its own ships collided with each other while chasing down a lone Philippine Coast Guard (PCG) vessel, leaving a number of Chinese personnel missing or presumed dead.
 
 The news wasn’t just unusual; it was unheard of. How often do we hear reports of the Chinese sustaining such losses in a maritime skirmish with Filipinos?

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 18, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07182025.png)
+
 In what could easily be the most violent maritime attacks since the Israel-Hamas conflict in October 2023, Houthi rebels in the Red Sea sank two cargo vessels early this month. A total of 38 Filipino seafarers were caught in the crossfire, with 17 of them repatriated over the weekend, and eight brought to safely in Saudi Arabia. Several more were reported missing, and at least three are feared dead.
 
 On July 6, Houthi militants using grenades, missiles, and drone boats, targeted the MV Magic Seas, whose crew included 17 Filipinos. The crew abandoned ship and were later rescued by a passing merchant vessel.
