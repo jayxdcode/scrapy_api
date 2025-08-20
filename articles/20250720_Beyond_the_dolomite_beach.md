@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:15 AM July 20, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07202025.png)
+
 The Metro Manila Development Authority (MMDA) has blamed the controversial dolomite beach project built during the Duterte administration for causing massive floods in the metropolis.
 
 The Department of Environment and Natural Resources (DENR), however, pointed out that any assessment on Metro Manila’s flooding problems should be “rooted in science-based analysis, particularly in light of changing weather patterns influenced by climate change.”
