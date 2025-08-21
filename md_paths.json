@@ -661,5 +661,11 @@
     },
     "20250820": {
         "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250820_More_eyes_on_the_national_budget.md"
+    },
+    "20250821": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250821_Sara_Duterte’s_DepEd_debacle.md"
+    },
+    "20250822": {
+        "link": "https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/articles/20250822_Rescue_and_reparation.md"
     }
 }

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 21, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07212025.png)
+
 President Marcos should have an added spring to his step these days as he prepares to deliver his fourth State of the Nation Address next week, buoyed by the hard-won improvement over the last two months of his trust rating.
 
 According to the results of the Social Weather Stations (SWS) survey released last week, 48 percent of Filipinos said they trust him and his leadership, an impressive 10-percentage point rise from the 38 percent in May. 
