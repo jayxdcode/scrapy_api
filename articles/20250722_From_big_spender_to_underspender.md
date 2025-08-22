@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 22, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07222025.png)
+
 For an agency that infamously burned through P125 million in public funds in the last 11 days of 2022, there’s no small irony in discovering that the Office of the Vice President (OVP) is now struggling to spend a much-reduced budget this year.
 
 Then again, perhaps this is only to be expected of an office whose impeached leader is unaccustomed to operating under the glare of heightened scrutiny. Still, it is disconcerting to see Vice President Sara Duterte’s office swing from one extreme of fiscal mismanagement to another, that is, from accusations of reckless, unchecked extravagance to apparent gross inefficiency due to poor absorptive capacity.

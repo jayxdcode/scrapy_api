@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 22, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08222025.png)
-
 The rescue last week of 158 minors from a childcare facility in Mexico, Pampanga, underscores once more the need for more stringent government regulations and stricter monitoring of institutions that assume custody of children in vulnerable situations.
 
 Two minors had filed complaints of child abuse against the New Life Baptist Church, a residential care facility managed by Pastor Jeremy Keith Ferguson whom, the two children claimed, “made them kneel for long periods, fed them spoiled food, and deprived them of playtime.”

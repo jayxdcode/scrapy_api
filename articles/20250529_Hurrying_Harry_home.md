@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM May 29, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05292025.png)
+
 On Monday, the Department of Justice (DOJ) filed a motion to cancel the passport of former presidential spokesperson Harry Roque, who has fled the country after being linked to illegal Philippine offshore gaming operators (Pogos). Claiming government persecution, Roque is seeking political asylum in the Netherlands.
 
 Canceling his passport will make him an undocumented alien subject to deportation, DOJ Secretary Jesus Crispin Remulla said of Roque, now the subject of an arrest warrant recently issued by a Pampanga court for qualified human trafficking, a nonbailable offense. The government will also seek Interpol assistance and use diplomatic channels to bring Roque back to face the court, Remulla added.

@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM April 15, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial04152025.png)
+
 Bravo to the “geniuses” who figured out how to weaponize the country’s emergency alert system to woo voters in the May midterm elections. These politicians, or their operators, thought they were being clever by exploiting the Emergency Cell Broadcast System (ECBS) for this never-before-seen type of campaigning.
 
 Alas, their haste and desperation for votes made them blind to the criminal nature of their newfound means of self-promotion.
