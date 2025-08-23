@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 23, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07232025.png)
+
 The shock from the defunding of the Philippine Health Insurance Corp. (PhilHealth) last year and the transfer of P89.9 billion of its “excess” funds to the national treasury has somehow subsided, and the Marcos administration seems to be making amends by allocating a subsidy of P53.26 billion to the state health insurer in the 2026 budget.
 
 According to Finance Secretary Ralph Recto, the PhilHealth subsidy next year would go to enhancing members’ benefit packages without increasing their premium contributions.
