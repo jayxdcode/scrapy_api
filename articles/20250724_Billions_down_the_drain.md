@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:08 AM July 24, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07242025.png)
-
 Just one weekend of intense rainfall, and there it was, a terribly familiar sight—Metro Manila, the country’s capital, swamped to a standstill by widespread flooding.
 
 The rains, brought by the southwest monsoon or “habagat,” inundated streets and neighborhoods sometimes to chest-deep levels, with over 500 areas in the metro getting hit by floods, according to the Metro Manila Development Authority (MMDA).
