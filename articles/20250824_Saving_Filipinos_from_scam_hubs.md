@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM August 24, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08242025.png)
-
 Many Filipinos, the majority of them poor and desperate, have fallen victim to human trafficking schemes for decades. From laborers to domestic and entertainment workers, the jobs have evolved with the times. Today, hundreds who are trafficked, lured by the prospect of high salaries and better lives, end up working in scam hubs in neighboring Southeast Asian countries.
 
 Since the beginning of 2025, the government has repatriated 695 human trafficking victims, mostly from Cambodia, Laos, Myanmar, and Thailand. The biggest net was in March when 206 Filipinos were rescued in two batches from Myanmar. The victims were recruited through social media apps to work as call center agents and marketing officers in Thailand, only to end up in scam hubs in Myawaddy, Myanmar.
