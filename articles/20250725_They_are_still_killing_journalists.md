@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:08 AM July 25, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07252025.png)
+
 Erwin Segovia — Screengrab from Facebook Live video of 98.1 Barangay Radio
 
 

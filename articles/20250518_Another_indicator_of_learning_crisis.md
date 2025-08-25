@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM May 18, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05182025.png)
-
 The dismal passing rate of the latest civil service exams provides another angle to the gravity of the country’s worsening learning crisis.
 
 The Civil Service Commission (CSC) announced this week that 46,470 individuals, or 14.57 percent of the total examinees, passed the Career Service Examination–Pen and Paper Test (CSE-PPT) held in March. This is hardly a significant improvement from the 14.40 percent passing rate in the August 2024 exams.
