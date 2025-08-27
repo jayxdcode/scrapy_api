@@ -8,11 +8,11 @@
 
 The World Economic Forum predicted in its “Future of Jobs Report 2025” that 170 million new jobs will be created this decade due mainly to technological advancements, the green transition, and economic and demographic shifts sweeping the globe.
 
-But then, 92 million jobs—from clerks to accountants, graphic artists, and security guards, bank tellers and bookkeepers—will be displaced by these same trends that are reshaping the workplace.
+But then, 92 million jobs — from clerks to accountants, graphic artists, and security guards, bank tellers and bookkeepers — will be displaced by these same trends that are reshaping the workplace.
 
-While the figures do mean that there will be a net employment increase of 78 million jobs globally, chances are unfortunately high that there will be more reductions than additions in countries like the Philippines, where the current skills of the labor force may be grossly inadequate to cope with the evolving demands of future employers thus shutting them out of the job market.
+While the figures do mean that there will be a net employment increase of 78 million jobs globally, chances are unfortunately high that there will be more reductions than additions in countries like the Philippines, where the current skills of the labor force may be grossly inadequate to cope with the evolving demands of future employers, thus shutting them out of the job market.
 
-The Philippine Business for Education lamented the education crisis that will continue to worsen unless drastic steps are taken. “Our graduates cannot find jobs, while industries cannot also find the right talent—so this paradox continues to define our education and labor landscape. The gap between what our schools use and what our employers need is growing even wider,” said PBEd executive director Hanibal Camua.
+The Philippine Business for Education lamented the education crisis that will continue to worsen unless drastic steps are taken. “Our graduates cannot find jobs, while industries cannot also find the right talent — so this paradox continues to define our education and labor landscape. The gap between what our schools use and what our employers need is growing even wider,” said PBEd executive director Hanibal Camua.
 
 ## Systemic issues
 

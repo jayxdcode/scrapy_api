@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM July 06, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07062025.png)
-
 A new study has given the country another compelling reason to protect the West Philippine Sea (WPS) and Benham Bank from China’s aggression. These two areas, as the paper revealed, host a wide variety of soft coral species. But researchers said that many of the resources found there are likely still undiscovered.
 
 The study, “Biodiversity and biogeography of zooxanthellate soft corals across the Indo-Pacific,” pooled specimens from over 40 countries and territories spanning from 1998 to 2023. It was published in Nature Scientific Reports last May.
