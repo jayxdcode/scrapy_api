@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 25, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06252025.png)
-
 
 
 On Sunday, seven B-2 stealth fighters took off from Missouri and dropped multiple “bunker buster” precision bombs on three key Iranian nuclear facilities under Operation Midnight Hammer, thrusting superpower United States smack in the middle of the escalating Israel-Iran conflict.

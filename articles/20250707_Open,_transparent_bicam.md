@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:40 AM July 07, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07072025.png)
-
 Legislators of all political stripes and from both chambers of Congress coming together to push for a common cause is about as rare as a total solar eclipse. And yet this phenomenon seems to be happening as legislators from the majority and minority parties as well as party-list groups have come out in vocal support of opening the “secret” congressional bicameral conference committee hearings to public access and scrutiny.
 
 The “#OpenBicam” campaign is indeed gaining momentum and the Filipino public must keep up the pressure on the Senate and the House to conduct the bicam deliberations out in the open, especially as the incoming 20th Congress prepares to tackle vital pieces of legislation, including the 2026 national budget, when it begins sessions later this month.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 16, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06162025.png)
-
 In another sign of the international community’s approval of the country’s measures against financial crimes, the European Commission (EC) has removed the Philippines from its list of jurisdictions with a “high risk” of money laundering and terrorism financing.
 
 The decision, which is subject to review by the European Parliament and Council, is expected to boost the country’s international reputation in the fight against dirty money and ease access to European financial services.

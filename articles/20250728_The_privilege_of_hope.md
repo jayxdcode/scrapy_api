@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 28, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07282025.png)
+
 With three years behind him and three more to go, President Marcos is at the critical midpoint of his presidency. Thanks to better optics and messaging, his trust rating is climbing, but so, too, are the public’s expectations, especially when it comes to such gut issues as inflation, wages and hunger.
 
 As he delivers his fourth State of the Nation Address (Sona) today, the top question on every citizen’s mind is whether this administration can move beyond PR stunts, like sporadic P20 rice distributions or post-disaster photo-ops, and offer systemic, sustainable reforms that directly address the bread-and-butter — or rice-and-salt — concerns of Filipinos.

@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:07 AM June 19, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06192025.png)
-
 There they go again, attempting a last-minute legislative sleight of hand that would dribble to a later date a crucial electoral exercise, despite the Supreme Court having definitively disallowed such practice.
 
 But politicians are nothing if not tenacious when it comes to ways that would allow them to further fortify their hold on their bailiwicks and strongholds. And so among the flurry of “midnight” legislation coughed up by the outgoing 19th Congress and now awaiting signature on President Marcos’ desk is a consolidated bill seeking the postponement of the barangay and Sangguniang Kabataan (BSK) elections set for Dec. 1 this year.

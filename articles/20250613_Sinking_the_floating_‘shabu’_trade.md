@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM June 13, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06132025.png)
-
 It’s a bountiful catch that Filipino fisherfolk can certainly do without, and a fishy development that bodes ill for the country’s anti-drug operations. In the last two weeks, fishermen in the waters off Pangasinan and Ilocos have retrieved scores of floating “shabu” whose aggregate value has reached P4.3 billion, according to the Philippine Coast Guard (PCG). 
 
 This does not include more contraband likely still drifting northward, the PCG said. The Philippine National Police meanwhile put at P9 billion the floating sacks of shabu turned over by fisherfolk to authorities.

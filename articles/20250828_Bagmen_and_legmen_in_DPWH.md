@@ -16,17 +16,21 @@ Leviste would prove to be made of sterner stuff. The neophyte congressman, befor
 
 ## Blatant bribery attempt
 
-The money was one thing; the sheer casual brazenness with which Calalo and his backers had made their offer was another. The implication was that they had expected Leviste to be merely another fresh, eager-beaver lawmaker ready for the taking. Many others had likely succumbed before to such an offer, dazzled by the enormity of the easy money being dangled by the contractors, so Calalo had reason to be cocky and confident—except this time he and his cohorts failed to do their due diligence, so to speak, and disastrously misjudged their target.
+The money was one thing; the sheer casual brazenness with which Calalo and his backers had made their offer was another. The implication was that they had expected Leviste to be merely another fresh, eager-beaver lawmaker ready for the taking. 
 
-So who are these contractors that must be made to answer for the blatant bribery attempt—in particular, for violation of Article 212 of the Revised Penal Code (corruption of public officials) and Republic Act No. 3019, or the Anti-Graft and Corrupt Practices Act?
+Many others had likely succumbed before to such an offer, dazzled by the enormity of the easy money being dangled by the contractors, so Calalo had reason to be cocky and confident — except this time he and his cohorts failed to do their due diligence, so to speak, and disastrously misjudged their target.
+
+So who are these contractors that must be made to answer for the blatant bribery attempt — in particular, for violation of Article 212 of the Revised Penal Code (corruption of public officials) and Republic Act No. 3019, or the Anti-Graft and Corrupt Practices Act?
 
 Leviste has refused to divulge their names for now, only saying that these businessmen had “cornered the lion’s share of the projects” in Batangas’ first district. That should make it easy to identify them soon enough, and to throw the book at them and to blacklist their companies from government projects.
 
 ## Mind-boggling corruption
 
-But is anyone ever holding his or her breath that that will happen? Stories of mind-boggling corruption in government are old hat, and this year it’s become the outrage of the hour only because of one big push. President Marcos apparently needed a legacy project with which to burnish the last three years of his administration following the drubbing he got in the 2025 midterm elections, and so he zeroed in on failed or even nonexistent graft-ridden flood-control projects in his last State of the Nation Address and dressed down those responsible for them with his “Mahiya naman kayo! (Shame on you!)” outcry—never mind that his audience consisted of many lawmakers who have their own fingers dipped in the same dirty pie.
+But is anyone ever holding his or her breath that that will happen? Stories of mind-boggling corruption in government are old hat, and this year it’s become the outrage of the hour only because of one big push. 
 
-Contractors have been rightly excoriated by the public for the scores of shoddy projects that have cost staggering sums over the years—some P1 trillion in losses to anomalous flood-control projects alone, according to Sen. Panfilo Lacson—and contractors Sarah and Curlee Discaya, for one, who have become the personification of corruption in the sector with their shameless display of high-end cars and other markers of astonishing wealth.
+President Marcos apparently needed a legacy project with which to burnish the last three years of his administration following the drubbing he got in the 2025 midterm elections, and so he zeroed in on failed or even nonexistent graft-ridden flood-control projects in his last State of the Nation Address and dressed down those responsible for them with his “Mahiya naman kayo! (Shame on you!)” outcry — never mind that his audience consisted of many lawmakers who have their own fingers dipped in the same dirty pie.
+
+Contractors have been rightly excoriated by the public for the scores of shoddy projects that have cost staggering sums over the years — some P1 trillion in losses to anomalous flood-control projects alone, according to Sen. Panfilo Lacson — and contractors Sarah and Curlee Discaya, for one, who have become the personification of corruption in the sector with their shameless display of high-end cars and other markers of astonishing wealth.
 
 ## Shadowy trifecta
 
@@ -34,4 +38,4 @@ But the Calalo episode provides a fuller picture of the shadowy trifecta behind 
 
 Lacson hit it right in the head when he said that the DPWH’s district officials have become the “bagmen” and “legmen” of powerful, influential contractors. Without these accomplices and enablers inside government, third-party contractors would be hard-pressed to advance their schemes.
 
-The Leviste bribery attempt underscores how the rot is above all from within—from the unholy alliance of bureaucrat and politico as starting ground. While Mr. Marcos has fulminated against crooks in the private sector, clearly, he also needs to sweep the Augean stables in his own backyard.
+The Leviste bribery attempt underscores how the rot is above all from within — from the unholy alliance of bureaucrat and politico as the starting ground. While Mr. Marcos has fulminated against crooks in the private sector, clearly, he also needs to sweep the Augean stables in his own backyard.

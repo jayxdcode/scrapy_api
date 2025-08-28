@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:40 AM July 08, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07082025.png)
-
 On the surface, Beijing’s sanctions on former senator Francis Tolentino appear to be just petty retaliation for old slights. That it comes on the heels of Tolentino’s defeat in the May midterm elections hints at a bit of schadenfreude, as well — as though China was twisting the knife on one of its fiercest critics in Manila.
 
 But to dismiss the sanctions as mere spite is to underestimate, gravely, how China operates against its perceived adversaries. A deeper look suggests something more sinister: a warning to all Filipino leaders who dare assert the country’s sovereign rights.
