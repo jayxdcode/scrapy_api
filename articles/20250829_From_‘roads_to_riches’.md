@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:15 AM August 29, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08292025.png)
-
 It would have made for a legitimate rags to riches story: Sarah Discaya, daughter of a hotel chambermaid and waiter in London, starts out as a receptionist, rises up the corporate ladder, and now heads several thriving businesses in the country.
 
 Except for one very telling line in that infamous interview in September last year when broadcast journalist Julius Babao asked Discaya what “gateway” allowed them entry into such rarefied world. She replied: “Nung nag-DPWH kami (When we got contracts with the Department of Public Works and Highways).” Forthwith, she showed the awestruck host some 40 luxury vehicles just for their “personal use.”

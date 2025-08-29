@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM July 27, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07272025.png)
+
 There is always a time for everything, including when to make jokes. But in the middle of a storm is not one of those times. By this time, Interior Secretary Jonvic Remulla had learned a lesson, hopefully, to no longer announce class suspensions in a lighthearted manner.
 
 But there’s still something to be said about his lack of formality expected of a government official issuing disaster-related information in a trivial manner. It was not only inappropriate and in poor taste, but also very tone-deaf given the widespread catastrophe brought about by a series of tropical cyclones and the southwest monsoon rains (“habagat”). The inclement weather would eventually affect 3.8 million people and leave at least 25 dead. Damage to infrastructure has been estimated at P3.98 billion, while damage to agriculture is at P366.9 million.
