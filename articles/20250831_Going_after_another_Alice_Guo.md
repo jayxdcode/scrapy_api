@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:03 AM August 31, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08312025.png)
-
 They must really think the Philippines is a big joke and that one can easily get away with fraud. First, there was Alice Guo, aka Guo Hua Ping, who had claimed she grew up on a farm and would later run—and win—as mayor of Bamban, Tarlac. Guo was unmasked for her links to illegal Philippine offshore gaming operators involved in criminal activities including human smuggling, cyber crimes, and even spying for China.
 
 As if the entire caper that put to shame many government agencies caught in Guo’s web of deception was not enough, another similar case emerged last week. Sen. Risa Hontiveros, who had exposed Guo’s case through a Senate hearing, sounded the alarm on Joseph Sy, a mining executive, who has allegedly acquired fraudulent Philippine citizenship.

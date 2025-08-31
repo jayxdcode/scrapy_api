@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM July 31, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07312025.png)
+
 As State of the Nation Addresses (Sona) went, President Marcos’ fourth stab at it was a marked departure from the usual in one respect: tone.
 
 While the inflated rhetoric, bombastic promises, and flood of metrics typically expected from this once-a-year political ritual were still there, what stuck out was something else—Mr. Marcos’ seemingly more candid and modest demeanor.
