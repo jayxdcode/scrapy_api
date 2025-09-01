@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 06, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08062025.png)
+
 The Department of Budget and Management is scheduled to submit to Congress next week the National Expenditure Program or the “President’s Budget” for 2026 that will run up to P6.793 trillion, thus kicking off the annual grueling and time-bound exercise that promises, however, to be radically different this year.
 
 Stung by charges that Congress — which has the sole power of the purse under the Constitution — had mangled the 2025 budget because of last-minute earmarks or insertions passed by the bicameral conference committee, some members of the 20th Congress are determined to make the budget approval process more transparent and inclusive, thus preventing a repeat of previous blunders.

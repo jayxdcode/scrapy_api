@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM July 30, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial07302025.png)
-
 After months of grueling negotiations by his trade team, President Marcos came back last week from his face-to-face meeting with United States President Donald Trump at the White House with a 19-percent tariff on Philippine exports to the US.
 
 It was lower than the 20 percent announced earlier this month but higher than the original 17 percent “reciprocal tariff” announced during Trump’s “Liberation Day” in April that was supposed to finally take effect on Aug. 1.

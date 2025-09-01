@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 05, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05052025.png)
+
 Given the disruption to global trade caused by US President Donald Trump’s unilateral tariffs on dozens of countries it trades with, the two-day visit of Japanese Prime Minister Ishiba Shigeru last week on the invitation of President Marcos presents an opportunity for the Philippines to look to Tokyo, not only for defense and regional security, but for enhanced trade and economic partnership as well.
 
 Our East Asian neighbor, for instance, has promised to help the government reach the elusive goal of hitting the upper middle-income status that has the potential of attracting more foreign investments. After a bilateral meeting between the two leaders, Ishiba announced that Japan is ready to assist the Philippines achieve this through a range of cooperation activities. Ishiba said that he had conveyed to Mr. Marcos that Japan will cooperate with the Philippines and make use of “uniquely Japanese strengths” for the country to aim for this upper middle-income status, citing a package of cooperation covering telecommunications, the Azec (Asian Zero Emission Community) plan, energy, mineral resources, infrastructure, and disaster risk reduction, among others.

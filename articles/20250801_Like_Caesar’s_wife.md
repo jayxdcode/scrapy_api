@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 01, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08012025.png)
+
 They might have been absent when the concept of the blindfolded Lady Justice was taught in law school, but surely the prosecutors who had challenged the dismissal of drug charges against Mamamayang Liberal Party list Rep. Leila de Lima would have known about it through their years in government service.
 
 But instead of dispensing justice fairly and impartially — eyes blinkered to avoid external factors apart from evidence from clouding its judgment — the prosecution panel was apparently moved by political loyalty and not legal precepts.

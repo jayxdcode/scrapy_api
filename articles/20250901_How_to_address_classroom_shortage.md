@@ -4,11 +4,13 @@
 
 ****Philippine Daily Inquirer / 05:35 AM September 01, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial09012025.png)
+As far back as the 1990s, the government has acknowledged the lack of classrooms that forced schools to adopt double or triple class shifts to accommodate the overflow of students. Compounding the problem was a shortage of teachers and nonteaching personnel and the inadequate compensation for those in the learning sector. 
 
-As far back as the 1990s, the government has acknowledged the lack of classrooms that forced schools to adopt double or triple class shifts to accommodate the overflow of students. Compounding the problem was a shortage of teachers and nonteaching personnel and the inadequate compensation for those in the learning sector. The effect of this neglect is the deterioration in the quality of education through the years to a point that the World Bank reported in 2024 a 91-percent “learning poverty” rate in the Philippines, which means nine out of 10 children who are 10 years old are unable to read and understand a simple, age-appropriate text.
+The effect of this neglect is the deterioration in the quality of education through the years to a point that the World Bank reported in 2024 a 91-percent “learning poverty” rate in the Philippines, which means nine out of 10 children who are 10 years old are unable to read and understand a simple, age-appropriate text.
 
-As of 2025, the Department of Education (DepEd) estimated a backlog of 165,000 classrooms, caused mainly by population growth and slow, inefficient classroom construction by the government. This is more than double the 66,800 classrooms it reported in 2010. At a hearing of the Second Congressional Commission on Education (EdCom II) last month, two problems stood out in the building of classrooms—the varying costs to build one and the long time it takes for national agencies to construct them.
+As of 2025, the Department of Education (DepEd) estimated a backlog of 165,000 classrooms, caused mainly by population growth and slow, inefficient classroom construction by the government. This is more than double the 66,800 classrooms it reported in 2010. 
+
+At a hearing of the Second Congressional Commission on Education (EdCom II) last month, two problems stood out in the building of classrooms—the varying costs to build one and the long time it takes for national agencies to construct them.
 
 According to the DepEd, building a classroom costs about P2.5 million, but the Department of Public Works and Highways (DPWH) put the price at P3.5 million or higher.
 
@@ -18,13 +20,17 @@ Sen. Bam Aquino, Edcom II cochair and chair of the Senate basic education commit
 
 During the hearing, Aquino also brought up the time needed to complete a classroom, wherein local government unit (LGU) PPPs would take less than a year, while national government agencies would need years to complete publicly funded projects.
 
-Sen. Win Gatchalian, during a hearing on school infrastructure on Oct. 10 last year, summed up the classroom backlog problem: Red tape and bureaucracy that required too much paperwork and the lack of coordination between DepEd and DPWH. The discussion also highlighted the persistent underutilization of the Basic Education Facilities Fund, which has severely delayed critical school infrastructure projects across the country. This caused appropriations for the BEFF to steadily decline from a peak of P118 billion in 2017 to only P5.95 billion in 2022.
+Sen. Win Gatchalian, during a hearing on school infrastructure on Oct. 10 last year, summed up the classroom backlog problem: Red tape and bureaucracy that required too much paperwork and the lack of coordination between DepEd and DPWH. 
+
+The discussion also highlighted the persistent underutilization of the Basic Education Facilities Fund, which has severely delayed critical school infrastructure projects across the country. This caused appropriations for the BEFF to steadily decline from a peak of P118 billion in 2017 to only P5.95 billion in 2022.
 
 ## Multilateral grants
 
 As a result, a Commission on Audit report noted that only 192 out of the target 6,379 classrooms slated for completion in 2023 were built. Last year, only 847 classrooms were constructed.
 
-Making matters worse is the report of EdCom II executive director Karol Mark Yee that only 30 percent of the country’s 323,378 school buildings are currently in good condition. With the huge backlog in classrooms, the government now needs to craft a well-coordinated action plan to build cost-effective classrooms in the shortest possible time. One way is for the government to leverage the expertise and resources of the private sector and this can be done through PPPs, development partnerships with civic organizations, and multilateral grants from foreign donors.
+Making matters worse is the report of EdCom II executive director Karol Mark Yee that only 30 percent of the country’s 323,378 school buildings are currently in good condition. With the huge backlog in classrooms, the government now needs to craft a well-coordinated action plan to build cost-effective classrooms in the shortest possible time. 
+
+One way is for the government to leverage the expertise and resources of the private sector, and this can be done through PPPs, development partnerships with civic organizations, and multilateral grants from foreign donors.
 
 The President can also certify as urgent Senate Bill No. 121, or the proposed Classroom-Building Acceleration Program Act, which was filed by Aquino to solve the decades-old problem. Under the proposed legislation, LGUs and private entities will be authorized to build classrooms, but the funding and all other support must come from the national government.
 
@@ -36,4 +42,4 @@ The government, however, needs first to have a master plan for classroom constru
 
 At the same time, it is also imperative for the government to build permanent evacuation centers to address the problem of public schools becoming one during calamities.
 
-As Aquino has warned, “if we cannot find a solution to the classroom backlog, we’re looking at not just years but decades—possibly more than five presidents will pass before we can address this shortage—if we don’t act quickly and give it the proper attention.”
+As Aquino has warned, “if we cannot find a solution to the classroom backlog, we’re looking at not just years but decades — possibly more than five presidents will pass before we can address this shortage—if we don’t act quickly and give it the proper attention.”
