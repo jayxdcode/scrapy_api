@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 04:35 AM May 20, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial05202025.png)
-
 Buoyed by deceptively optimistic surveys, the government expected the 2025 midterm elections to be a showcase of its strength. Instead, they became a portent of its vulnerability. Now, President Marcos’ administration faces the humiliating prospect of being a lame duck three years too early.
 
 How did it come to this?

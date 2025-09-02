@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:07 AM August 27, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08272025.png)
+
 The World Economic Forum predicted in its “Future of Jobs Report 2025” that 170 million new jobs will be created this decade due mainly to technological advancements, the green transition, and economic and demographic shifts sweeping the globe.
 
 But then, 92 million jobs — from clerks to accountants, graphic artists, and security guards, bank tellers and bookkeepers — will be displaced by these same trends that are reshaping the workplace.

@@ -44,4 +44,4 @@ Congress must take action, not with another pointless or perfunctory hearing, bu
 
 It is only when Burgos, Salaveria, Jazmines and their fellow disappeared are found, when their families no longer have to mark birthdays in absentia or file petitions that gather dust, that the promise of RA 10353 can begin to achieve its purpose.
 
-The government must not allow their names to fade into obscurity. To that end, the task ahead is difficult yet simple—to unearth the circumstances behind the victims’ abductions, however heinous, and unmask their captors, however powerful. Closure will come only when truth is uncovered and the perpetrators, long protected by delay and denial, are made to face justice.
+The government must not allow their names to fade into obscurity. To that end, the task ahead is difficult yet simple — to unearth the circumstances behind the victims’ abductions, however heinous, and unmask their captors, however powerful. Closure will come only when truth is uncovered and the perpetrators, long protected by delay and denial, are made to face justice.
