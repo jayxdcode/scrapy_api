@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:40 AM August 04, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08042025.png)
+
 President Marcos vowed during his fourth State of the Nation Address (Sona) to build at least 40,000 new public school classrooms before he steps down from office in 2028, an ambitious but critical goal that if accomplished will shape his legacy and help ensure that history will look back kindly on his administration.
 
 Mr. Marcos made the commitment in acknowledgment of the “pitiful” situation that public school students are in, with classrooms packed with students beyond the maximum of 50, thus affecting their ability to learn and their teachers’ ability to effectively impart their lessons.

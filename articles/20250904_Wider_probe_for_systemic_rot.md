@@ -4,7 +4,7 @@
 
 ****Philippine Daily Inquirer / 05:07 AM September 04, 2025****
 
-Lost amid the bedlam opening of the Senate Blue Ribbon probe into anomalous flood-control projects—when certain senators took crucial time away from actually ferreting out the truth with their performative antics and sanctimonious handwashing—was an important development in the issue of the hour: President Marcos has agreed to form an independent commission to look into the public-works irregularities.
+Lost amid the bedlam opening of the Senate Blue Ribbon probe into anomalous flood-control projects — when certain senators took crucial time away from actually ferreting out the truth with their performative antics and sanctimonious handwashing — was an important development in the issue of the hour: President Marcos has agreed to form an independent commission to look into the public-works irregularities.
 
 This is an important concession, and one that the public and various quarters have rightfully demanded if only to ensure that any investigation would be fair, thorough, and impartial. Short of that, and any touted probe would be seen as compromised and a distraction from any real drive for accountability.
 
@@ -30,7 +30,7 @@ Did that ballooning budget manifest itself in fewer floods, better flood-control
 
 ## Heinous levels
 
-Perhaps the biggest flood-control allocation for one district also happened under the Duterte administration. In the last three years of the former president’s term, the family stronghold of Davao City—represented in Congress by his son, Paolo Duterte—received P51 billion solely for purported flood control programs. Not only was the amount staggering, but the yearly allocations were way more than what was originally proposed in the national budget. For 2020, for instance, the city requested P4.7 billion for flood control; the approved General Appropriations Act, however, jacked up that amount to P13.7 billion.
+Perhaps the biggest flood-control allocation for one district also happened under the Duterte administration. In the last three years of the former president’s term, the family stronghold of Davao City — represented in Congress by his son, Paolo Duterte — received P51 billion solely for purported flood control programs. Not only was the amount staggering, but the yearly allocations were way more than what was originally proposed in the national budget. For 2020, for instance, the city requested P4.7 billion for flood control; the approved General Appropriations Act, however, jacked up that amount to P13.7 billion.
 
 Thievery built on such profligacy has only grown to heinous levels. Between 2023 and 2025, corruption in flood control projects has drained the economy of P42.3 billion to P118.4 billion, according to the Department of Finance. Without such irregularities, the country’s economic growth might have reached 6 percent, while the losses could have otherwise generated 95,000 to 266,000 jobs over the same period, it said.
 
