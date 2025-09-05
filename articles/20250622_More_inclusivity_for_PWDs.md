@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:03 AM June 22, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial06222025.png)
+
 The number of persons with disability (PWDs) in the country has grown by 35 percent from over 1.8 million in June 2024 to more than 2.5 million as of June, according to the latest data from the National Council for Disability Affairs (NCDA). Of this number, the NCDA said, 827,189 or about one in three PWDs had physical disabilities. It is estimated that 70 to 80 percent of disabilities are invisible and, therefore, not immediately apparent.
 
 Unfortunately, these “hidden” disabilities have also led to a lot of misunderstandings, biases, stereotypes, and negative perceptions—an indication that there is still very little understanding of PWDs that can manifest in how they are treated, not only by the general public but by establishments. This is not to invalidate legitimate concerns, such as the abuse of PWD privileges or the use of fake IDs by scammers. Relevant agencies must address these issues because they contribute to the negative perception of PWDs.

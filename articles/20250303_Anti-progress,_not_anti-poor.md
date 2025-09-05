@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 04:35 AM March 03, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03032025.png)
+
 In one of his first official acts as secretary of the Department of Transportation (DOTr), Vivencio “Vince” Dizon ordered the Toll Regulatory Board (TRB) to suspend the implementation of cashless toll collection on major expressways that would have started this month. 
 
 He said he had already informed toll operators that the plan to go fully cashless on March 15 would not push through, “and we are not going cashless for the foreseeable future.”
