@@ -4,6 +4,8 @@
 
 ****Philippine Daily Inquirer / 05:05 AM March 06, 2025****
 
+![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial03062025.png)
+
 Of all previous violators of the exclusive use of the Edsa busway, the police convoy reportedly carrying the chief of the Philippine National Police takes the cake. How can the country’s top law enforcement agency show such callous disregard for traffic rules meant to ease traffic woes among commuters using public buses? With the PNP’s brazen sense of entitlement — and display of ignorance — how can other motorists be faulted for similarly flouting the law?
 
 Last week, operatives of the Department of Transportation’s (DOTr) special action flagged down two sport utility vehicles escorted by Highway Patrol Group motorcycles at the northbound lane of the busway’s Ortigas section. A police officer said they were with PNP chief Gen. Rommel Marbil, and insisted that the convoy was allowed to use the busway reserved exclusively for the highest officials of the land. A cop later returned to get the ticket for the violation.
