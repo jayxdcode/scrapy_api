@@ -4,8 +4,6 @@
 
 ****Philippine Daily Inquirer / 05:35 AM August 05, 2025****
 
-![Image](https://raw.githubusercontent.com/github-jl14/scrapy_api/refs/heads/main/images/editorial08052025.png)
-
 Two Sundays ago, Gen. Nicolas Torre III taught Filipinos a crash course on “How to Deal with Bullies 101.” Too bad his student, acting Davao City Mayor Sebastian “Baste” Duterte, skipped class and flew off to Singapore instead.
 
 Even so, the big lesson imparted by the chief of the Philippine National Police wasn’t lost on the drama-loving public, and it’s one that political leaders would be foolish to ignore: You don’t have to take the high road when dealing with a Duterte — you only have to call their bluff.
